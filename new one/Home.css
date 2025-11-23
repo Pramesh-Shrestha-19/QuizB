@@ -1,0 +1,437 @@
+/*
+References:
+Holographic/Hover effects: https://prismic.io/blog/css-hover-effects
+
+*/
+
+
+
+#body,html{
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#header{
+    background-color: #FFD700;
+    width: 100%;
+    height: 7.5vh;
+
+}
+
+#logo{
+    position: absolute;
+    top: 3px;
+    left: 80px;
+}
+
+#navigation{
+  position: absolute;
+  top: 35px;
+  right: 40px;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  gap: 25px;                    
+}
+
+#navigation a {
+  display: inline-block;
+  cursor: pointer;
+  font-family: 'Poppins', sans-serif;
+  font-size: 22px;
+  color: black;
+  text-decoration: none;
+}
+
+#navigation img {
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+}
+
+#Welcome_and_start{
+    width: 100%;
+    height: 18.5vh;
+    top: 15vh;
+}
+
+#Welcome_and_start p{
+    font-weight: bolder;
+    line-height: 1.5;
+}
+
+#Start_button{
+    background-color: #FFD700;
+    text-decoration-color: black;
+    border-radius: 12px;
+    padding: 12px 28px; 
+    font-size: 22px; 
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+#Start_button:hover {
+  box-shadow: 0 0 15px rgba(255, 215, 0, 0.8);
+  transform: scale(1.05);
+  transition: all 0.3s ease;
+}
+
+#featured-quizzes{
+    width: 100%;
+    top: 47vh;
+    position: absolute;
+}
+
+#sections{
+    display: inline-flex;
+    width: 100%;
+    top: 60vh;
+    position: absolute;
+    justify-content: center;
+    gap: 20px; 
+}
+
+.section {
+  border-radius: 15px;
+  flex-direction: column; 
+  align-items: center;
+  background-color: #111;
+  height: 180px;
+  width: 450px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.5s ease;                                /*tansition format: transition: property duration timing-function delay; */
+  border: 1px solid rgba(255, 215, 0, 0.3);               /*Eg: tansition: width 0.5 ease-in 0.1, background-color 0.5s linear;   */
+}
+
+.section::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    0deg,
+    transparent,
+    transparent 30%,
+    rgba(255, 215, 0, 0.3)
+  );
+  transform: rotate(-45deg);
+  transition: all 0.5s ease;
+  opacity: 0;
+}
+
+.section:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 25px rgba(255, 215, 0, 0.6);          /* Creates the glowing shimmer effect */
+  border-color: rgba(255, 215, 0, 0.8);
+}
+
+.section:hover::before {
+  opacity: 1;
+  transform: rotate(-45deg) translateY(100%);
+}
+
+.Play_button:hover {
+  box-shadow: 0 0 15px rgba(255, 215, 0, 0.8);
+  transform: scale(1.05);
+  transition: all 0.3s ease;
+}
+
+.Play_button{
+    background-color: #FFD700;
+    text-decoration-color: black;
+    border-radius: 12px;
+    padding: 12px 28px; 
+    font-size: 16px; 
+    font-style: bold;
+    cursor: pointer;
+    border: none;
+}
+
+#footer{
+    width: 100%;
+    top: 103vh;
+    height: 10vh;
+    background-color: rgb(31, 31, 31);
+    position: absolute;
+}
+
+#footer p{
+    color: rgb(162, 162, 162);
+}
+
+#footer a{
+    color: rgb(162, 162, 162);
+    cursor: pointer;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+  color: #000000;
+  text-decoration: none;
+}
+
+/* Modal Background (Login box)*/
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(5px);
+    background-color: rgba(0,0,0,0.7);
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: rgba(17,17,17,0.95);
+    border: 2px solid #FFD700;
+    border-radius: 20px;
+    padding: 2rem 3rem;
+    max-width: 400px;
+    width: 100%;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0 0 15px #FFD700, 0 0 30px #FFD70033;
+    transition: box-shadow 0.3s ease;
+}
+
+.modal-content:hover {
+    box-shadow: 0 0 25px #FFD700, 0 0 50px #FFD70055;
+}
+
+/* Close button */
+.modal .close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #FFD700;
+    transition: color 0.3s ease;
+}
+
+.modal .close:hover {
+    color: #FFF9D1;
+}
+
+/* Heading */
+.modal-content h1 {
+    color: #FFD700;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+/* Input box container */
+.modal-content .inputbox {
+    position: relative;
+    width: 100%;
+    margin-bottom: 50px;
+    border-bottom: 2px solid #FFD700;
+}
+
+/* Inputs */
+.modal-content .inputbox input {
+    width: 100%;
+    height: 60px;
+    padding: 0 35px 0 5px;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+    background-color: transparent !important;                                       /* !important has higher priority and over write al other effects  so to ensure the backgorund remains transparent we use it. */
+    color: #fff;
+
+    /* Chrome/Edge/Safari autofill fix */
+    -webkit-box-shadow: 0 0 0px 1000px rgba(17,17,17,0.95) inset !important;
+    -webkit-text-fill-color: #fff !important;
+    transition: background-color 5000s ease-in-out 0s;
+
+    /* Firefox autofill fix */
+    box-shadow: 0 0 0px 1000px rgba(17,17,17,0.95) inset !important;
+    -moz-text-fill-color: #fff !important;
+}
+
+/* Floating labels */
+.modal-content .inputbox label {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+    color: #FFF9D1;
+    font-size: 1rem;
+    pointer-events: none;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Move the labels (password,username) up on hover or selection. */
+.modal-content .inputbox input:focus ~ label,
+.modal-content .inputbox input:valid ~ label {
+    top: -25px;
+    font-size: 0.85rem;
+}
+
+/* Icons */
+.modal-content .inputbox ion-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #FFD700;
+    pointer-events: none;
+    z-index: 2;
+    transition: opacity 0.3s ease;
+}
+
+/* Forget password & Remember Me */
+.modal-content .forget {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 30px 0;
+}
+
+.modal-content .forget label {
+    color: #CCCCCC;
+    font-weight: 500;
+    font-size: 0.95rem;
+}
+
+.modal-content .forget a {
+    color: #FFF9D1;
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+}
+
+.modal-content .forget a:hover {
+    color: #FFD700;
+    text-decoration: underline;
+}
+
+/* Submit button */
+.modal-content button {
+    width: 100%;
+    height: 45px;
+    border-radius: 40px;
+    background-color: #FFD700;
+    color: black;
+    border: none;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.modal-content button:hover {
+    background-color: black;
+    color: #FFD700;
+    border: 2px solid #FFD700;
+}
+
+/* Register text */
+.modal-content .register {
+    font-size: 0.95rem;
+    text-align: center;
+    margin: 25px 0 10px;
+    color: #FFF9D1;
+}
+
+.modal-content .register a {
+    color: #FFF9D1;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.modal-content .register a:hover {
+    color: #FFD700;
+    text-decoration: underline;
+}
+
+/* This query is to only be active when the screen width is 450px or smaller. aattempt to make it resposnive for phones. fix this thing later */
+@media (max-width: 450px) {
+    .modal-content {
+        padding: 1.5rem 2rem;
+    }
+
+    .modal-content .inputbox input {
+        height: 50px;
+    }
+
+    .modal-content h1 {
+        font-size: 1.8rem;
+    }
+
+    .modal-content .forget,
+    .modal-content .register {
+        font-size: 0.9rem;
+    }
+}
+
+/* Password Eye Icon Fixes */
+.modal-content .inputbox.password-box .toggle-password {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.2rem;
+    color: #FFD700;
+    cursor: pointer;
+    z-index: 10;    
+    display: none; 
+}
+
+/* Lock icon */
+.modal-content .inputbox.password-box .lock-icon {
+    pointer-events: none;                                                               /* can’t click the lock, that’s fine */
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.2rem;
+    color: #FFD700;
+    transition: opacity 0.3s ease;
+}
+
+/* Eye icon */
+.modal-content .inputbox.password-box .toggle-password {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.2rem;
+    color: #FFD700;
+    cursor: pointer;
+    z-index: 3;
+    display: none; 
+    pointer-events: auto; 
+}
+
+/* Show eye icon when input is focused or has value */
+.modal-content .inputbox.password-box input:focus ~ .toggle-password,
+.modal-content .inputbox.password-box input:not(:placeholder-shown) ~ .toggle-password {
+    display: block;
+}
+
+/* Hide lock icon when eye icon appears */
+.modal-content .inputbox.password-box input:focus ~ .lock-icon,
+.modal-content .inputbox.password-box input:not(:placeholder-shown) ~ .lock-icon {
+    opacity: 0;
+}

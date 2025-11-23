@@ -1,0 +1,215 @@
+<!-- Reference -->
+<!-- icons: https://ionic.io/ionicons-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QuizB - Challenge your mind</title>
+    <link rel="stylesheet" href="C:\Users\ACER\Desktop\Minor Project (QuizB)\new one\Home.css">
+</head>
+<body id="body">
+
+    <!--HEADER-->
+    <div id="header">
+        <div id="logo">
+            <img src="logo.png" alt="logo">
+        </div>
+
+        <!--NAV_BAR-->
+        <div id="navigation">
+            <a href="Home.html">Home</a>
+            <a href="category.html">Quizzes</a>
+            <a>Leaderboard</a>
+            <a id="loginLink">Login</a>
+            <img src="menu_icon.png" alt="menu_icon">
+        </div>
+    </div>
+
+    <!--WELCOME-->
+    <div id="Welcome_and_start">
+        <center>
+            <p style="font-size: 50px; color: #FFD700;">Welcome to QuizB 🐝</p>
+            <p style="font-size: 20px; color: #edece9;">Buzz into fun learning — test your skills, earn points, and compete with friends!</p>
+            <a href="C:\Users\ACER\Desktop\Minor Project (QuizB)\new one\category.html">
+                <button type="button" id="Start_button">Start Quiz</button>
+            </a>
+        </center>
+    </div>
+
+    <!--FEATURED QUIZZES-->
+    <div id="featured-quizzes">
+        <center>
+            <p style="color: #FFD700; font-weight: bolder; font-size:35px;">Featured Quizzes</p>
+        </center>
+    </div>
+
+    <!--QUIZ SECTIONS-->
+    <div id="sections">
+        <div class="section">
+            <center>
+                <p style="color: #FFD700; font-size: 20px;">General Knowledge</p>
+                <p style="color: #edece9;">Test your overall knowledge!</p>
+                <button type="button" class="Play_button">Play now</button>
+            </center>
+        </div>
+
+        <div class="section">
+            <center>
+                <p style="color: #FFD700; font-size: 20px;">Science & Tech</p>
+                <p style="color: #edece9;">How much do you know about inventions and discoveries?</p>
+                <button type="button" class="Play_button">Play now</button>
+            </center>
+        </div>
+
+        <div class="section">
+            <center>
+                <p style="color: #FFD700; font-size: 20px;">Sports Trivia</p>
+                <p style="color: #edece9;">From Messi to Mount Everest—test your sports IQ!</p>
+                <button type="button" class="Play_button">Play now</button>
+            </center>
+        </div>
+    </div>
+
+    <!--FOOTER-->
+    <div id="footer">
+        <center>
+            <p>© 2025 QuizB. All Rights Reserved. Made with ❤️ by Team QuizB.</p>
+            <a>About Us</a>
+        </center>
+    </div>
+
+    <!-- LOGIN MODAL -->
+    <div id="loginModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <form>
+                <h1>Login</h1>
+                <div class="inputbox">
+                    <input type="text" name="username" required>
+                    <label>Username</label>
+                    <ion-icon name="person-outline"></ion-icon>
+                </div>
+                <div class="inputbox password-box">
+                    <input type="password" id="password" required placeholder=" ">
+                    <label for="password">Password</label>
+                    <ion-icon class="lock-icon" name="lock-closed-outline"></ion-icon>
+                    <ion-icon class="toggle-password" name="eye-outline"></ion-icon>
+                </div>
+                <div class="forget">
+                    <label><input type="checkbox"> Remember Me</label>
+                    <a href="#">Forget Password</a>
+                </div>
+                <button type="submit">Log in</button>
+                <div class="register">
+                    <p>Don't have an account? <a id="registerLink">Register</a></p>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- SIGNUP MODAL -->
+    <div id="signupModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <form>
+                <h1>Sign Up</h1>
+                <div class="inputbox">
+                    <input type="text" name="username" required>
+                    <label>Username</label>
+                    <ion-icon name="person-outline"></ion-icon>
+                </div>
+                <div class="inputbox">
+                    <input type="email" name="email" required>
+                    <label>Email</label>
+                    <ion-icon name="mail-outline"></ion-icon>
+                </div>
+                <div class="inputbox password-box">
+                    <input type="password" id="signupPassword" required placeholder=" ">
+                    <label for="signupPassword">Password</label>
+                    <ion-icon class="lock-icon" name="lock-closed-outline"></ion-icon>
+                    <ion-icon class="toggle-password" name="eye-outline"></ion-icon>
+                </div>
+                <div class="inputbox password-box">
+                    <input type="password" id="confirmPassword" required placeholder=" ">
+                    <label for="confirmPassword">Confirm Password</label>
+                    <ion-icon class="lock-icon" name="lock-closed-outline"></ion-icon>
+                    <ion-icon class="toggle-password" name="eye-outline"></ion-icon>
+                </div>
+                <button type="submit">Register</button>
+                <div class="register">
+                    <p>Already have an account? <a id="openLogin">Login</a></p>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- IONICONS CDN -->
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+    <!-- MODAL LOGIC -->
+    <script>
+        // Get modal elements
+        const loginModal = document.getElementById('loginModal');                                           // Main parent login container
+        const signupModal = document.getElementById('signupModal');                                         // Main parent sign-up container.
+
+        // Get all modal links
+        const loginLink = document.getElementById('loginLink');                                             // Login button in nav bar.
+        const registerLink = document.getElementById('registerLink');                                       // Register link in login-box.
+        const openLogin = document.getElementById('openLogin');                                             // Login link in sign-up-box.
+
+        // Get all close buttons
+        const closeButtons = document.querySelectorAll('.modal .close');                                    // Close button 'x'.
+
+        // ---------- OPEN MODALS ----------
+
+        // Event object 'e' is to be only used when elements that have default browser behavior that you might want to prevent or customize. For elements that dont do that no need for event object.
+
+        loginLink.addEventListener('click', (e) => {
+            e.preventDefault();
+            loginModal.style.display = 'flex';                                                              // Open login box if login link is clicked from nav bar.
+        });
+
+        registerLink.addEventListener('click', (e) => {
+            e.preventDefault();
+            loginModal.style.display = 'none';                                                              // Hide login box.
+            signupModal.style.display = 'flex';                                                             // Show sign-up box.
+        });
+
+        openLogin.addEventListener('click', (e) => {
+            e.preventDefault();
+            signupModal.style.display = 'none';                                                             // Hide sign-up box.
+            loginModal.style.display = 'flex';                                                              // Show login box.
+        });
+
+        // ---------- CLOSE MODALS ----------
+        closeButtons.forEach(btn => {                                                                       // Need to loop becuase querySelectorAll('.modal .close'); acts as an array and dosen't apply any attribute so we need to loop to apply attribute to each element inside the querySelectorAll. btn temp name for looping element(Remeber its not an id. Dont go looking for it like an idot later taht u did rn for 10min.)
+            btn.addEventListener('click', () => {                                                           
+                btn.closest('.modal').style.display = 'none';                                               // Hide all modal boxes(both login and sign-up).
+            });
+        });
+
+        window.addEventListener('click', (e) => {                                                           // Check for all clicks on the screen.         
+            if(e.target === loginModal) loginModal.style.display = 'none';                                  // If the click is not on the login box and its children close the login box.
+            if(e.target === signupModal) signupModal.style.display = 'none';                                // If the click is not on the login box and its children close the login box.
+        });
+
+        // ---------- PASSWORD TOGGLE ----------
+        document.querySelectorAll('.inputbox.password-box').forEach(box => {                                // Look for the password field element.
+            const input = box.querySelector('input');                                                       // Select the input field.
+            const toggle = box.querySelector('.toggle-password');                                           // Select all the eye-icons for toggling.
+
+            toggle.addEventListener('click', () => {
+                const type = input.getAttribute('type') === 'password' ? 'text' : 'password';               // Checks if the current input's type is passwword. If yes it chnages the type to text which is visible(show). If not it remains "password" type which is just dots(hidden). Using ternary operator ?: (condition? value-if-true: value-if-false).
+                input.setAttribute('type', type);                                                           // Part that actually changes the type. Above is just condition checking.
+                toggle.setAttribute('name', type === 'password' ? 'eye-outline' : 'eye-off-outline');       // If the password is hidden → use "eye-outline" (normal eye icon). If the password is visible → use "eye-off-outline" (eye with a slash).
+            });
+        });
+        
+    </script>
+
+</body>
+</html>

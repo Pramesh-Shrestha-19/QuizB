@@ -1,0 +1,4 @@
+backend/db.php
+.env
+vendor/
+*.log
