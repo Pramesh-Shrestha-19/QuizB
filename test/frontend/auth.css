@@ -1,0 +1,222 @@
+/* auth.css */
+
+/* Modal Background */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(5px);
+    background-color: rgba(0,0,0,0.7);
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: rgba(17,17,17,0.95);
+    border: 2px solid #FFD700;
+    border-radius: 20px;
+    padding: 2rem 3rem;
+    max-width: 400px;
+    width: 100%;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0 0 15px #FFD700, 0 0 30px #FFD70033;
+    transition: box-shadow 0.3s ease;
+}
+
+.modal-content:hover {
+    box-shadow: 0 0 25px #FFD700, 0 0 50px #FFD70055;
+}
+
+/* Close button */
+.modal .close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #FFD700;
+    transition: color 0.3s ease;
+}
+
+.modal .close:hover {
+    color: #FFF9D1;
+}
+
+/* Heading */
+.modal-content h1 {
+    color: #FFD700;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+/* Input box container */
+.modal-content .inputbox {
+    position: relative;
+    width: 100%;
+    margin-bottom: 50px;
+    border-bottom: 2px solid #FFD700;
+}
+
+/* Inputs */
+.modal-content .inputbox input {
+    width: 100%;
+    height: 60px;
+    padding: 0 35px 0 5px;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+    background-color: transparent !important;
+    color: #fff;
+    /* Autofill fixes */
+    -webkit-box-shadow: 0 0 0px 1000px rgba(17,17,17,0.95) inset !important;
+    -webkit-text-fill-color: #fff !important;
+    transition: background-color 5000s ease-in-out 0s;
+    box-shadow: 0 0 0px 1000px rgba(17,17,17,0.95) inset !important;
+    -moz-text-fill-color: #fff !important;
+}
+
+/* Floating labels */
+.modal-content .inputbox label {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+    color: #FFF9D1;
+    font-size: 1rem;
+    pointer-events: none;
+    transition: all 0.3s ease-in-out;
+}
+
+.modal-content .inputbox input:focus ~ label,
+.modal-content .inputbox input:valid ~ label {
+    top: -25px;
+    font-size: 0.85rem;
+}
+
+/* Icons */
+.modal-content .inputbox ion-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #FFD700;
+    pointer-events: none;
+    z-index: 2;
+    transition: opacity 0.3s ease;
+}
+
+/* Forget password & Remember Me */
+.modal-content .forget {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 30px 0;
+}
+
+.modal-content .forget label {
+    color: #CCCCCC;
+    font-weight: 500;
+    font-size: 0.95rem;
+}
+
+.modal-content .forget a {
+    color: #FFF9D1;
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+}
+
+.modal-content .forget a:hover {
+    color: #FFD700;
+    text-decoration: underline;
+}
+
+/* Submit button */
+.modal-content button {
+    width: 100%;
+    height: 45px;
+    border-radius: 40px;
+    background-color: #FFD700;
+    color: black;
+    border: none;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.modal-content button:hover {
+    background-color: black;
+    color: #FFD700;
+    border: 2px solid #FFD700;
+}
+
+/* Register text */
+.modal-content .register {
+    font-size: 0.95rem;
+    text-align: center;
+    margin: 25px 0 10px;
+    color: #FFF9D1;
+}
+
+.modal-content .register a {
+    color: #FFF9D1;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.modal-content .register a:hover {
+    color: #FFD700;
+    text-decoration: underline;
+}
+
+@media (max-width: 450px) {
+    .modal-content { padding: 1.5rem 2rem; }
+    .modal-content .inputbox input { height: 50px; }
+    .modal-content h1 { font-size: 1.8rem; }
+}
+
+/* Password Eye Icon Fixes */
+.modal-content .inputbox.password-box .toggle-password {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.2rem;
+    color: #FFD700;
+    cursor: pointer;
+    z-index: 10;    
+    display: none; 
+    pointer-events: auto;
+}
+
+.modal-content .inputbox.password-box .lock-icon {
+    pointer-events: none;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.2rem;
+    color: #FFD700;
+    transition: opacity 0.3s ease;
+}
+
+.modal-content .inputbox.password-box input:focus ~ .toggle-password,
+.modal-content .inputbox.password-box input:not(:placeholder-shown) ~ .toggle-password {
+    display: block;
+}
+
+.modal-content .inputbox.password-box input:focus ~ .lock-icon,
+.modal-content .inputbox.password-box input:not(:placeholder-shown) ~ .lock-icon {
+    opacity: 0;
+}

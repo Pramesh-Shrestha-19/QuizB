@@ -4,27 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>QuizB - Challenge your mind</title>
+    
     <link rel="stylesheet" href="./test.css">
+    
+    <link rel="stylesheet" href="auth.css">
 </head>
 <body id="body">
 
-    <!--HEADER-->
     <div id="header">
         <div id="logo">
             <img src="../../images/logo.png" alt="logo">
         </div>
 
-        <!--NAV_BAR-->
         <div id="navigation">
-            <a href="./Home.html">Home</a>
-            <a href="./category.html">Quizzes</a>
+            <a href="test.html">Home</a>
+            <a href="category.html">Quizzes</a>
             <a>Leaderboard</a>
             <a id="loginLink">Login</a>
             <img src="../../images/menu_icon.png" alt="menu_icon">
         </div>
     </div>
 
-    <!--WELCOME-->
     <div id="Welcome_and_start">
         <center>
             <p style="font-size: 50px; color: #FFD700;">Welcome to QuizB 🐝</p>
@@ -35,14 +35,12 @@
         </center>
     </div>
 
-    <!--FEATURED QUIZZES-->
     <div id="featured-quizzes">
         <center>
             <p style="color: #FFD700; font-weight: bolder; font-size:35px;">Featured Quizzes</p>
         </center>
     </div>
 
-    <!--QUIZ SECTIONS-->
     <div id="sections">
         <div class="section">
             <center>
@@ -69,209 +67,17 @@
         </div>
     </div>
 
-    <!--FOOTER-->
     <div id="footer">
         <center>
             <p>© 2025 QuizB. All Rights Reserved. Made with ❤️ by Team QuizB.</p>
             <a>About Us</a>
         </center>
     </div>
-
-    <!-- LOGIN MODAL -->
-    <div id="loginModal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <form id="loginForm">
-                <h1>Login</h1>
-                <div class="inputbox">
-                    <input type="text" name="username" required>
-                    <label>Username</label>
-                    <ion-icon name="person-outline"></ion-icon>
-                </div>
-                <div class="inputbox password-box">
-                    <input type="password" id="password" required placeholder=" " name="password">
-                    <label for="password">Password</label>
-                    <ion-icon class="lock-icon" name="lock-closed-outline"></ion-icon>
-                    <ion-icon class="toggle-password" name="eye-outline"></ion-icon>
-                </div>
-                <div class="forget">
-                    <label><input type="checkbox"> Remember Me</label>
-                    <a href="#">Forget Password</a>
-                </div>
-                <button type="submit">Log in</button>
-                <div class="register">
-                    <p>Don't have an account? <a id="registerLink">Register</a></p>
-                </div>
-            </form>
-        </div>
-    </div>
-
-    <!-- SIGNUP MODAL -->
-    <div id="signupModal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <form id="signupForm">
-                <h1>Sign Up</h1>
-                <div class="inputbox">
-                    <input type="text" name="username" required>
-                    <label>Username</label>
-                    <ion-icon name="person-outline"></ion-icon>
-                </div>
-                <div class="inputbox">
-                    <input type="email" name="email" required>
-                    <label>Email</label>
-                    <ion-icon name="mail-outline"></ion-icon>
-                </div>
-                <div class="inputbox password-box">
-                    <input type="password" id="signupPassword" required placeholder=" ">
-                    <label for="signupPassword">Password</label>
-                    <ion-icon class="lock-icon" name="lock-closed-outline"></ion-icon>
-                    <ion-icon class="toggle-password" name="eye-outline"></ion-icon>
-                </div>
-                <div class="inputbox password-box">
-                    <input type="password" id="confirmPassword" required placeholder=" ">
-                    <label for="confirmPassword">Confirm Password</label>
-                    <ion-icon class="lock-icon" name="lock-closed-outline"></ion-icon>
-                    <ion-icon class="toggle-password" name="eye-outline"></ion-icon>
-                </div>
-                <button type="submit">Register</button>
-                <div class="register">
-                    <p>Already have an account? <a id="openLogin">Login</a></p>
-                </div>
-            </form>
-        </div>
-    </div>
-
-    <!-- IONICONS CDN -->
+    
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
-    <!-- MODAL LOGIC -->
-    <script>
-        // Get modal elements
-        const loginModal = document.getElementById('loginModal');
-        const signupModal = document.getElementById('signupModal');
-
-        // Get all modal links
-        const loginLink = document.getElementById('loginLink');
-        const registerLink = document.getElementById('registerLink');
-        const openLogin = document.getElementById('openLogin');
-
-        // Get all close buttons
-        const closeButtons = document.querySelectorAll('.modal .close');
-
-        // ---------- OPEN MODALS ----------
-        loginLink.addEventListener('click', (e) => {
-            e.preventDefault();
-            loginModal.style.display = 'flex';
-        });
-
-        registerLink.addEventListener('click', (e) => {
-            e.preventDefault();
-            loginModal.style.display = 'none';
-            signupModal.style.display = 'flex';
-        });
-
-        openLogin.addEventListener('click', (e) => {
-            e.preventDefault();
-            signupModal.style.display = 'none';
-            loginModal.style.display = 'flex';
-        });
-
-        // ---------- CLOSE MODALS ----------
-        closeButtons.forEach(btn => {
-            btn.addEventListener('click', () => {
-                btn.closest('.modal').style.display = 'none';
-            });
-        });
-
-        window.addEventListener('click', (e) => {
-            if(e.target === loginModal) loginModal.style.display = 'none';
-            if(e.target === signupModal) signupModal.style.display = 'none';
-        });
-
-        // ---------- PASSWORD TOGGLE ----------
-        document.querySelectorAll('.inputbox.password-box').forEach(box => {
-            const input = box.querySelector('input');
-            const toggle = box.querySelector('.toggle-password');
-
-            toggle.addEventListener('click', () => {
-                const type = input.getAttribute('type') === 'password' ? 'text' : 'password';
-                input.setAttribute('type', type);
-                toggle.setAttribute('name', type === 'password' ? 'eye-outline' : 'eye-off-outline');
-            });
-        });
-
-        // API Base URL - works from any page/folder
-        const API_BASE = '/QuizB/test/backend';
-
-        // ===== LOGIN FORM SUBMISSION =====
-        document.getElementById('loginForm').addEventListener('submit', async (e) => {
-            e.preventDefault();
-            
-            const username = document.querySelector('#loginForm input[name="username"]').value;
-            const password = document.querySelector('#loginForm input[name="password"]').value;
-            
-            try {
-                const response = await fetch(API_BASE + '/login.php', {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify({ username, password })
-                });
-                
-                const data = await response.json();
-                
-                if (data.status === 'success') {
-                    alert('Login successful! Welcome ' + data.user);
-                    loginModal.style.display = 'none';
-                    document.getElementById('loginForm').reset();
-                    loginLink.textContent = data.user;
-                } else {
-                    alert('Login failed: ' + data.message);
-                }
-            } catch (error) {
-                console.error('Error:', error);
-                alert('An error occurred during login');
-            }
-        });
-
-        // ===== SIGNUP FORM SUBMISSION =====
-        document.getElementById('signupForm').addEventListener('submit', async (e) => {
-            e.preventDefault();
-            
-            const username = document.querySelector('#signupForm input[name="username"]').value;
-            const email = document.querySelector('#signupForm input[name="email"]').value;
-            const password = document.querySelector('#signupForm input[id="signupPassword"]').value;
-            const confirmPassword = document.querySelector('#signupForm input[id="confirmPassword"]').value;
-            
-            try {
-                const response = await fetch(API_BASE + '/register.php', {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify({ username, email, password, confirmPassword })
-                });
-                
-                const data = await response.json();
-                
-                if (data.status === 'success') {
-                    alert(data.message);
-                    signupModal.style.display = 'none';
-                    document.getElementById('signupForm').reset();
-                    loginModal.style.display = 'flex';
-                } else {
-                    alert('Signup failed: ' + data.message);
-                }
-            } catch (error) {
-                console.error('Error:', error);
-                alert('An error occurred during signup');
-            }
-        });
-        
-    </script>
+    
+    <script src="auth.js"></script>
 
 </body>
 </html>

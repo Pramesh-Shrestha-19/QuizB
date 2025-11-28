@@ -1,0 +1,62 @@
+<div id="loginModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <form id="loginForm">
+            <h1>Login</h1>
+            <div class="inputbox">
+                <input type="text" name="username" required>
+                <label>Username</label>
+                <ion-icon name="person-outline"></ion-icon>
+            </div>
+            <div class="inputbox password-box">
+                <input type="password" id="password" required placeholder=" " name="password">
+                <label for="password">Password</label>
+                <ion-icon class="lock-icon" name="lock-closed-outline"></ion-icon>
+                <ion-icon class="toggle-password" name="eye-outline"></ion-icon>
+            </div>
+            <div class="forget">
+                <label><input type="checkbox"> Remember Me</label>
+                <a href="#">Forget Password</a>
+            </div>
+            <button type="submit">Log in</button>
+            <div class="register">
+                <p>Don't have an account? <a id="registerLink">Register</a></p>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div id="signupModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <form id="signupForm">
+            <h1>Sign Up</h1>
+            <div class="inputbox">
+                <input type="text" name="username" required>
+                <label>Username</label>
+                <ion-icon name="person-outline"></ion-icon>
+            </div>
+            <div class="inputbox">
+                <input type="email" name="email" required>
+                <label>Email</label>
+                <ion-icon name="mail-outline"></ion-icon>
+            </div>
+            <div class="inputbox password-box">
+                <input type="password" id="signupPassword" required placeholder=" ">
+                <label for="signupPassword">Password</label>
+                <ion-icon class="lock-icon" name="lock-closed-outline"></ion-icon>
+                <ion-icon class="toggle-password" name="eye-outline"></ion-icon>
+            </div>
+            <div class="inputbox password-box">
+                <input type="password" id="confirmPassword" required placeholder=" ">
+                <label for="confirmPassword">Confirm Password</label>
+                <ion-icon class="lock-icon" name="lock-closed-outline"></ion-icon>
+                <ion-icon class="toggle-password" name="eye-outline"></ion-icon>
+            </div>
+            <button type="submit">Register</button>
+            <div class="register">
+                <p>Already have an account? <a id="openLogin">Login</a></p>
+            </div>
+        </form>
+    </div>
+</div>

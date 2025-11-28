@@ -1,0 +1,118 @@
+/*
+References:
+bgimage: https://www.freepik.com/free-vector/watercolour-smoke-background_22039593.htm#fromView=keyword&page=1&position=0&uuid=2559849c-587e-4b6a-8f44-015e97a34ca4&query=Black+yellow+background
+
+*/
+
+body {
+  background: #000;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('../../images/background.jpg');
+  background-size: cover;        /* cover entire viewport */
+  background-position: center;   /* center image */
+  background-repeat: no-repeat;  /* no tiling */
+  background-attachment: fixed;  /* stays fixed while scrolling */
+}
+
+#header{
+    background-color: #FFD700;
+    width: 100%;
+    height: 7.5vh;
+
+}
+
+#logo{
+    position: absolute;
+    top: 3px;
+    left: 80px;
+}
+
+#navigation{
+  position: absolute;
+  top: 35px;
+  right: 40px;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  gap: 25px;                    
+}
+
+#navigation a {
+  display: inline-block;
+  cursor: pointer;
+  font-family: 'Poppins', sans-serif;
+  font-size: 22px;
+  color: black;
+  text-decoration: none;
+}
+
+#navigation img {
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+}
+
+#quiz-container {
+  max-width: 900px;
+  width: 90%;
+  margin: 50px auto;          /* horizontal center + top spacing */
+  padding: 30px;
+  background: #0b0b0b;
+  border-radius: 12px;
+  border: 1px solid rgba(255,215,0,0.15);
+  box-shadow: 0 0 30px rgba(255,215,0,0.05);
+
+  /* optional: vertically center relative to remaining viewport */
+  position: relative;
+  top: 140px;                  /* adjust to push down a bit if needed */
+}
+
+#quiz-header {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom: 16px;
+}
+
+#quiz-title { color: #FFD700; margin: 0; }
+#meta { color: #ddd; font-size: 0.95rem; }
+
+#question-text { margin: 12px 0; color: #fff; }
+
+#options { display:block; margin-top: 12px; }
+.option-btn {
+  display:block;
+  width:100%;
+  text-align:left;
+  padding:12px;
+  margin:8px 0;
+  background:#111;
+  color:#FFD700;
+  border:2px solid rgba(255,215,0,0.2);
+  border-radius:8px;
+  cursor:pointer;
+  transition: all .15s;
+  font-size:1rem;
+}
+.option-btn:hover { transform:translateY(-2px); }
+
+.option-btn.correct { background: #1a7f1a; color: #fff; border-color: #1a7f1a; }
+.option-btn.wrong   { background: #8b1a1a; color: #fff; border-color: #8b1a1a; }
+.option-btn:disabled { opacity: .9; cursor: default; }
+
+#controls { margin-top: 14px; display:flex; gap:10px; }
+#next-btn, #quit-btn, #retry-btn, #back-btn {
+  background: #FFD700;
+  color: black;
+  border: none;
+  padding: 10px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+#next-btn:disabled { opacity: .45; cursor: not-allowed; }
+
+#result-box { text-align:center; }
+.result-actions { display:flex; gap:10px; justify-content:center; margin-top:14px;}

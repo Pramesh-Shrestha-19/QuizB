@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>QuizB - Quiz</title>
+  <link rel="stylesheet" href="./quiz.css" />
+</head>
+<body>
+
+  <div id="header">
+        <div id="logo">
+            <img src="../../images/logo.png" alt="logo">
+        </div>
+
+        <div id="navigation">
+        <!--
+          <a href="test.html">Home</a>
+          <a href="category.html">Quizzes</a>
+          <a>Leaderboard</a>
+          <a id="loginLink">Login</a>
+        -->
+          <img src="QuizB\images\menu_icon.png" alt="menu_icon">
+        </div>
+  </div>
+
+  <div id="quiz-container">
+    <header id="quiz-header">
+      <h1 id="quiz-title">QuizB</h1>
+      <div id="meta">
+        <span id="category-label"></span>
+        <span id="progress"></span>
+      </div>
+    </header>
+
+    <main id="question-box">
+      <h2 id="question-text">Loading...</h2>
+      <div id="options" role="list"></div>
+
+      <div id="controls">
+        <button id="next-btn" disabled>Next</button>
+        <button id="quit-btn">Quit</button>
+      </div>
+    </main>
+
+    <section id="result-box" style="display:none">
+      <h2>Quiz Result</h2>
+      <p id="score-text"></p>
+      <p id="time-text"></p>
+      <div class="result-actions">
+        <button id="retry-btn">Retry</button>
+        <button id="back-btn">Back to Categories</button>
+      </div>
+    </section>
+  </div>
+
+  <script src="./quiz.js"></script>
+</body>
+</html>
