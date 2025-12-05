@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who was the first President of the United States?",
+    "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+    "answer": 1
+  },
+  {
+    "question": "In which year did World War II end?",
+    "options": ["1940", "1945", "1939", "1950"],
+    "answer": 1
+  },
+  {
+    "question": "Who discovered America in 1492?",
+    "options": ["Vasco da Gama", "Christopher Columbus", "Ferdinand Magellan", "Marco Polo"],
+    "answer": 1
+  },
+  {
+    "question": "The Great Wall is located in which country?",
+    "options": ["India", "China", "Japan", "Mongolia"],
+    "answer": 1
+  },
+  {
+    "question": "Who was known as the 'Maid of Orleans'?",
+    "options": ["Joan of Arc", "Cleopatra", "Queen Victoria", "Marie Curie"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first female Prime Minister of the UK?",
+    "options": ["Theresa May", "Margaret Thatcher", "Angela Merkel", "Indira Gandhi"],
+    "answer": 1
+  },
+  {
+    "question": "The United Nations was founded in which year?",
+    "options": ["1919", "1945", "1939", "1950"],
+    "answer": 1
+  },
+  {
+    "question": "Who wrote 'The Prince', a book on political theory?",
+    "options": ["Plato", "Aristotle", "Niccolò Machiavelli", "John Locke"],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for a citizen voting directly on a law?",
+    "options": ["Referendum", "Election", "Plebiscite", "Census"],
+    "answer": 0
+  },
+  {
+    "question": "Which political ideology emphasizes minimal government intervention in the economy?",
+    "options": ["Socialism", "Liberalism", "Capitalism", "Communism"],
+    "answer": 2
+  }
+]

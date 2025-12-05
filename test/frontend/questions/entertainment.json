@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who played Iron Man in the Marvel movies?",
+    "options": ["Chris Evans", "Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo"],
+    "answer": 1
+  },
+  {
+    "question": "Which movie won Best Picture at the Oscars 2020?",
+    "options": ["1917", "Joker", "Parasite", "Ford v Ferrari"],
+    "answer": 2
+  },
+  {
+    "question": "Which singer is known as the 'Queen of Pop'?",
+    "options": ["Beyoncé", "Madonna", "Lady Gaga", "Rihanna"],
+    "answer": 1
+  },
+  {
+    "question": "Which TV series features the Stark family?",
+    "options": ["Breaking Bad", "Game of Thrones", "Stranger Things", "The Crown"],
+    "answer": 1
+  },
+  {
+    "question": "Who directed 'Jurassic Park'?",
+    "options": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Ridley Scott"],
+    "answer": 0
+  },
+  {
+    "question": "Which actor voiced Woody in 'Toy Story'?",
+    "options": ["Tom Hanks", "Tim Allen", "Billy Crystal", "John Goodman"],
+    "answer": 0
+  },
+  {
+    "question": "Which singer released the album '1989'?",
+    "options": ["Taylor Swift", "Ariana Grande", "Katy Perry", "Selena Gomez"],
+    "answer": 0
+  },
+  {
+    "question": "Which movie features the song 'Circle of Life'?",
+    "options": ["Aladdin", "The Lion King", "Mulan", "Frozen"],
+    "answer": 1
+  },
+  {
+    "question": "Who played Jack Sparrow in 'Pirates of the Caribbean'?",
+    "options": ["Johnny Depp", "Orlando Bloom", "Leonardo DiCaprio", "Brad Pitt"],
+    "answer": 0
+  },
+  {
+    "question": "Which animated movie features Elsa and Anna?",
+    "options": ["Frozen", "Moana", "Tangled", "Brave"],
+    "answer": 0
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What planet is known as the Blue Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": 0
+  },
+  {
+    "question": "What is H2O commonly known as?",
+    "options": ["Oxygen", "Water", "Hydrogen", "Helium"],
+    "answer": 1
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": 1
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Gd", "Go"],
+    "answer": 0
+  },
+  {
+    "question": "Which part of the cell contains DNA?",
+    "options": ["Nucleus", "Cytoplasm", "Cell membrane", "Mitochondria"],
+    "answer": 0
+  },
+  {
+    "question": "What is the speed of light?",
+    "options": ["3x10^8 m/s", "3x10^6 m/s", "3x10^5 m/s", "3x10^7 m/s"],
+    "answer": 0
+  },
+  {
+    "question": "What is the center of an atom called?",
+    "options": ["Electron", "Proton", "Nucleus", "Neutron"],
+    "answer": 2
+  },
+  {
+    "question": "Which organ is responsible for pumping blood?",
+    "options": ["Liver", "Heart", "Kidney", "Lungs"],
+    "answer": 1
+  },
+  {
+    "question": "What force keeps us on the ground?",
+    "options": ["Friction", "Gravity", "Magnetism", "Electrostatic"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet is the hottest in the solar system?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "answer": 1
+  }
+]

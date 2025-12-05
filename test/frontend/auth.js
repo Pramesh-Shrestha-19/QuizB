@@ -1,17 +1,16 @@
-// auth.js
 
 // 1. Function to Load the Auth HTML and initialize everything
-document.addEventListener("DOMContentLoaded", async () => {
+document.addEventListener("DOMContentLoaded", async () => {                                         // Ensures current page which ever it maybe is loaded fully.
     try {
         // Fetch the HTML content
-        const response = await fetch('auth.html');
-        const html = await response.text();
+        const response = await fetch('auth.html');                                                  // Get the auth.html wait until its downloaded.
+        const html = await response.text();                                                         // Convert the recieved file into text so that we can insert into the page.
         
         // Inject HTML into the body
-        document.body.insertAdjacentHTML('beforeend', html);
+        document.body.insertAdjacentHTML('beforeend', html);                                        // Inserts the auth.html at end of the current page's body.                                  // 
         
         // Initialize logic after HTML is injected
-        initAuthLogic();
+        initAuthLogic();                                                                            // Run the main sript function after evrything is loaded successfully.
         
     } catch (error) {
         console.error("Error loading auth module:", error);
@@ -22,13 +21,13 @@ function initAuthLogic() {
     // Get Elements
     const loginModal = document.getElementById('loginModal');
     const signupModal = document.getElementById('signupModal');
-    const loginLink = document.getElementById('loginLink'); // Valid ID in Navbar
+    const loginLink = document.getElementById('loginLink');                                         // login ID in Navbar
     const registerLink = document.getElementById('registerLink');
     const openLogin = document.getElementById('openLogin');
     const closeButtons = document.querySelectorAll('.modal .close');
 
     // API Base URL
-    const API_BASE = '/QuizB/test/backend';
+    const API_BASE = '/QuizB/test/backend';                                                         // Simple alias for the folder strucutre to accomadate future directory chnages easily.
 
     // --- CHECK SESSION (Optional: Update UI if user is already logged in) ---
     // You can implement a session check endpoint in PHP later.
@@ -39,7 +38,7 @@ function initAuthLogic() {
             // If already logged in, maybe redirect? For now, just open modal
             // unless we add logic to change the text to "Logout"
             e.preventDefault();
-            if(loginLink.textContent !== "Login" && loginLink.textContent !== "Logout") {
+            if(loginLink.textContent !== "Login" && loginLink.textContent !== "Logout") {           // Check is user is logged in or not.
                // User is logged in (Simple check based on text replacement below)
                alert("You are already logged in as " + loginLink.textContent);
                return; 
@@ -67,11 +66,11 @@ function initAuthLogic() {
     // --- CLOSE MODALS ---
     closeButtons.forEach(btn => {
         btn.addEventListener('click', () => {
-            btn.closest('.modal').style.display = 'none';
+            btn.closest('.modal').style.display = 'none';                                           // .closet goes upward the DOM tree and return the first ancestor that matches the selector .modal. Stops searching after it finds the first match so it works only on model boxes.
         });
     });
 
-    window.addEventListener('click', (e) => {
+    window.addEventListener('click', (e) => {                                                       // Makes the modal boxes disapear if a click is detected outside of the modal boxes.
         if(e.target === loginModal) loginModal.style.display = 'none';
         if(e.target === signupModal) signupModal.style.display = 'none';
     });
@@ -110,7 +109,7 @@ function initAuthLogic() {
                     alert('Login successful! Welcome ' + data.user);
                     loginModal.style.display = 'none';
                     loginForm.reset();
-                    if(loginLink) loginLink.textContent = data.user; // Update Navbar
+                    if(loginLink) loginLink.textContent = data.user;                                    // Update Navbar ie change the Login text into the username.
                 } else {
                     alert('Login failed: ' + data.message);
                 }

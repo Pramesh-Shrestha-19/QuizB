@@ -1,0 +1,50 @@
+/* Login button with visible gold glow */
+.login-btn {
+    display: inline-block;        /* required for pseudo sizing */
+    position: relative;
+    z-index: 1;                   /* keep button above the glow */
+    background: black;
+    color: #FFD700;
+    padding: 8px 18px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border: 2px solid #979695;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* main hover lift + fallback box shadow glow */
+.login-btn:hover {
+    transform: translateY(-0.25em);
+    border-color: #5e5e5e;
+    box-shadow: 0 10px 30px rgba(255, 215, 0, 0.18); /* visible golden glow */
+}
+
+/* bigger, blurred radial glow underneath */
+.login-btn::before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%) translateY(6px); /* slight vertical offset */
+    bottom: -6px;               /* vertical starting point under the button */
+    width: 160%;                /* wider than button for better glow spread */
+    height: 36px;               /* height of glow area */
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.35s ease, transform 0.35s ease;
+    z-index: 0;                 /* below the button (button has z-index:1) */
+    filter: blur(12px);
+    background: radial-gradient(
+        ellipse at center,
+        rgba(255, 215, 0, 0.55) 0%,
+        rgba(255, 215, 0, 0.28) 30%,
+        rgba(255, 215, 0, 0.12) 55%,
+        rgba(255, 215, 0, 0) 80%
+    );
+}
+
+/* reveal glow on hover */
+.login-btn:hover::before {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0); /* pop slightly into place */
+}

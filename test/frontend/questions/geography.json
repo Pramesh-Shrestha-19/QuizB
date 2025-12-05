@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the largest continent by area?",
+    "options": ["Africa", "Asia", "Europe", "Antarctica"],
+    "answer": 1
+  },
+  {
+    "question": "Which country has the largest population?",
+    "options": ["India", "USA", "China", "Russia"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+    "answer": 0
+  },
+  {
+    "question": "Mount Everest is located in which country?",
+    "options": ["China", "India", "Nepal", "Bhutan"],
+    "answer": 2
+  },
+  {
+    "question": "Which desert is the largest in the world?",
+    "options": ["Sahara", "Gobi", "Kalahari", "Arabian"],
+    "answer": 0
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "answer": 2
+  },
+  {
+    "question": "Which country is both in Europe and Asia?",
+    "options": ["Turkey", "France", "Germany", "Egypt"],
+    "answer": 0
+  },
+  {
+    "question": "What is the smallest country by land area?",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "answer": 1
+  },
+  {
+    "question": "Which city is known as the 'City of Canals'?",
+    "options": ["Venice", "Amsterdam", "Bangkok", "Bruges"],
+    "answer": 0
+  }
+]

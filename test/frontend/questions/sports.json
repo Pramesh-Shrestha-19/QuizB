@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How many players are there in a soccer team?",
+    "options": ["9", "10", "11", "12"],
+    "answer": 2
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2018?",
+    "options": ["Germany", "Brazil", "France", "Argentina"],
+    "answer": 2
+  },
+  {
+    "question": "What sport uses a shuttlecock?",
+    "options": ["Badminton", "Tennis", "Squash", "Table Tennis"],
+    "answer": 0
+  },
+  {
+    "question": "How many rings are there in the Olympic symbol?",
+    "options": ["4", "5", "6", "7"],
+    "answer": 1
+  },
+  {
+    "question": "Which sport is known as 'The Sport of Kings'?",
+    "options": ["Horse Racing", "Cricket", "Polo", "Golf"],
+    "answer": 0
+  },
+  {
+    "question": "Which country hosts the Wimbledon tournament?",
+    "options": ["USA", "France", "UK", "Australia"],
+    "answer": 2
+  },
+  {
+    "question": "In basketball, how many points is a free throw worth?",
+    "options": ["1", "2", "3", "4"],
+    "answer": 0
+  },
+  {
+    "question": "Which athlete has won the most Olympic medals?",
+    "options": ["Usain Bolt", "Michael Phelps", "Carl Lewis", "Mark Spitz"],
+    "answer": 1
+  },
+  {
+    "question": "In cricket, what is the term for a score of zero?",
+    "options": ["Duck", "Goose", "Birdie", "Nil"],
+    "answer": 0
+  },
+  {
+    "question": "Which sport uses the term 'love' for a score of zero?",
+    "options": ["Tennis", "Squash", "Badminton", "Volleyball"],
+    "answer": 0
+  }
+]

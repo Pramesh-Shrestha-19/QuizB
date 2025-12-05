@@ -1,4 +1,3 @@
-// quiz.js - client-side quiz logic (no backend changes needed)
 
 const params = new URLSearchParams(window.location.search);
 const category = (params.get('cat') || 'general').toLowerCase();
@@ -15,10 +14,10 @@ const timeText = document.getElementById('time-text');
 const retryBtn = document.getElementById('retry-btn');
 const backBtn = document.getElementById('back-btn');
 
-let questions = [];
-let currentIndex = 0;
-let score = 0;
-let startTime = 0;
+let questions = [];                                                                         // Array to store the questions when fetched later.
+let currentIndex = 0;                                                                       // Keeps track of which question the user is currently on.
+let score = 0;                                                                              // Stores the user’s score.
+let startTime = 0;                                                                          // Stores the time at which the quiz starts.
 
 categoryLabelEl.textContent = `Category: ${category}`;
 
@@ -53,7 +52,7 @@ function renderQuestion() {
   const q = questions[currentIndex];
   progressEl.textContent = `${currentIndex + 1} / ${questions.length}`;
   questionText.textContent = q.question;
-  optionsBox.innerHTML = '';
+  optionsBox.innerHTML = '';                                                                // Clear the option box.
 
   q.options.forEach((opt, idx) => {
     const b = document.createElement('button');
@@ -67,7 +66,7 @@ function renderQuestion() {
 
 function handleAnswer(selectedIndex, btnEl) {
   // disable all options
-  const optionButtons = Array.from(document.querySelectorAll('.option-btn'));
+  const optionButtons = Array.from(document.querySelectorAll('.option-btn'));                // gets all answer buttons on the current question.converts it from a NodeList to an actual array so we can use .forEach. disables all buttons so the user cannot click multiple answers.
   optionButtons.forEach(b => b.disabled = true);
 
   const correctIndex = questions[currentIndex].answer;
@@ -116,7 +115,7 @@ function showResult() {
   document.getElementById('question-box').style.display = 'none';
   resultBox.style.display = 'block';
 
-  const elapsedSec = Math.round((Date.now() - startTime) / 1000);
+  const elapsedSec = Math.round((Date.now() - startTime) / 1000);                         // Divison by 1000 becuase date.now give time in millisecond.
   scoreText.textContent = `${score} / ${questions.length}`;
   timeText.textContent = `Time: ${elapsedSec} seconds`;
 

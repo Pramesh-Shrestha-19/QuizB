@@ -34,7 +34,7 @@ $createTable = "CREATE TABLE IF NOT EXISTS user_info (
 )";
 
 if ($conn->query($createTable) === TRUE) {
-    // Table created or already exists
+    // Table created or already exists.
 } else {
     die(json_encode(["status" => "error", "message" => "Error creating table: " . $conn->error]));
 }

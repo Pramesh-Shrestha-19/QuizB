@@ -13,5 +13,40 @@
     "question": "Which ocean is the largest?",
     "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
     "answer": 1
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": 1
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Leo Tolstoy", "Mark Twain"],
+    "answer": 1
+  },
+  {
+    "question": "What is the boiling point of water at sea level in Celsius?",
+    "options": ["90°C", "100°C", "120°C", "80°C"],
+    "answer": 1
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Gold", "Oxygen", "Osmium", "Iron"],
+    "answer": 1
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 1
+  },
+  {
+    "question": "In computing, what does 'CPU' stand for?",
+    "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Control Processing Unit"],
+    "answer": 1
   }
 ]

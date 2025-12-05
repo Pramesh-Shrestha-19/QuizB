@@ -13,10 +13,10 @@ $username = trim($data['username']);
 $password = $data['password'];
 
 // Query user
-$query = "SELECT user_id, username, email, password FROM user_info WHERE username = ?";
-$stmt = $conn->prepare($query);
-$stmt->bind_param("s", $username);
-$stmt->execute();
+$query = "SELECT user_id, username, email, password FROM user_info WHERE username = ?";         
+$stmt = $conn->prepare($query);                                                                         // SQL injection protection. fully wraps the placeholder so when the data is entered it will be as data value and not as a sql command.
+$stmt->bind_param("s", $username);                                                                      // Insert the data(username) into the placeholder(?). 
+$stmt->execute();                                                                                       // Execute the query.
 $result = $stmt->get_result();
 
 if ($result->num_rows === 0) {

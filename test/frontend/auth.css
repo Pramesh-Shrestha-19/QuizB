@@ -1,4 +1,3 @@
-/* auth.css */
 
 /* Modal Background */
 .modal {
@@ -97,10 +96,11 @@
 }
 
 .modal-content .inputbox input:focus ~ label,
-.modal-content .inputbox input:valid ~ label {
+.modal-content .inputbox input:not(:placeholder-shown) ~ label {
     top: -25px;
     font-size: 0.85rem;
 }
+
 
 /* Icons */
 .modal-content .inputbox ion-icon {
