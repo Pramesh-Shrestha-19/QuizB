@@ -93,7 +93,7 @@ nextBtn.addEventListener('click', () => {
 
 quitBtn.addEventListener('click', () => {
   if (confirm('Quit quiz and go back to categories?')) {
-    window.location.href = 'category.html';
+    window.location.href = 'categories.html';
   }
 });
 
@@ -108,20 +108,18 @@ retryBtn && retryBtn.addEventListener('click', () => {
 });
 
 backBtn && backBtn.addEventListener('click', () => {
-  window.location.href = 'category.html';
+  window.location.href = "categories.html";
 });
 
 function showResult() {
   document.getElementById('question-box').style.display = 'none';
+
+  scoreText.innerHTML = `<strong>Score:</strong> ${score} / ${questions.length}`;
+  timeText.innerHTML = `<strong>Time:</strong> ${Math.round((Date.now() - startTime) / 1000)} seconds`;
+
   resultBox.style.display = 'block';
-
-  const elapsedSec = Math.round((Date.now() - startTime) / 1000);                         // Divison by 1000 becuase date.now give time in millisecond.
-  scoreText.textContent = `${score} / ${questions.length}`;
-  timeText.textContent = `Time: ${elapsedSec} seconds`;
-
-  // Optional: you can send result to backend if you later add save_score.php
-  // sendResultToBackend(score, questions.length, category, elapsedSec);
 }
+
 
 // Optional function (not active): shows how to save score to backend
 async function sendResultToBackend(score, total, category, timeTakenSec) {

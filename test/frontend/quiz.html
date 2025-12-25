@@ -8,21 +8,26 @@
 </head>
 <body>
 
-  <div id="header">
-        <div id="logo">
-            <img src="../../images/logo.png" alt="logo">
-        </div>
+  <!-- Backdrop Blur -->
+    <div id="blur-overlay"></div>
 
-        <div id="navigation">
-        <!--
-          <a href="test.html">Home</a>
-          <a href="category.html">Quizzes</a>
-          <a>Leaderboard</a>
-          <a id="loginLink">Login</a>
-        -->
-          <img src="menu_icon.png" alt="menu_icon">
+    <!-- Header -->
+    <header class="header">
+        <div class="logo">QuizB</div>
+        <div class="right-controls">
+            <a class="login-btn" id="loginLink">Login</a>
+            <div class="menu-icon" onclick="toggleSidebar()">☰</div>
         </div>
-  </div>
+    </header>
+
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+        <a href="test.html">Home</a>
+        <a href="categories.html">Quizzes</a>
+        <a>Leaderboard</a>
+        <a href="#">Settings</a>
+        <a href="#" class="logout">Logout</a>
+    </aside>
 
   <div id="quiz-container">
     <header id="quiz-header">

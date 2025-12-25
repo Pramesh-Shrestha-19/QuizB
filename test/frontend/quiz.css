@@ -4,12 +4,21 @@ bgimage: https://www.freepik.com/free-vector/watercolour-smoke-background_220395
 
 */
 
-body {
-  background: #000;
-  color: #fff;
-  font-family: "Poppins", sans-serif;
+
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+  height: auto;                                                                                   /* let content decide height */
+  font-family: 'Poppins', sans-serif;
+  background-color: black;
   margin: 0;
   padding: 0;
+  display: block;
   background-image: url('../../images/background.jpg');
   background-size: cover;        /* cover entire viewport */
   background-position: center;   /* center image */
@@ -17,43 +26,161 @@ body {
   background-attachment: fixed;  /* stays fixed while scrolling */
 }
 
-#header{
-    background-color: #FFD700;
+/* HEADER */
+.header {
     width: 100%;
-    height: 7.5vh;
+    height: 65px;
+    background: #FFD700;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    overflow: visible !important;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.right-controls {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+
+/* Login button */
+.login-btn {
+    display: inline-block;        /* required for pseudo sizing */
+    position: relative;
+    z-index: 3;                  
+    background: black;
+    color: #FFD700;
+    padding: 8px 18px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border: 2px solid #979695;
+    transition: 
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    color 0.25s ease,
+    border-color 0.25s ease;
 
 }
 
-#logo{
+/* main hover lift + fallback box shadow glow */
+.login-btn:hover {
+    transform: translateY(-0.25em);
+    border-color: #5e5e5e;
+    box-shadow: 0 10px 30px rgba(255, 215, 0, 0.18);    /* visible golden glow */
+}
+
+/* bigger, blurred radial glow underneath */
+.login-btn::before {
+    content: "";
     position: absolute;
-    top: 3px;
-    left: 80px;
+    left: 50%;
+    transform: translateX(-50%) translateY(6px);
+    bottom: -6px;               /* vertical starting point under the button */
+    width: 160%;                /* wider than button for better glow spread */
+    height: 36px;               /* height of glow area */
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.35s ease, transform 0.35s ease;
+    z-index: 0;                                                                     /* below the button (button has z-index:1) */
+    filter: blur(12px);
+    background: radial-gradient(
+        ellipse at center,
+        rgba(255, 215, 0, 0.55) 0%,
+        rgba(255, 215, 0, 0.28) 30%,
+        rgba(255, 215, 0, 0.12) 55%,
+        rgba(255, 215, 0, 0) 80%
+    );
 }
 
-#navigation{
-  position: absolute;
-  top: 35px;
-  right: 40px;
-  transform: translateY(-50%);
-  display: flex;
-  align-items: center;
-  gap: 25px;                    
+/* reveal glow on hover */
+.login-btn:hover::before {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0); 
 }
 
-#navigation a {
-  display: inline-block;
-  cursor: pointer;
-  font-family: 'Poppins', sans-serif;
-  font-size: 22px;
-  color: black;
-  text-decoration: none;
+
+
+.menu-icon {
+    font-size: 30px;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.menu-icon:hover{
+    transform:  scale(1.2);
+    box-shadow: 0 10px 30px rgba(255,215,0,0.3);
 }
 
-#navigation img {
-  width: 35px;
-  height: 35px;
-  cursor: pointer;
+/* SIDEBAR */
+.sidebar {
+    position: fixed;
+    top: 65px;
+    left: -260px;
+    width: 260px;
+    height: calc(100vh - 65px);
+    background: #111;
+    border-right: 2px solid #FFD700;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 18px;
+    transition: 0.3s ease;
+    z-index: 20;
 }
+
+.sidebar.open {
+    left: 0;
+}
+
+.sidebar a {
+    color: #eee;
+    text-decoration: none;
+    padding: 10px 5px;
+    font-size: 18px;
+    border-radius: 6px;
+    transition: 0.2s ease;
+}
+
+.sidebar a:hover {
+    background: #FFD700;
+    color: black;
+}
+
+.sidebar .logout {
+    margin-top: auto;
+    color: #ffa0a0;
+}
+
+/* BLUR BACKDROP */
+#blur-overlay {
+    position: fixed;
+    inset: 0;
+    backdrop-filter: blur(0px);
+    background: rgba(0,0,0,0);
+    transition: 0.3s ease;
+    pointer-events: none;
+    z-index: 5;
+}
+
+#blur-overlay.active {
+    backdrop-filter: blur(6px);
+    background: rgba(0,0,0,0.25);
+    pointer-events: all;
+}
+
+
 
 #quiz-container {
   max-width: 900px;
@@ -116,3 +243,26 @@ body {
 
 #result-box { text-align:center; }
 .result-actions { display:flex; gap:10px; justify-content:center; margin-top:14px;}
+
+#result-box {
+    position: relative;
+    z-index: 99999 !important;
+}
+
+#quiz-container {
+    position: relative;
+    z-index: 99998 !important;
+}
+
+#blur-overlay {
+    z-index: 5 !important;
+}
+
+#result-box {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    filter: none !important;
+    opacity: 1 !important;
+    color: #fff !important;
+}
+
