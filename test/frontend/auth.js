@@ -1,4 +1,3 @@
-
 // 1. Function to Load the Auth HTML and initialize everything
 document.addEventListener("DOMContentLoaded", async () => {                                         // Ensures current page which ever it maybe is loaded fully.
     try {
@@ -29,14 +28,22 @@ function initAuthLogic() {
     // API Base URL
     const API_BASE = '/QuizB/test/backend';                                                         // Simple alias for the folder strucutre to accomadate future directory chnages easily.
 
-    // --- CHECK SESSION (Optional: Update UI if user is already logged in) ---
-    // You can implement a session check endpoint in PHP later.
+    // --- SESSION / REMEMBER ME CHECK ---
+    // Check if username exists in sessionStorage or cookie
+    function getCookie(name) {
+        const value = `; ${document.cookie}`;
+        const parts = value.split(`; ${name}=`);
+        if (parts.length === 2) return parts.pop().split(';').shift();
+    }
+
+    const rememberedUser = getCookie('quizb_user');
+    if(rememberedUser) {
+        if(loginLink) loginLink.textContent = rememberedUser;
+    }
 
     // --- OPEN MODALS ---
     if(loginLink) {
         loginLink.addEventListener('click', (e) => {
-            // If already logged in, maybe redirect? For now, just open modal
-            // unless we add logic to change the text to "Logout"
             e.preventDefault();
             if(loginLink.textContent !== "Login" && loginLink.textContent !== "Logout") {           // Check is user is logged in or not.
                // User is logged in (Simple check based on text replacement below)
@@ -66,13 +73,31 @@ function initAuthLogic() {
     // --- CLOSE MODALS ---
     closeButtons.forEach(btn => {
         btn.addEventListener('click', () => {
-            btn.closest('.modal').style.display = 'none';                                           // .closet goes upward the DOM tree and return the first ancestor that matches the selector .modal. Stops searching after it finds the first match so it works only on model boxes.
+            const modal = btn.closest('.modal');
+            modal.style.display = 'none';                                                           // .closet goes upward the DOM tree and return the first ancestor that matches the selector .modal. Stops searching after it finds the first match so it works only on model boxes.
+            
+            // FIXED: Reset forget password forms when closing modal
+            if(modal.id === 'forgetPasswordModal') {
+                const forgetForm = document.getElementById('forgetPasswordForm');
+                const resetForm = document.getElementById('resetPasswordForm');
+                if(forgetForm) forgetForm.style.display = 'block';                                  // Show email form
+                if(resetForm) resetForm.style.display = 'none';                                     // Hide reset form
+            }
         });
     });
 
     window.addEventListener('click', (e) => {                                                       // Makes the modal boxes disapear if a click is detected outside of the modal boxes.
         if(e.target === loginModal) loginModal.style.display = 'none';
         if(e.target === signupModal) signupModal.style.display = 'none';
+        
+        // FIXED: Reset forget password forms when clicking outside
+        if(e.target.id === 'forgetPasswordModal') {
+            const forgetForm = document.getElementById('forgetPasswordForm');
+            const resetForm = document.getElementById('resetPasswordForm');
+            e.target.style.display = 'none';
+            if(forgetForm) forgetForm.style.display = 'block';                                      // Show email form
+            if(resetForm) resetForm.style.display = 'none';                                         // Hide reset form
+        }
     });
 
     // --- PASSWORD TOGGLE ---
@@ -96,6 +121,7 @@ function initAuthLogic() {
             e.preventDefault();
             const username = document.querySelector('#loginForm input[name="username"]').value;
             const password = document.querySelector('#loginForm input[name="password"]').value;
+            const rememberMe = document.querySelector('#loginForm input[type="checkbox"]').checked;   // REMEMBER ME CHECK
 
             try {
                 const response = await fetch(API_BASE + '/login.php', {
@@ -110,6 +136,14 @@ function initAuthLogic() {
                     loginModal.style.display = 'none';
                     loginForm.reset();
                     if(loginLink) loginLink.textContent = data.user;                                    // Update Navbar ie change the Login text into the username.
+
+                    // --- REMEMBER ME COOKIE ---
+                    if(rememberMe){
+                        document.cookie = `quizb_user=${data.user}; path=/; max-age=${60*60*24*30}`;   // 30 days
+                    } else {
+                        document.cookie = `quizb_user=${data.user}; path=/`;                            // Session cookie only
+                    }
+
                 } else {
                     alert('Login failed: ' + data.message);
                 }
@@ -152,4 +186,110 @@ function initAuthLogic() {
             }
         });
     }
-}
+
+    // --- LOGOUT BUTTON ---
+    const logoutButtons = document.querySelectorAll('.logout');
+    logoutButtons.forEach(btn => {
+        btn.addEventListener('click', async (e) => {
+            e.preventDefault();
+            try {
+                const res = await fetch(`${API_BASE}/logout.php`);
+                const data = await res.json();
+                if(data.status === 'success') {
+                    alert(data.message);
+                    // Reset login text
+                    if(loginLink) loginLink.textContent = 'Login';
+                    // Remove remember me cookie
+                    document.cookie = 'quizb_user=; path=/; max-age=0';
+                    location.reload(); // Refresh page to reflect changes
+                } else {
+                    alert('Logout failed');
+                }
+            } catch(err) {
+                console.error(err);
+                alert('Error during logout');
+            }
+        });
+    });
+
+    // --- FORGET PASSWORD FLOW ---
+    const forgetForm = document.getElementById('forgetPasswordForm');
+    const resetForm = document.getElementById('resetPasswordForm');
+    const forgetPasswordModal = document.getElementById('forgetPasswordModal');
+
+    if(forgetForm){
+        forgetForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const email = forgetForm.email.value;
+
+            try {
+                const res = await fetch(`${API_BASE}/password_reset.php`, {
+                    method: 'POST',
+                    headers: {'Content-Type':'application/json'},
+                    body: JSON.stringify({ email })
+                });
+                const data = await res.json();                                                      // FIXED: Parse as JSON instead of text
+                console.log(data);                                                                  // Log the parsed data
+                alert(data.message);                                                                // Show message to user
+
+                if(data.status === 'success'){                                                      // Now 'data' is properly defined
+                    forgetForm.style.display = 'none';
+                    resetForm.style.display = 'block';
+                    resetForm.dataset.userEmail = email;                                            // store email for next step
+                }
+            } catch(err) {
+                console.error(err);
+                alert('Error sending reset code');
+            }
+        });
+    }
+
+    if(resetForm){
+        resetForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const email = resetForm.dataset.userEmail;
+            const code = resetForm.reset_code.value;
+            const newPassword = resetForm.new_password.value;
+            const confirmPassword = resetForm.confirm_password.value;
+
+            if(newPassword !== confirmPassword){
+                alert("Passwords do not match");
+                return;
+            }
+
+            try {
+                const res = await fetch(`${API_BASE}/password_reset.php`, {
+                    method: 'PUT',
+                    headers: {'Content-Type':'application/json'},
+                    body: JSON.stringify({ email, code, newPassword })
+                });
+                const data = await res.json();
+                alert(data.message);
+                if(data.status === 'success'){
+                    resetForm.reset();
+                    resetForm.style.display = 'none';
+                    forgetForm.style.display = 'block';
+                    forgetPasswordModal.style.display = 'none';
+                }
+            } catch(err) {
+                console.error(err);
+                alert('Error resetting password');
+            }
+        });
+    }
+
+    // Attach click event for "Forget Password" link in login modal
+    const forgetLink = loginModal.querySelector('.forget a');
+    if(forgetLink){
+        forgetLink.addEventListener('click', (e)=>{
+            e.preventDefault();
+            loginModal.style.display = 'none';
+            forgetPasswordModal.style.display = 'flex';
+            
+            // FIXED: Ensure email form is shown and reset form is hidden when opening
+            if(forgetForm) forgetForm.style.display = 'block';
+            if(resetForm) resetForm.style.display = 'none';
+        });
+    }
+
+} // END initAuthLogic

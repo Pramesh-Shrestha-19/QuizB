@@ -5,6 +5,28 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>QuizB - Quiz</title>
   <link rel="stylesheet" href="./quiz.css" />
+  <style>
+    /* Hide all auth modals on quiz page */
+    #loginModal,
+    #signupModal,
+    #forgetPasswordModal {
+      display: none !important;
+    }
+    
+    /* Disable login button and menu icon during quiz */
+    #loginLink,
+    .menu-icon {
+      pointer-events: none; /* Disable clicking */
+      opacity: 0.5; /* Make it look disabled */
+      cursor: not-allowed !important; /* Show "not allowed" cursor */
+    }
+    
+    /* Optional: Add a subtle visual cue */
+    #loginLink:hover,
+    .menu-icon:hover {
+      opacity: 0.3;
+    }
+  </style>
 </head>
 <body>
 
@@ -60,5 +82,6 @@
   </div>
 
   <script src="./quiz.js"></script>
+  <script src="auth.js"></script>
 </body>
 </html>

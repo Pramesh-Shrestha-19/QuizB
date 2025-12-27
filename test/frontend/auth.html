@@ -60,3 +60,43 @@
         </form>
     </div>
 </div>
+
+<!-- Forget Password Modal -->
+<div id="forgetPasswordModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+
+        <!-- Step 1: Enter Email -->
+        <form id="forgetPasswordForm" class="step1">
+            <h1>Reset Password</h1>
+            <div class="inputbox">
+                <input type="email" name="email" required placeholder=" ">
+                <label>Email</label>
+                <ion-icon name="mail-outline"></ion-icon>
+            </div>
+            <button type="submit">Send Reset Code</button>
+        </form>
+
+        <!-- Step 2: Enter Reset Code + New Password -->
+        <form id="resetPasswordForm" class="step2" style="display:none;">
+            <h1>Enter Reset Code</h1>
+            <div class="inputbox">
+                <input type="text" name="reset_code" required placeholder=" ">
+                <label>Reset Code</label>
+            </div>
+            <div class="inputbox password-box">
+                <input type="password" name="new_password" required placeholder=" ">
+                <label>New Password</label>
+                <ion-icon class="lock-icon" name="lock-closed-outline"></ion-icon>
+                <ion-icon class="toggle-password" name="eye-outline"></ion-icon>
+            </div>
+            <div class="inputbox password-box">
+                <input type="password" name="confirm_password" required placeholder=" ">
+                <label>Confirm Password</label>
+                <ion-icon class="lock-icon" name="lock-closed-outline"></ion-icon>
+                <ion-icon class="toggle-password" name="eye-outline"></ion-icon>
+            </div>
+            <button type="submit">Reset Password</button>
+        </form>
+    </div>
+</div>
