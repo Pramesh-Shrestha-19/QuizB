@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which country is known for Khachapuri, a cheese-filled bread?",
+    "options": ["Georgia", "Armenia", "Turkey", "Azerbaijan"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Injera, a sourdough flatbread?",
+    "options": ["Ethiopia", "Kenya", "Sudan", "Somalia"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for Moussaka, a layered eggplant dish?",
+    "options": ["Greece", "Turkey", "Bulgaria", "Lebanon"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Biryani?",
+    "options": ["India", "Pakistan", "Bangladesh", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which country is famous for Smørrebrød, an open-faced sandwich?",
+    "options": ["Denmark", "Norway", "Sweden", "Finland"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for Pho Bo, a beef noodle soup?",
+    "options": ["Vietnam", "Thailand", "China", "Cambodia"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Laksa, a spicy noodle soup?",
+    "options": ["Malaysia", "Singapore", "Indonesia", "Thailand"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Poffertjes, small fluffy pancakes?",
+    "options": ["Netherlands", "Belgium", "Germany", "Denmark"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for Rendang, a slow-cooked beef dish?",
+    "options": ["Indonesia", "Malaysia", "Thailand", "Philippines"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Tagliatelle al Ragù (Bolognese)?",
+    "options": ["Italy", "France", "Spain", "Portugal"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for Kimchi, fermented vegetables?",
+    "options": ["South Korea", "China", "Japan", "Vietnam"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Choucroute garnie, a sauerkraut dish?",
+    "options": ["France", "Germany", "Austria", "Belgium"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for Pastel de Nata, a custard tart?",
+    "options": ["Portugal", "Spain", "Brazil", "Italy"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Pho Ga, a chicken noodle soup?",
+    "options": ["Vietnam", "Thailand", "China", "Cambodia"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Kebab and Meze dishes?",
+    "options": ["Turkey", "Greece", "Lebanon", "Iran"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for Gulab Jamun, a dessert made of milk solids?",
+    "options": ["India", "Pakistan", "Bangladesh", "Nepal"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Stroganoff, a creamy meat dish?",
+    "options": ["Russia", "Ukraine", "Poland", "Belarus"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for Arepas, a cornmeal cake?",
+    "options": ["Venezuela", "Colombia", "Mexico", "Peru"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Pavlova, a meringue dessert?",
+    "options": ["New Zealand", "Australia", "England", "Canada"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for Chiles en Nogada, stuffed peppers with walnut sauce?",
+    "options": ["Mexico", "Spain", "Peru", "Chile"],
+    "answer": 0
+  }
+]

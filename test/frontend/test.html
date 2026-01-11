@@ -17,9 +17,27 @@
     <!-- Backdrop Blur -->
     <div id="blur-overlay"></div>
 
+    <!-- Quiz Selection Modal -->
+    <div id="quiz-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Choose Your Challenge</h2>
+                <span class="modal-close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div id="theme-container" class="theme-scroll-container">
+                    <!-- Themes will be dynamically inserted here -->
+                </div>
+                <button id="surprise-btn" class="surprise-button">
+                    🎲 Surprise Me! (Random Theme & Difficulty)
+                </button>
+            </div>
+        </div>
+    </div>
+
     <!-- Header -->
     <header class="header">
-        <div class="logo">QuizB</div>
+        <a href="test.html" class="logo">QuizB</a>
         <div class="right-controls">
             <a class="login-btn" id="loginLink">Login</a>
             <div class="menu-icon" onclick="toggleSidebar()">☰</div>
@@ -50,22 +68,22 @@
         </section>
 
         <section id="sections">
-            <div class="section">
-                <p class="section-title">General Knowledge</p>
+            <div class="section" data-category="general">
+                <p class="section-title">📚 General Knowledge</p>
                 <p class="section-subtitle">Test your overall knowledge!</p>
-                <a href="quiz.html?cat=general"><button type="button" class="Play_button">Play now</button></a>
+                <button type="button" class="Play_button">Play now</button>
             </div>
 
-            <div class="section">
-                <p class="section-title">Science & Tech</p>
+            <div class="section" data-category="science">
+                <p class="section-title">🔬 Science & Tech</p>
                 <p class="section-subtitle">How much do you know about inventions and discoveries?</p>
-                <a href="quiz.html?cat=science"><button type="button" class="Play_button">Play now</button></a>
+                <button type="button" class="Play_button">Play now</button>
             </div>
 
-            <div class="section">
-                <p class="section-title">Sports Trivia</p>
+            <div class="section" data-category="sports">
+                <p class="section-title">⚽ Sports Trivia</p>
                 <p class="section-subtitle">From Messi to Mount Everest—test your sports IQ!</p>
-                <a href="quiz.html?cat=sports"><button type="button" class="Play_button">Play now</button></a>
+                <button type="button" class="Play_button">Play now</button>
             </div>
         </section>
     </main>
@@ -82,6 +100,9 @@
     <!-- Auth JS -->
     <script src="auth.js"></script>
 
+    <!-- Modal JS -->
+    <script src="modal.js"></script>
+
     <!-- Sidebar JS -->
     <script>
     function toggleSidebar() {
@@ -91,20 +112,18 @@
         sidebar.classList.toggle("open");
         blur.classList.toggle("active");
     }
-    </script>
 
-</body>
-<script>
-const sidebar = document.getElementById("sidebar");
-const blur = document.getElementById("blur-overlay");
+    const sidebar = document.getElementById("sidebar");
+    const blur = document.getElementById("blur-overlay");
 
-window.addEventListener('click', (e) => {
     // Check if click is outside sidebar and menu icon
-    if (!sidebar.contains(e.target) && !e.target.classList.contains('menu-icon')) {
-        sidebar.classList.remove('open');   // Close sidebar
-        blur.classList.remove('active');    // Remove blur
-    }
-});
-</script>
+    window.addEventListener('click', (e) => {
+        if (!sidebar.contains(e.target) && !e.target.classList.contains('menu-icon')) {
+            sidebar.classList.remove('open');   // Close sidebar
+            blur.classList.remove('active');    // Remove blur
+        }
+    });
+    </script>
+</body>
 
 </html>

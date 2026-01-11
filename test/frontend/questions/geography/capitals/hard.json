@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the capital of Bhutan?",
+    "options": ["Thimphu", "Paro", "Phuntsholing", "Punakha"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Kazakhstan?",
+    "options": ["Astana", "Almaty", "Shymkent", "Karaganda"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Uzbekistan?",
+    "options": ["Tashkent", "Samarkand", "Bukhara", "Khiva"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Slovakia?",
+    "options": ["Bratislava", "Kosice", "Trnava", "Nitra"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Malawi?",
+    "options": ["Lilongwe", "Blantyre", "Mzuzu", "Zomba"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Suriname?",
+    "options": ["Paramaribo", "Lima", "Georgetown", "Port of Spain"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Montenegro?",
+    "options": ["Podgorica", "Cetinje", "Niksic", "Tivat"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Kyrgyzstan?",
+    "options": ["Bishkek", "Osh", "Naryn", "Jalal-Abad"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Moldova?",
+    "options": ["Chisinau", "Balti", "Tiraspol", "Cahul"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Belize?",
+    "options": ["Belmopan", "Belize City", "Orange Walk", "Dangriga"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Vanuatu?",
+    "options": ["Port Vila", "Luganville", "Isangel", "Santo"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Liechtenstein?",
+    "options": ["Vaduz", "Schaan", "Balzers", "Triesen"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Maldives?",
+    "options": ["Malé", "Addu City", "Fuvahmulah", "Hulhumalé"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of São Tomé and Príncipe?",
+    "options": ["São Tomé", "Santo António", "Neves", "Ribeira Peixe"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Eswatini?",
+    "options": ["Mbabane", "Lobamba", "Manzini", "Siteki"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Comoros?",
+    "options": ["Moroni", "Moutsamoudou", "Fomboni", "Nioumachoua"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Micronesia?",
+    "options": ["Palikir", "Kolonia", "Weno", "Tamana"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Brunei?",
+    "options": ["Bandar Seri Begawan", "Kuala Belait", "Seria", "Tutong"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Samoa?",
+    "options": ["Apia", "Asau", "Salelologa", "Faleolo"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Palau?",
+    "options": ["Ngerulmud", "Koror", "Melekeok", "Airai"],
+    "answer": 0
+  }
+]

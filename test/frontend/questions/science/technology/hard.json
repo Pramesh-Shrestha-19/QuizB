@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which programming paradigm focuses on objects and classes?",
+    "options": ["Object-Oriented Programming", "Functional Programming", "Procedural Programming", "Logic Programming"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the fastest type of computer memory?",
+    "options": ["Cache", "RAM", "ROM", "SSD"],
+    "answer": 0
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Application Process Integration", "Automated Program Interface", "Active Programming Internet"],
+    "answer": 0
+  },
+  {
+    "question": "Which company invented the first graphical user interface (GUI)?",
+    "options": ["Xerox", "Microsoft", "Apple", "IBM"],
+    "answer": 0
+  },
+  {
+    "question": "Which programming language is used for AI and machine learning most commonly?",
+    "options": ["Python", "C++", "Java", "Ruby"],
+    "answer": 0
+  },
+  {
+    "question": "What is blockchain mainly used for?",
+    "options": ["Digital transactions and cryptocurrencies", "Web development", "AI processing", "Cloud storage"],
+    "answer": 0
+  },
+  {
+    "question": "Which company developed the first quantum computer prototype?",
+    "options": ["IBM", "Google", "Microsoft", "Intel"],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol is used for secure internet communication?",
+    "options": ["HTTPS", "HTTP", "FTP", "SMTP"],
+    "answer": 0
+  },
+  {
+    "question": "Which AI technique uses a network of neurons to process data?",
+    "options": ["Neural Networks", "Decision Trees", "Support Vector Machines", "K-Nearest Neighbors"],
+    "answer": 0
+  },
+  {
+    "question": "Which storage type is non-volatile and retains data without power?",
+    "options": ["ROM", "RAM", "Cache", "Registers"],
+    "answer": 0
+  },
+  {
+    "question": "What is the main programming language for iOS apps?",
+    "options": ["Swift", "Objective-C", "C++", "Python"],
+    "answer": 0
+  },
+  {
+    "question": "Which technology allows multiple devices to communicate wirelessly over short distances?",
+    "options": ["Bluetooth", "Wi-Fi", "Ethernet", "NFC"],
+    "answer": 0
+  },
+  {
+    "question": "Which database model organizes data in tables?",
+    "options": ["Relational Database", "Hierarchical Database", "Network Database", "Object Database"],
+    "answer": 0
+  },
+  {
+    "question": "What does DNS stand for in networking?",
+    "options": ["Domain Name System", "Digital Network Service", "Data Name Server", "Domain Number System"],
+    "answer": 0
+  },
+  {
+    "question": "Which technology allows for decentralized applications (DApps)?",
+    "options": ["Blockchain", "Cloud Computing", "AI", "IoT"],
+    "answer": 0
+  },
+  {
+    "question": "Which component interprets instructions in a computer?",
+    "options": ["CPU", "GPU", "RAM", "ROM"],
+    "answer": 0
+  },
+  {
+    "question": "Which algorithm is commonly used for sorting?",
+    "options": ["Quick Sort", "Dijkstra", "A*", "Bellman-Ford"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the most widely used open-source operating system?",
+    "options": ["Linux", "Windows", "macOS", "FreeBSD"],
+    "answer": 0
+  },
+  {
+    "question": "Which wireless technology is used for mobile payments?",
+    "options": ["NFC", "Bluetooth", "Wi-Fi", "Infrared"],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol is used for sending emails?",
+    "options": ["SMTP", "HTTP", "FTP", "DNS"],
+    "answer": 0
+  }
+]

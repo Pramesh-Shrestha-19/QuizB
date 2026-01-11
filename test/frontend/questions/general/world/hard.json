@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the official language of Brazil?",
+    "options": ["Spanish", "Portuguese", "French", "English"],
+    "answer": 1
+  },
+  {
+    "question": "Which treaty ended World War I?",
+    "options": ["Treaty of Paris", "Treaty of Versailles", "Treaty of Vienna", "Treaty of Ghent"],
+    "answer": 1
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Titanium", "Diamond", "Graphene", "Tungsten"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": ["Marie Curie", "Dorothy Hodgkin", "Rosalind Franklin", "Barbara McClintock"],
+    "answer": 0
+  },
+  {
+    "question": "What is the largest island in the Mediterranean Sea?",
+    "options": ["Crete", "Cyprus", "Sicily", "Sardinia"],
+    "answer": 2
+  },
+  {
+    "question": "In what year was the United Nations founded?",
+    "options": ["1942", "1945", "1948", "1950"],
+    "answer": 1
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "options": ["Stapes", "Incus", "Malleus", "Patella"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": ["Germany", "Argentina", "Brazil", "Italy"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Mongolia?",
+    "options": ["Astana", "Bishkek", "Ulaanbaatar", "Dushanbe"],
+    "answer": 2
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "H.G. Wells"],
+    "answer": 1
+  },
+  {
+    "question": "What is the longest river in Europe?",
+    "options": ["Danube", "Rhine", "Volga", "Seine"],
+    "answer": 2
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "options": ["1987", "1988", "1989", "1990"],
+    "answer": 2
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": ["NaCl", "KCl", "CaCO3", "NaHCO3"],
+    "answer": 0
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": ["Louis Pasteur", "Alexander Fleming", "Robert Koch", "Joseph Lister"],
+    "answer": 1
+  },
+  {
+    "question": "What is the largest landlocked country?",
+    "options": ["Mongolia", "Chad", "Kazakhstan", "Bolivia"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the nearest galaxy to the Milky Way?",
+    "options": ["Triangulum", "Andromeda", "Whirlpool", "Sombrero"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first person to reach the South Pole?",
+    "options": ["Ernest Shackleton", "Robert Falcon Scott", "Roald Amundsen", "Richard Byrd"],
+    "answer": 2
+  },
+  {
+    "question": "What is the rarest blood type?",
+    "options": ["O negative", "AB negative", "B negative", "A negative"],
+    "answer": 1
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": ["1910", "1911", "1912", "1913"],
+    "answer": 2
+  }
+]

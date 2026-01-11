@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is the king of the Greek gods?",
+    "options": ["Zeus", "Poseidon", "Hades", "Apollo"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the goddess of wisdom?",
+    "options": ["Athena", "Aphrodite", "Hera", "Demeter"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the god of the sea?",
+    "options": ["Poseidon", "Zeus", "Hades", "Ares"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the goddess of love and beauty?",
+    "options": ["Aphrodite", "Athena", "Hera", "Artemis"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the god of the underworld?",
+    "options": ["Hades", "Zeus", "Poseidon", "Hermes"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the god of war?",
+    "options": ["Ares", "Apollo", "Hermes", "Dionysus"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the messenger of the gods?",
+    "options": ["Hermes", "Apollo", "Ares", "Dionysus"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the goddess of the hunt?",
+    "options": ["Artemis", "Athena", "Aphrodite", "Demeter"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the god of the sun?",
+    "options": ["Apollo", "Helios", "Zeus", "Ares"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the goddess of agriculture?",
+    "options": ["Demeter", "Hera", "Athena", "Aphrodite"],
+    "answer": 0
+  }
+]

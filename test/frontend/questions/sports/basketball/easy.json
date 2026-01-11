@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How many players are on the court for each team during a basketball game?",
+    "options": ["4", "5", "6", "7"],
+    "answer": 1
+  },
+  {
+    "question": "How many points is a free throw worth?",
+    "options": ["1", "2", "3", "4"],
+    "answer": 0
+  },
+  {
+    "question": "What does NBA stand for?",
+    "options": ["National Basketball Association", "North Basketball Alliance", "New Ball Arena", "National Ball Association"],
+    "answer": 0
+  },
+  {
+    "question": "Which team does LeBron James currently play for (as of 2024)?",
+    "options": ["Miami Heat", "Cleveland Cavaliers", "Los Angeles Lakers", "Chicago Bulls"],
+    "answer": 2
+  },
+  {
+    "question": "How many quarters are in an NBA game?",
+    "options": ["2", "3", "4", "5"],
+    "answer": 2
+  },
+  {
+    "question": "What is it called when a player scores by putting the ball directly into the basket?",
+    "options": ["Layup", "Dunk", "Free throw", "Three-pointer"],
+    "answer": 1
+  },
+  {
+    "question": "Which city are the Bulls from?",
+    "options": ["New York", "Los Angeles", "Chicago", "Boston"],
+    "answer": 2
+  },
+  {
+    "question": "How many points is a shot from beyond the three-point line worth?",
+    "options": ["1", "2", "3", "4"],
+    "answer": 2
+  },
+  {
+    "question": "What color are most basketballs?",
+    "options": ["Orange", "Red", "Brown", "Yellow"],
+    "answer": 0
+  },
+  {
+    "question": "Which player is known as 'King James'?",
+    "options": ["Michael Jordan", "Kobe Bryant", "LeBron James", "Stephen Curry"],
+    "answer": 2
+  }
+]

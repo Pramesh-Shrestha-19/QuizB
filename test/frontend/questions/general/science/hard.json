@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which particle has a negative charge?",
+    "options": ["Proton", "Neutron", "Electron", "Photon"],
+    "answer": 2
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Gd", "Go"],
+    "answer": 0
+  },
+  {
+    "question": "Which gas is essential for combustion?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": 0
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": ["Newton", "Joule", "Watt", "Pascal"],
+    "answer": 0
+  },
+  {
+    "question": "Which organ in the human body produces insulin?",
+    "options": ["Pancreas", "Liver", "Kidney", "Spleen"],
+    "answer": 0
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+    "answer": 1
+  },
+  {
+    "question": "Which organelle is responsible for protein synthesis?",
+    "options": ["Mitochondria", "Ribosome", "Nucleus", "Golgi Apparatus"],
+    "answer": 1
+  },
+  {
+    "question": "Which acid is found in the human stomach?",
+    "options": ["Hydrochloric acid", "Sulfuric acid", "Nitric acid", "Acetic acid"],
+    "answer": 0
+  },
+  {
+    "question": "What type of blood cells fight infections?",
+    "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet is known as the Morning Star or Evening Star?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "answer": 1
+  },
+  {
+    "question": "Which part of the brain controls voluntary movements?",
+    "options": ["Cerebellum", "Cerebrum", "Medulla", "Hypothalamus"],
+    "answer": 1
+  },
+  {
+    "question": "Which process converts sugar into alcohol?",
+    "options": ["Photosynthesis", "Fermentation", "Respiration", "Transpiration"],
+    "answer": 1
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "options": ["300,000 km/s", "150,000 km/s", "3,000 km/s", "30,000 km/s"],
+    "answer": 0
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": ["Helium", "Hydrogen", "Oxygen", "Lithium"],
+    "answer": 1
+  },
+  {
+    "question": "Which vitamin is water-soluble?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+    "answer": 1
+  },
+  {
+    "question": "Which organ helps regulate body temperature through sweat?",
+    "options": ["Kidneys", "Skin", "Liver", "Lungs"],
+    "answer": 1
+  },
+  {
+    "question": "Which gas is a greenhouse gas?",
+    "options": ["Nitrogen", "Carbon Dioxide", "Oxygen", "Hydrogen"],
+    "answer": 1
+  },
+  {
+    "question": "Which simple machine consists of a wheel with a rope?",
+    "options": ["Lever", "Pulley", "Inclined Plane", "Wedge"],
+    "answer": 1
+  },
+  {
+    "question": "Which phenomenon causes the splitting of white light into colors?",
+    "options": ["Diffraction", "Dispersion", "Reflection", "Refraction"],
+    "answer": 1
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Lead", "Copper", "Aluminum"],
+    "answer": 0
+  }
+]

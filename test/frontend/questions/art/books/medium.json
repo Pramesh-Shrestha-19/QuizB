@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Who wrote 'Jane Eyre'?",
+    "options": ["Charlotte Brontë", "Emily Brontë", "Mary Shelley", "Anne Brontë"],
+    "answer": 0
+  },
+  {
+    "question": "Which author wrote 'Frankenstein'?",
+    "options": ["Mary Shelley", "Bram Stoker", "Edgar Allan Poe", "Robert Louis Stevenson"],
+    "answer": 0
+  },
+  {
+    "question": "'Brave New World' was written by?",
+    "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Philip K. Dick"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Chronicles of Narnia'?",
+    "options": ["C.S. Lewis", "J.R.R. Tolkien", "Philip Pullman", "Lewis Carroll"],
+    "answer": 0
+  },
+  {
+    "question": "Which author created 'Percy Jackson' series?",
+    "options": ["Rick Riordan", "J.K. Rowling", "Suzanne Collins", "Veronica Roth"],
+    "answer": 0
+  },
+  {
+    "question": "'Wuthering Heights' was written by?",
+    "options": ["Emily Brontë", "Charlotte Brontë", "Anne Brontë", "Jane Austen"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Catcher in the Rye'?",
+    "options": ["J.D. Salinger", "Ernest Hemingway", "F. Scott Fitzgerald", "Harper Lee"],
+    "answer": 0
+  },
+  {
+    "question": "'Lord of the Flies' was written by?",
+    "options": ["William Golding", "George Orwell", "Ray Bradbury", "Aldous Huxley"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Picture of Dorian Gray'?",
+    "options": ["Oscar Wilde", "Bram Stoker", "Mary Shelley", "Lewis Carroll"],
+    "answer": 0
+  },
+  {
+    "question": "'Animal Farm' is a novel by?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Philip K. Dick"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Call of the Wild'?",
+    "options": ["Jack London", "Mark Twain", "Ernest Hemingway", "Robert Louis Stevenson"],
+    "answer": 0
+  },
+  {
+    "question": "Which author wrote 'Dracula'?",
+    "options": ["Bram Stoker", "Mary Shelley", "Edgar Allan Poe", "H.G. Wells"],
+    "answer": 0
+  },
+  {
+    "question": "'Great Expectations' was written by?",
+    "options": ["Charles Dickens", "William Makepeace Thackeray", "Thomas Hardy", "George Eliot"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Odyssey'?",
+    "options": ["Homer", "Virgil", "Sophocles", "Euripides"],
+    "answer": 0
+  },
+  {
+    "question": "'Les Misérables' was written by?",
+    "options": ["Victor Hugo", "Alexandre Dumas", "Gustave Flaubert", "Émile Zola"],
+    "answer": 0
+  }
+]

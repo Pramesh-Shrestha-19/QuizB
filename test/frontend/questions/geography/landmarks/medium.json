@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Stonehenge is located in which country?",
+    "options": ["England", "Scotland", "Wales", "Ireland"],
+    "answer": 0
+  },
+  {
+    "question": "The Burj Khalifa is in which city?",
+    "options": ["Dubai", "Abu Dhabi", "Doha", "Riyadh"],
+    "answer": 0
+  },
+  {
+    "question": "The Acropolis is in which country?",
+    "options": ["Greece", "Italy", "Turkey", "Egypt"],
+    "answer": 0
+  },
+  {
+    "question": "Petra is an ancient city located in which country?",
+    "options": ["Jordan", "Syria", "Egypt", "Israel"],
+    "answer": 0
+  },
+  {
+    "question": "The Leaning Tower of Pisa is in which country?",
+    "options": ["Italy", "Spain", "France", "Portugal"],
+    "answer": 0
+  },
+  {
+    "question": "Angkor Wat is located in which country?",
+    "options": ["Cambodia", "Thailand", "Vietnam", "Laos"],
+    "answer": 0
+  },
+  {
+    "question": "Mount Rushmore is located in which US state?",
+    "options": ["South Dakota", "North Dakota", "Montana", "Wyoming"],
+    "answer": 0
+  },
+  {
+    "question": "Which city has the Brandenburg Gate?",
+    "options": ["Berlin", "Munich", "Hamburg", "Frankfurt"],
+    "answer": 0
+  },
+  {
+    "question": "Chichen Itza is located in which country?",
+    "options": ["Mexico", "Guatemala", "Peru", "Honduras"],
+    "answer": 0
+  },
+  {
+    "question": "The Golden Gate Bridge is located in which city?",
+    "options": ["San Francisco", "Los Angeles", "New York", "Seattle"],
+    "answer": 0
+  },
+  {
+    "question": "The Kremlin is in which city?",
+    "options": ["Moscow", "Saint Petersburg", "Kazan", "Sochi"],
+    "answer": 0
+  },
+  {
+    "question": "Sagrada Família is a famous landmark in which country?",
+    "options": ["Spain", "Italy", "Portugal", "France"],
+    "answer": 0
+  },
+  {
+    "question": "Moai statues are found on which island?",
+    "options": ["Easter Island", "Galapagos", "Fiji", "Hawaii"],
+    "answer": 0
+  },
+  {
+    "question": "Mount Fuji is located in which country?",
+    "options": ["Japan", "China", "South Korea", "Thailand"],
+    "answer": 0
+  },
+  {
+    "question": "The Alhambra is in which country?",
+    "options": ["Spain", "Morocco", "Italy", "Portugal"],
+    "answer": 0
+  }
+]

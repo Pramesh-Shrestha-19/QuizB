@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is the founder of Microsoft?",
+    "options": ["Bill Gates", "Steve Jobs", "Mark Zuckerberg", "Larry Page"],
+    "answer": 0
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Program Unit", "Central Performance Unit", "Control Processing Unit"],
+    "answer": 0
+  },
+  {
+    "question": "Which company created the iPhone?",
+    "options": ["Apple", "Samsung", "Google", "Microsoft"],
+    "answer": 0
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": ["HyperText Markup Language", "HighText Markup Language", "Hyperlink Text Mark Language", "HyperTool Markup Language"],
+    "answer": 0
+  },
+  {
+    "question": "What is the brain of the computer?",
+    "options": ["CPU", "RAM", "Hard Drive", "GPU"],
+    "answer": 0
+  },
+  {
+    "question": "Which company developed Windows OS?",
+    "options": ["Microsoft", "Apple", "IBM", "Google"],
+    "answer": 0
+  },
+  {
+    "question": "What is the storage unit larger than a gigabyte?",
+    "options": ["Terabyte", "Megabyte", "Kilobyte", "Petabyte"],
+    "answer": 0
+  },
+  {
+    "question": "What does URL stand for?",
+    "options": ["Uniform Resource Locator", "Universal Resource Link", "Uniform Reference Link", "Unique Resource Locator"],
+    "answer": 0
+  },
+  {
+    "question": "Which company created the Android operating system?",
+    "options": ["Google", "Apple", "Microsoft", "Samsung"],
+    "answer": 0
+  },
+  {
+    "question": "What is the main programming language used for iOS apps?",
+    "options": ["Swift", "Java", "Python", "C#"],
+    "answer": 0
+  }
+]

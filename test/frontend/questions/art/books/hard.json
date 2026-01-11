@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who wrote 'The Divine Comedy'?",
+    "options": ["Dante Alighieri", "Geoffrey Chaucer", "Homer", "Virgil"],
+    "answer": 0
+  },
+  {
+    "question": "Which author wrote 'One Hundred Years of Solitude'?",
+    "options": ["Gabriel García Márquez", "Isabel Allende", "Jorge Luis Borges", "Mario Vargas Llosa"],
+    "answer": 0
+  },
+  {
+    "question": "'Crime and Punishment' was written by?",
+    "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Ivan Turgenev"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'War and Peace'?",
+    "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Alexander Pushkin", "Nikolai Gogol"],
+    "answer": 0
+  },
+  {
+    "question": "Which author wrote 'The Trial'?",
+    "options": ["Franz Kafka", "Albert Camus", "Hermann Hesse", "Thomas Mann"],
+    "answer": 0
+  },
+  {
+    "question": "'Don Quixote' was written by?",
+    "options": ["Miguel de Cervantes", "Lope de Vega", "Federico García Lorca", "Jorge Luis Borges"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Brothers Karamazov'?",
+    "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Ivan Turgenev"],
+    "answer": 0
+  },
+  {
+    "question": "'Anna Karenina' was written by?",
+    "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Ivan Turgenev", "Alexander Pushkin"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Madame Bovary'?",
+    "options": ["Gustave Flaubert", "Émile Zola", "Victor Hugo", "Alexandre Dumas"],
+    "answer": 0
+  },
+  {
+    "question": "'The Iliad' is attributed to?",
+    "options": ["Homer", "Virgil", "Sophocles", "Euripides"],
+    "answer": 0
+  },
+  {
+    "question": "Which author wrote 'The Sound and the Fury'?",
+    "options": ["William Faulkner", "Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Heart of Darkness'?",
+    "options": ["Joseph Conrad", "H.G. Wells", "George Orwell", "Aldous Huxley"],
+    "answer": 0
+  },
+  {
+    "question": "'The Stranger' was written by?",
+    "options": ["Albert Camus", "Jean-Paul Sartre", "Simone de Beauvoir", "Franz Kafka"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Metamorphosis'?",
+    "options": ["Franz Kafka", "Hermann Hesse", "Thomas Mann", "Albert Camus"],
+    "answer": 0
+  },
+  {
+    "question": "Which author wrote 'Pride and Prejudice'?",
+    "options": ["Jane Austen", "Charlotte Brontë", "Mary Shelley", "Emily Brontë"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Count of Monte Cristo'?",
+    "options": ["Alexandre Dumas", "Victor Hugo", "Gustave Flaubert", "Émile Zola"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Trial'?",
+    "options": ["Franz Kafka", "Hermann Hesse", "Thomas Mann", "Albert Camus"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Paradise Lost'?",
+    "options": ["John Milton", "William Blake", "Geoffrey Chaucer", "Alexander Pope"],
+    "answer": 0
+  },
+  {
+    "question": "Which author wrote 'Lolita'?",
+    "options": ["Vladimir Nabokov", "Fyodor Dostoevsky", "Leo Tolstoy", "Albert Camus"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Grapes of Wrath'?",
+    "options": ["John Steinbeck", "Ernest Hemingway", "F. Scott Fitzgerald", "William Faulkner"],
+    "answer": 0
+  }
+]

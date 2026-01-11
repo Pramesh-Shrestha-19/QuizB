@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which method involves slow cooking meat in its own fat?",
+    "options": ["Confit", "Braising", "Roasting", "Sautéing"],
+    "answer": 0
+  },
+  {
+    "question": "Which cooking technique involves heating sugar to create a caramel?",
+    "options": ["Caramelization", "Maillard Reaction", "Boiling", "Steaming"],
+    "answer": 0
+  },
+  {
+    "question": "Which method uses dry heat and metal tools to cook delicate foods quickly?",
+    "options": ["Searing", "Poaching", "Braising", "Boiling"],
+    "answer": 0
+  },
+  {
+    "question": "Bain-marie is used for which purpose in cooking?",
+    "options": ["Gentle heating or melting", "Deep frying", "Boiling pasta", "Roasting meat"],
+    "answer": 0
+  },
+  {
+    "question": "Which cooking technique involves lightly frying then finishing in liquid?",
+    "options": ["Braising", "Steaming", "Blanching", "Sautéing"],
+    "answer": 0
+  },
+  {
+    "question": "Which method is used to clarify butter by removing milk solids?",
+    "options": ["Clarifying", "Rendering", "Whipping", "Blending"],
+    "answer": 0
+  },
+  {
+    "question": "Which technique involves partially cooking pasta or vegetables before final cooking?",
+    "options": ["Parboiling", "Poaching", "Simmering", "Steaming"],
+    "answer": 0
+  },
+  {
+    "question": "Which cooking reaction is responsible for browning meat and developing flavor?",
+    "options": ["Maillard Reaction", "Caramelization", "Fermentation", "Gelatinization"],
+    "answer": 0
+  },
+  {
+    "question": "Which method is used to coat food with flour or breadcrumbs before frying?",
+    "options": ["Breading", "Basting", "Blanching", "Deglazing"],
+    "answer": 0
+  },
+  {
+    "question": "Which technique uses pressure to cook food faster than boiling?",
+    "options": ["Pressure Cooking", "Steaming", "Braising", "Poaching"],
+    "answer": 0
+  },
+  {
+    "question": "Which method involves cooking food in a sealed bag in hot water at low temperature?",
+    "options": ["Sous-vide", "Steaming", "Boiling", "Poaching"],
+    "answer": 0
+  },
+  {
+    "question": "Which method uses a hot, dry oven and fat to cook vegetables evenly?",
+    "options": ["Rôtisserie / Roasting", "Grilling", "Boiling", "Sautéing"],
+    "answer": 0
+  },
+  {
+    "question": "Which cooking technique involves layering food and baking with cheese or sauce?",
+    "options": ["Gratin", "Braising", "Steaming", "Frying"],
+    "answer": 0
+  },
+  {
+    "question": "Which method involves briefly cooking food in boiling water and then shocking in ice water?",
+    "options": ["Blanching", "Parboiling", "Simmering", "Poaching"],
+    "answer": 0
+  },
+  {
+    "question": "Which method involves cooking food by steaming over simmering liquid in a closed container?",
+    "options": ["En papillote", "Steaming", "Braising", "Sautéing"],
+    "answer": 1
+  },
+  {
+    "question": "Which technique is used to fold ingredients gently without deflating them?",
+    "options": ["Folding", "Whisking", "Beating", "Blending"],
+    "answer": 0
+  },
+  {
+    "question": "Which method uses a pan and continuous stirring to cook quickly over high heat?",
+    "options": ["Stir-frying", "Braising", "Blanching", "Poaching"],
+    "answer": 0
+  },
+  {
+    "question": "Which method involves cooking meat with wine or stock to enhance flavor?",
+    "options": ["Braising", "Grilling", "Roasting", "Poaching"],
+    "answer": 0
+  },
+  {
+    "question": "Which cooking technique is used to set custards or sauces using steam in a water bath?",
+    "options": ["Bain-marie", "Blanching", "Poaching", "Roasting"],
+    "answer": 0
+  },
+  {
+    "question": "Which technique involves covering a pan to cook food in its own moisture?",
+    "options": ["Steaming / Simmering", "Frying", "Baking", "Grilling"],
+    "answer": 0
+  }
+]

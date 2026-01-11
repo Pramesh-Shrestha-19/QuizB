@@ -1,0 +1,102 @@
+[
+  {
+    "question": "The Hagia Sophia is located in which city?",
+    "options": ["Istanbul", "Athens", "Rome", "Cairo"],
+    "answer": 0
+  },
+  {
+    "question": "Mount Kilimanjaro is in which country?",
+    "options": ["Tanzania", "Kenya", "Uganda", "Ethiopia"],
+    "answer": 0
+  },
+  {
+    "question": "Table Mountain overlooks which city?",
+    "options": ["Cape Town", "Johannesburg", "Durban", "Pretoria"],
+    "answer": 0
+  },
+  {
+    "question": "The Palace of Versailles is located in which country?",
+    "options": ["France", "Belgium", "Germany", "Italy"],
+    "answer": 0
+  },
+  {
+    "question": "The Banaue Rice Terraces are located in which country?",
+    "options": ["Philippines", "Indonesia", "Thailand", "Vietnam"],
+    "answer": 0
+  },
+  {
+    "question": "The Great Sphinx is located in which city?",
+    "options": ["Giza", "Cairo", "Luxor", "Alexandria"],
+    "answer": 0
+  },
+  {
+    "question": "The Potala Palace is located in which city?",
+    "options": ["Lhasa", "Beijing", "Kathmandu", "Thimphu"],
+    "answer": 0
+  },
+  {
+    "question": "Mont Saint-Michel is in which country?",
+    "options": ["France", "Spain", "Belgium", "Italy"],
+    "answer": 0
+  },
+  {
+    "question": "The Dome of the Rock is located in which city?",
+    "options": ["Jerusalem", "Mecca", "Baghdad", "Cairo"],
+    "answer": 0
+  },
+  {
+    "question": "Potala Palace was the winter residence of which figure?",
+    "options": ["Dalai Lama", "Mahatma Gandhi", "Sun Yat-sen", "Shah of Iran"],
+    "answer": 0
+  },
+  {
+    "question": "Neuschwanstein Castle is located in which country?",
+    "options": ["Germany", "Austria", "Switzerland", "Czech Republic"],
+    "answer": 0
+  },
+  {
+    "question": "Borobudur Temple is located in which country?",
+    "options": ["Indonesia", "Thailand", "Cambodia", "India"],
+    "answer": 0
+  },
+  {
+    "question": "The Moeraki Boulders are found in which country?",
+    "options": ["New Zealand", "Australia", "South Africa", "Canada"],
+    "answer": 0
+  },
+  {
+    "question": "The Kremlin towers are located along which river?",
+    "options": ["Moscow River", "Volga", "Neva", "Dnieper"],
+    "answer": 0
+  },
+  {
+    "question": "The Cliffs of Moher are located in which country?",
+    "options": ["Ireland", "Scotland", "Wales", "England"],
+    "answer": 0
+  },
+  {
+    "question": "The Palace Museum, also known as the Forbidden City, is in which city?",
+    "options": ["Beijing", "Shanghai", "Xi’an", "Chengdu"],
+    "answer": 0
+  },
+  {
+    "question": "The Karnak Temple Complex is located in which country?",
+    "options": ["Egypt", "Sudan", "Morocco", "Tunisia"],
+    "answer": 0
+  },
+  {
+    "question": "The Golden Pavilion (Kinkaku-ji) is in which city?",
+    "options": ["Kyoto", "Tokyo", "Osaka", "Nara"],
+    "answer": 0
+  },
+  {
+    "question": "The Valley of the Kings is located near which city?",
+    "options": ["Luxor", "Cairo", "Aswan", "Giza"],
+    "answer": 0
+  },
+  {
+    "question": "The Suez Canal connects which two bodies of water?",
+    "options": ["Mediterranean Sea and Red Sea", "Atlantic and Pacific", "Black Sea and Caspian Sea", "Adriatic Sea and Ionian Sea"],
+    "answer": 0
+  }
+]

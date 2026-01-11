@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the capital of Argentina?",
+    "options": ["Buenos Aires", "Lima", "Santiago", "Montevideo"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "options": ["Seoul", "Busan", "Pyongyang", "Incheon"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "options": ["Istanbul", "Ankara", "Izmir", "Bursa"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "options": ["Lagos", "Abuja", "Kano", "Port Harcourt"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "options": ["Bangkok", "Chiang Mai", "Phuket", "Pattaya"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": ["Barcelona", "Madrid", "Valencia", "Seville"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "options": ["Riyadh", "Jeddah", "Mecca", "Medina"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Kenya?",
+    "options": ["Nairobi", "Mombasa", "Kisumu", "Eldoret"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Pakistan?",
+    "options": ["Lahore", "Islamabad", "Karachi", "Peshawar"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Norway?",
+    "options": ["Oslo", "Bergen", "Trondheim", "Stavanger"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "options": ["Athens", "Thessaloniki", "Patras", "Heraklion"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "options": ["Mexico City", "Guadalajara", "Monterrey", "Tijuana"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "options": ["Stockholm", "Gothenburg", "Malmo", "Uppsala"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Vietnam?",
+    "options": ["Ho Chi Minh City", "Hanoi", "Da Nang", "Hue"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Chile?",
+    "options": ["Santiago", "Valparaíso", "Concepción", "La Serena"],
+    "answer": 0
+  }
+]

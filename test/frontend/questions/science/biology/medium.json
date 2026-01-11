@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which blood component helps in clotting?",
+    "options": ["Platelets", "Red blood cells", "White blood cells", "Plasma"],
+    "answer": 0
+  },
+  {
+    "question": "Which organ produces insulin?",
+    "options": ["Pancreas", "Liver", "Kidney", "Spleen"],
+    "answer": 0
+  },
+  {
+    "question": "What is the process by which plants make food?",
+    "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+    "answer": 0
+  },
+  {
+    "question": "Which blood type is the universal donor?",
+    "options": ["O negative", "A positive", "B negative", "AB positive"],
+    "answer": 0
+  },
+  {
+    "question": "Which part of the brain controls balance?",
+    "options": ["Cerebellum", "Cerebrum", "Medulla", "Hypothalamus"],
+    "answer": 0
+  },
+  {
+    "question": "Which macronutrient is essential for muscle building?",
+    "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+    "answer": 0
+  },
+  {
+    "question": "Which vitamin helps in blood clotting?",
+    "options": ["Vitamin K", "Vitamin D", "Vitamin C", "Vitamin B12"],
+    "answer": 0
+  },
+  {
+    "question": "Which blood vessels carry blood to the heart?",
+    "options": ["Veins", "Arteries", "Capillaries", "Venules"],
+    "answer": 0
+  },
+  {
+    "question": "Which cell organelle produces energy for the cell?",
+    "options": ["Mitochondria", "Ribosome", "Nucleus", "Chloroplast"],
+    "answer": 0
+  },
+  {
+    "question": "Which disease is caused by deficiency of Vitamin C?",
+    "options": ["Scurvy", "Rickets", "Anemia", "Beriberi"],
+    "answer": 0
+  },
+  {
+    "question": "Which hormone regulates sleep-wake cycles?",
+    "options": ["Melatonin", "Insulin", "Adrenaline", "Cortisol"],
+    "answer": 0
+  },
+  {
+    "question": "Which system protects the body against pathogens?",
+    "options": ["Immune system", "Respiratory system", "Digestive system", "Endocrine system"],
+    "answer": 0
+  },
+  {
+    "question": "Which process do cells use to divide for growth?",
+    "options": ["Mitosis", "Meiosis", "Binary fission", "Budding"],
+    "answer": 0
+  },
+  {
+    "question": "Which gas do humans exhale after respiration?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": 0
+  },
+  {
+    "question": "Which vitamin is important for eyesight?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "answer": 0
+  }
+]

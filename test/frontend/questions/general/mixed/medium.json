@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which planet has the most moons?",
+    "options": ["Saturn", "Jupiter", "Mars", "Uranus"],
+    "answer": 0
+  },
+  {
+    "question": "What is the hardest natural substance?",
+    "options": ["Diamond", "Gold", "Iron", "Graphite"],
+    "answer": 0
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Gregor Mendel"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Canberra", "Sydney", "Melbourne", "Brisbane"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Jules Verne"],
+    "answer": 0
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    "answer": 0
+  },
+  {
+    "question": "Which famous scientist developed the theory of relativity?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for the Great Wall?",
+    "options": ["China", "India", "Japan", "Mongolia"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+    "answer": 0
+  },
+  {
+    "question": "Which vitamin is produced when skin is exposed to sunlight?",
+    "options": ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin B12"],
+    "answer": 0
+  },
+  {
+    "question": "Who painted 'Starry Night'?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Leonardo da Vinci"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest desert in the world?",
+    "options": ["Sahara", "Gobi", "Kalahari", "Arabian"],
+    "answer": 0
+  },
+  {
+    "question": "Which animal is known as the ship of the desert?",
+    "options": ["Camel", "Horse", "Elephant", "Donkey"],
+    "answer": 0
+  }
+]

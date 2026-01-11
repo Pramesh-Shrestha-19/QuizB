@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where is the Eiffel Tower located?",
+    "options": ["Paris", "London", "Rome", "Berlin"],
+    "answer": 0
+  },
+  {
+    "question": "Which landmark is famous in India and made of white marble?",
+    "options": ["Red Fort", "Taj Mahal", "Qutub Minar", "Gateway of India"],
+    "answer": 1
+  },
+  {
+    "question": "The Statue of Liberty is located in which country?",
+    "options": ["USA", "France", "Canada", "UK"],
+    "answer": 0
+  },
+  {
+    "question": "Where is the Great Wall located?",
+    "options": ["Japan", "China", "Mongolia", "Korea"],
+    "answer": 1
+  },
+  {
+    "question": "Christ the Redeemer statue is in which city?",
+    "options": ["São Paulo", "Brasília", "Rio de Janeiro", "Salvador"],
+    "answer": 2
+  },
+  {
+    "question": "Where is the Colosseum located?",
+    "options": ["Athens", "Rome", "Naples", "Florence"],
+    "answer": 1
+  },
+  {
+    "question": "Where are the Pyramids of Giza?",
+    "options": ["Sudan", "Egypt", "Libya", "Morocco"],
+    "answer": 1
+  },
+  {
+    "question": "Where is Big Ben located?",
+    "options": ["London", "Manchester", "Edinburgh", "Birmingham"],
+    "answer": 0
+  },
+  {
+    "question": "Machu Picchu is located in which country?",
+    "options": ["Peru", "Bolivia", "Chile", "Argentina"],
+    "answer": 0
+  },
+  {
+    "question": "The Sydney Opera House is located in which country?",
+    "options": ["New Zealand", "Australia", "Canada", "USA"],
+    "answer": 1
+  }
+]

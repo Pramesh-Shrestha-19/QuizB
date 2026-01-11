@@ -1,0 +1,77 @@
+[
+  {
+    "question": "The Scream is a famous work by?",
+    "options": ["Edvard Munch", "Vincent van Gogh", "Salvador Dalí", "Pablo Picasso"],
+    "answer": 0
+  },
+  {
+    "question": "Who painted The Night Watch?",
+    "options": ["Rembrandt", "Johannes Vermeer", "Rubens", "Goya"],
+    "answer": 0
+  },
+  {
+    "question": "Whistler's Mother was painted by?",
+    "options": ["James McNeill Whistler", "John Singer Sargent", "Thomas Gainsborough", "George Bellows"],
+    "answer": 0
+  },
+  {
+    "question": "Which artist is known for Cubism?",
+    "options": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Henri Rousseau"],
+    "answer": 0
+  },
+  {
+    "question": "The Garden of Earthly Delights is painted by?",
+    "options": ["Hieronymus Bosch", "Albrecht Dürer", "Raphael", "Titian"],
+    "answer": 0
+  },
+  {
+    "question": "Which painter is associated with Impressionism?",
+    "options": ["Claude Monet", "Edvard Munch", "Pablo Picasso", "Salvador Dalí"],
+    "answer": 0
+  },
+  {
+    "question": "Las Meninas is a famous work by?",
+    "options": ["Diego Velázquez", "Francisco Goya", "El Greco", "Titian"],
+    "answer": 0
+  },
+  {
+    "question": "Which artist is known for Surrealism?",
+    "options": ["Salvador Dalí", "Vincent van Gogh", "Claude Monet", "Pablo Picasso"],
+    "answer": 0
+  },
+  {
+    "question": "Which Italian painter is known for The School of Athens?",
+    "options": ["Raphael", "Leonardo da Vinci", "Michelangelo", "Titian"],
+    "answer": 0
+  },
+  {
+    "question": "Which painter created Nighthawks?",
+    "options": ["Edward Hopper", "Grant Wood", "Norman Rockwell", "Georgia O’Keeffe"],
+    "answer": 0
+  },
+  {
+    "question": "Which Dutch artist is famous for self-portraits and The Anatomy Lesson?",
+    "options": ["Rembrandt", "Vermeer", "Van Gogh", "Hals"],
+    "answer": 0
+  },
+  {
+    "question": "Which Spanish painter created The Second of May 1808?",
+    "options": ["Francisco Goya", "Diego Velázquez", "El Greco", "Picasso"],
+    "answer": 0
+  },
+  {
+    "question": "Which artist is famous for the style called Pointillism?",
+    "options": ["Georges Seurat", "Claude Monet", "Paul Cézanne", "Henri Matisse"],
+    "answer": 0
+  },
+  {
+    "question": "Which painter is known for self-portraits and Sunflowers series?",
+    "options": ["Vincent van Gogh", "Claude Monet", "Paul Gauguin", "Edvard Munch"],
+    "answer": 0
+  },
+  {
+    "question": "Which Mexican artist is famous for The Two Fridas?",
+    "options": ["Frida Kahlo", "Diego Rivera", "David Alfaro Siqueiros", "José Clemente Orozco"],
+    "answer": 0
+  }
+]

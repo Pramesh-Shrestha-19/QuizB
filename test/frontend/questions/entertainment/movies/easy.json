@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who played Iron Man in the Marvel movies?",
+    "options": ["Chris Evans", "Robert Downey Jr", "Chris Hemsworth", "Mark Ruffalo"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the lion in The Lion King?",
+    "options": ["Mufasa", "Scar", "Simba", "Rafiki"],
+    "answer": 2
+  },
+  {
+    "question": "Which movie features the song 'Let It Go'?",
+    "options": ["Moana", "Tangled", "Frozen", "Brave"],
+    "answer": 2
+  },
+  {
+    "question": "Who directed Jurassic Park?",
+    "options": ["James Cameron", "Steven Spielberg", "George Lucas", "Peter Jackson"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of Harry Potter's owl?",
+    "options": ["Errol", "Hedwig", "Pigwidgeon", "Scabbers"],
+    "answer": 1
+  },
+  {
+    "question": "Which movie won the Oscar for Best Picture in 2020?",
+    "options": ["1917", "Joker", "Parasite", "Once Upon a Time in Hollywood"],
+    "answer": 2
+  },
+  {
+    "question": "Who played Jack in Titanic?",
+    "options": ["Brad Pitt", "Leonardo DiCaprio", "Johnny Depp", "Tom Cruise"],
+    "answer": 1
+  },
+  {
+    "question": "What year was the first Star Wars movie released?",
+    "options": ["1975", "1977", "1979", "1981"],
+    "answer": 1
+  },
+  {
+    "question": "Who voices Woody in Toy Story?",
+    "options": ["Tim Allen", "Tom Hanks", "Billy Crystal", "John Goodman"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the kingdom in Frozen?",
+    "options": ["Corona", "Arendelle", "DunBroch", "Monstropolis"],
+    "answer": 1
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which spice is obtained from the dried stigma of Crocus sativus?",
+    "options": ["Saffron", "Cardamom", "Cloves", "Nutmeg"],
+    "answer": 0
+  },
+  {
+    "question": "Which nut is used to make pistachio ice cream?",
+    "options": ["Pistachio", "Almond", "Hazelnut", "Cashew"],
+    "answer": 0
+  },
+  {
+    "question": "Which root is the main ingredient in horseradish sauce?",
+    "options": ["Horseradish", "Ginger", "Wasabi", "Turmeric"],
+    "answer": 0
+  },
+  {
+    "question": "Which seed is the main ingredient in poppy seed cake?",
+    "options": ["Poppy Seed", "Sesame", "Sunflower", "Flaxseed"],
+    "answer": 0
+  },
+  {
+    "question": "Which nut is traditionally used to make baklava?",
+    "options": ["Pistachio", "Almond", "Cashew", "Walnut"],
+    "answer": 0
+  },
+  {
+    "question": "Which herb is used in making traditional chimichurri sauce?",
+    "options": ["Parsley", "Basil", "Cilantro", "Oregano"],
+    "answer": 0
+  },
+  {
+    "question": "Which seed is used to make traditional tahini paste?",
+    "options": ["Sesame", "Sunflower", "Pumpkin", "Flax"],
+    "answer": 0
+  },
+  {
+    "question": "Which spice is made from the dried berries of Piper nigrum?",
+    "options": ["Black Pepper", "White Pepper", "Allspice", "Juniper"],
+    "answer": 0
+  },
+  {
+    "question": "Which fruit’s pulp is used to make guava cheese?",
+    "options": ["Guava", "Papaya", "Mango", "Apple"],
+    "answer": 0
+  },
+  {
+    "question": "Which seed is used in making traditional Indian cardamom sweets?",
+    "options": ["Cardamom", "Fennel", "Cumin", "Caraway"],
+    "answer": 0
+  },
+  {
+    "question": "Which root is used to make fresh turmeric paste?",
+    "options": ["Turmeric", "Ginger", "Galangal", "Horseradish"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of mushroom is used to make truffle oil?",
+    "options": ["Truffle", "Porcini", "Shiitake", "Morel"],
+    "answer": 0
+  },
+  {
+    "question": "Which seed is used to make traditional poppy seed dumplings?",
+    "options": ["Poppy", "Sesame", "Sunflower", "Flaxseed"],
+    "answer": 0
+  },
+  {
+    "question": "Which spice is derived from the dried fruit of Myristica fragrans?",
+    "options": ["Nutmeg", "Mace", "Clove", "Cardamom"],
+    "answer": 0
+  },
+  {
+    "question": "Which nut is traditionally used in making praline chocolate?",
+    "options": ["Hazelnut", "Almond", "Cashew", "Walnut"],
+    "answer": 0
+  },
+  {
+    "question": "Which berry is used to produce juniper-flavored gin?",
+    "options": ["Juniper", "Cranberry", "Blueberry", "Blackberry"],
+    "answer": 0
+  },
+  {
+    "question": "Which spice is obtained from the seeds of Nigella sativa?",
+    "options": ["Black Cumin", "Fennel", "Mustard", "Caraway"],
+    "answer": 0
+  },
+  {
+    "question": "Which nut is the main ingredient in traditional marzipan?",
+    "options": ["Almond", "Cashew", "Pistachio", "Hazelnut"],
+    "answer": 0
+  },
+  {
+    "question": "Which spice is obtained from dried flower buds of Syzygium aromaticum?",
+    "options": ["Cloves", "Cardamom", "Cinnamon", "Nutmeg"],
+    "answer": 0
+  },
+  {
+    "question": "Which fruit is the main ingredient of tamarind chutney?",
+    "options": ["Tamarind", "Mango", "Apricot", "Date"],
+    "answer": 0
+  }
+]

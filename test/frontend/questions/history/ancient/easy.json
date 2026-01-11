@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who was the first emperor of Rome?",
+    "options": ["Julius Caesar", "Augustus", "Nero", "Caligula"],
+    "answer": 1
+  },
+  {
+    "question": "Which civilization built the Pyramids of Giza?",
+    "options": ["Mesopotamia", "Egyptians", "Indus Valley", "Minoans"],
+    "answer": 1
+  },
+  {
+    "question": "The Code of Hammurabi was created in which ancient civilization?",
+    "options": ["Egypt", "Babylon", "Greece", "Rome"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the famous Greek philosopher taught by Socrates?",
+    "options": ["Plato", "Aristotle", "Alexander", "Pythagoras"],
+    "answer": 0
+  },
+  {
+    "question": "Which ancient civilization is known for cuneiform writing?",
+    "options": ["Egyptians", "Babylonians", "Sumerians", "Romans"],
+    "answer": 2
+  },
+  {
+    "question": "The Olympic Games originated in which country?",
+    "options": ["Rome", "Greece", "Egypt", "Persia"],
+    "answer": 1
+  },
+  {
+    "question": "Which city was famously destroyed by a volcanic eruption in 79 AD?",
+    "options": ["Pompeii", "Athens", "Carthage", "Alexandria"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the queen of ancient Egypt known for her relationship with Julius Caesar?",
+    "options": ["Nefertiti", "Cleopatra", "Hatshepsut", "Catherine"],
+    "answer": 1
+  },
+  {
+    "question": "Which ancient empire was ruled by Cyrus the Great?",
+    "options": ["Persian Empire", "Roman Empire", "Greek Empire", "Egyptian Empire"],
+    "answer": 0
+  },
+  {
+    "question": "The Colosseum is located in which city?",
+    "options": ["Athens", "Rome", "Constantinople", "Carthage"],
+    "answer": 1
+  }
+]

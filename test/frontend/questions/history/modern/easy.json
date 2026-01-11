@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who was the first President of the United States?",
+    "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+    "answer": 2
+  },
+  {
+    "question": "The French Revolution began in which year?",
+    "options": ["1789", "1776", "1804", "1799"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during World War II?",
+    "options": ["Lenin", "Joseph Stalin", "Nikita Khrushchev", "Trotsky"],
+    "answer": 1
+  },
+  {
+    "question": "Which event triggered World War I?",
+    "options": ["Invasion of Poland", "Assassination of Archduke Franz Ferdinand", "Treaty of Versailles", "Zimmermann Telegram"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "options": ["Amelia Earhart", "Valentina Tereshkova", "Bessie Coleman", "Jacqueline Cochran"],
+    "answer": 0
+  },
+  {
+    "question": "The Industrial Revolution began in which country?",
+    "options": ["Germany", "USA", "Britain", "France"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the Prime Minister of the UK during most of World War II?",
+    "options": ["Neville Chamberlain", "Winston Churchill", "Clement Attlee", "Margaret Thatcher"],
+    "answer": 1
+  },
+  {
+    "question": "Which empire collapsed after World War I?",
+    "options": ["Ottoman Empire", "Roman Empire", "Mongol Empire", "Persian Empire"],
+    "answer": 0
+  },
+  {
+    "question": "Which invention is Thomas Edison famous for?",
+    "options": ["Telephone", "Light Bulb", "Printing Press", "Steam Engine"],
+    "answer": 1
+  },
+  {
+    "question": "Which treaty ended World War I?",
+    "options": ["Treaty of Paris", "Treaty of Versailles", "Treaty of Ghent", "Treaty of Tordesillas"],
+    "answer": 1
+  }
+]

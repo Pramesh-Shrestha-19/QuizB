@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Ceviche is a seafood dish from which country?",
+    "options": ["Peru", "Mexico", "Chile", "Brazil"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for the dish Feijoada?",
+    "options": ["Brazil", "Portugal", "Spain", "Mexico"],
+    "answer": 0
+  },
+  {
+    "question": "Borscht is a beet soup from which country?",
+    "options": ["Ukraine", "Russia", "Poland", "Belarus"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Tom Yum soup?",
+    "options": ["Thailand", "Vietnam", "China", "Malaysia"],
+    "answer": 0
+  },
+  {
+    "question": "Pierogi is a type of dumpling from which country?",
+    "options": ["Poland", "Russia", "Germany", "Hungary"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Goulash?",
+    "options": ["Hungary", "Austria", "Czech Republic", "Germany"],
+    "answer": 0
+  },
+  {
+    "question": "Sauerbraten is a traditional dish from which country?",
+    "options": ["Germany", "Austria", "Switzerland", "Netherlands"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for the dish Tagine?",
+    "options": ["Morocco", "Tunisia", "Algeria", "Egypt"],
+    "answer": 0
+  },
+  {
+    "question": "Dolma, stuffed vegetables, is popular in which region?",
+    "options": ["Middle East", "South America", "Europe", "East Asia"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Rendang, a spicy meat dish?",
+    "options": ["Indonesia", "Malaysia", "Thailand", "Philippines"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is known for Shepherd’s Pie?",
+    "options": ["UK", "USA", "Ireland", "Australia"],
+    "answer": 0
+  },
+  {
+    "question": "Hummus is a popular dish in which region?",
+    "options": ["Middle East", "Mediterranean", "South America", "Africa"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Pho, a noodle soup?",
+    "options": ["Vietnam", "Thailand", "China", "Japan"],
+    "answer": 0
+  },
+  {
+    "question": "Churros are a popular snack from which country?",
+    "options": ["Spain", "Mexico", "Portugal", "Argentina"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is famous for Peking Duck?",
+    "options": ["China", "Japan", "Korea", "Thailand"],
+    "answer": 0
+  }
+]

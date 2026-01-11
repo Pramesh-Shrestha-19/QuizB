@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which game features the AI called GLaDOS?",
+    "options": ["Portal", "Half-Life", "Bioshock", "Mass Effect"],
+    "answer": 0
+  },
+  {
+    "question": "In which game does the protagonist fight using 'Elder Scrolls' magic and weapons?",
+    "options": ["Skyrim", "Dragon Age", "Dark Souls", "Witcher 3"],
+    "answer": 0
+  },
+  {
+    "question": "Which roguelike game features a dark dungeon called 'The Binding of Isaac'?",
+    "options": ["The Binding of Isaac", "Enter the Gungeon", "Dead Cells", "Hades"],
+    "answer": 0
+  },
+  {
+    "question": "Which classic game is known for the Konami code: Up, Up, Down, Down, Left, Right, Left, Right, B, A?",
+    "options": ["Contra", "Castlevania", "Metroid", "Mega Man"],
+    "answer": 0
+  },
+  {
+    "question": "Which series features a battle between Autobots and Decepticons?",
+    "options": ["Transformers", "Power Rangers", "Gundam", "MechWarrior"],
+    "answer": 0
+  },
+  {
+    "question": "Which game uses cards called 'Minions' in strategic combat?",
+    "options": ["Hearthstone", "Magic: The Gathering", "Yu-Gi-Oh", "Gwent"],
+    "answer": 0
+  },
+  {
+    "question": "Which game franchise is known for a protagonist named Link?",
+    "options": ["The Legend of Zelda", "Metroid", "Final Fantasy", "Tales of Symphonia"],
+    "answer": 0
+  },
+  {
+    "question": "In which game do players fight in an arena using heroes with unique abilities, like Tracer and Reinhardt?",
+    "options": ["Overwatch", "League of Legends", "Dota 2", "Paladins"],
+    "answer": 0
+  },
+  {
+    "question": "Which survival game includes creatures called 'Creepers'?",
+    "options": ["Minecraft", "Terraria", "Roblox", "Fortnite"],
+    "answer": 0
+  },
+  {
+    "question": "Which open-world game is set in the fictional state of San Andreas?",
+    "options": ["GTA: San Andreas", "Mafia II", "Watch Dogs 2", "Red Dead Redemption 2"],
+    "answer": 0
+  },
+  {
+    "question": "Which strategy game involves building cities and managing civilizations through time?",
+    "options": ["Civilization", "Age of Empires", "Total War", "SimCity"],
+    "answer": 0
+  },
+  {
+    "question": "Which game franchise features characters like Master Chief and Cortana?",
+    "options": ["Halo", "Destiny", "Gears of War", "Mass Effect"],
+    "answer": 0
+  },
+  {
+    "question": "Which series is famous for stealth gameplay, including sneaking and assassinations?",
+    "options": ["Assassin's Creed", "Hitman", "Metal Gear Solid", "Thief"],
+    "answer": 0
+  },
+  {
+    "question": "Which game is known for a fictional battle royale island called 'Apex Legends'?",
+    "options": ["Apex Legends", "Fortnite", "PUBG", "Call of Duty: Warzone"],
+    "answer": 0
+  },
+  {
+    "question": "Which game series features dragon-slaying and the land of Skyrim?",
+    "options": ["The Elder Scrolls", "Dragon Age", "Dark Souls", "Witcher"],
+    "answer": 0
+  },
+  {
+    "question": "Which horror game franchise includes a character named Leon Kennedy?",
+    "options": ["Resident Evil", "Silent Hill", "Dead Space", "Outlast"],
+    "answer": 0
+  },
+  {
+    "question": "Which game involves building and battling towers using monkeys?",
+    "options": ["Bloons TD", "Plants vs Zombies", "Kingdom Rush", "Clash of Clans"],
+    "answer": 0
+  },
+  {
+    "question": "Which game series features creatures called 'Titans' and a city called Shiganshina?",
+    "options": ["Attack on Titan: Wings of Freedom", "Final Fantasy", "Monster Hunter", "Dragon Quest"],
+    "answer": 0
+  },
+  {
+    "question": "Which sci-fi RPG series features choices affecting the galaxy and multiple endings?",
+    "options": ["Mass Effect", "Star Wars: Knights of the Old Republic", "Fallout", "Dragon Age"],
+    "answer": 0
+  },
+  {
+    "question": "Which franchise features a survival horror game in the fictional village of Silent Hill?",
+    "options": ["Silent Hill", "Resident Evil", "Fatal Frame", "Dead Space"],
+    "answer": 0
+  }
+]

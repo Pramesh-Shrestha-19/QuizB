@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who was the youngest player to score in a FIFA World Cup match?",
+    "options": ["Pelé", "Kylian Mbappé", "Norman Whiteside", "Michael Owen"],
+    "answer": 0
+  },
+  {
+    "question": "Which manager has won the most UEFA Champions League titles?",
+    "options": ["Alex Ferguson", "Pep Guardiola", "Carlo Ancelotti", "José Mourinho"],
+    "answer": 2
+  },
+  {
+    "question": "In what year did the Bosman ruling change football transfers?",
+    "options": ["1992", "1995", "1998", "2001"],
+    "answer": 1
+  },
+  {
+    "question": "Who holds the record for most goals in a single Premier League season?",
+    "options": ["Alan Shearer", "Mohamed Salah", "Erling Haaland", "Andy Cole"],
+    "answer": 2
+  },
+  {
+    "question": "Which African nation was the first to reach a World Cup quarter-final?",
+    "options": ["Nigeria", "Cameroon", "Ghana", "Senegal"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of Barcelona's youth academy?",
+    "options": ["Castilla", "Canteranos", "La Masia", "Cantera"],
+    "answer": 2
+  },
+  {
+    "question": "Who scored the fastest goal in Premier League history (7.69 seconds)?",
+    "options": ["Ledley King", "Shane Long", "Alan Shearer", "James Beattie"],
+    "answer": 1
+  },
+  {
+    "question": "Which club won the first UEFA Champions League in 1955-56 (as European Cup)?",
+    "options": ["AC Milan", "Real Madrid", "Bayern Munich", "Benfica"],
+    "answer": 1
+  },
+  {
+    "question": "How many players have won the Ballon d'Or three times consecutively?",
+    "options": ["None", "One", "Two", "Three"],
+    "answer": 2
+  },
+  {
+    "question": "Which player has the most assists in Premier League history?",
+    "options": ["Ryan Giggs", "Cesc Fàbregas", "Frank Lampard", "Kevin De Bruyne"],
+    "answer": 0
+  },
+  {
+    "question": "What was the attendance at the 1950 World Cup final (Maracanã)?",
+    "options": ["150,000", "173,850", "199,854", "210,000"],
+    "answer": 2
+  },
+  {
+    "question": "Which player scored in three different World Cup finals?",
+    "options": ["Ronaldo Nazário", "Pelé", "Zinedine Zidane", "Vavá"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first player to score 100 Premier League goals?",
+    "options": ["Alan Shearer", "Teddy Sheringham", "Les Ferdinand", "Andy Cole"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has appeared in the most World Cup finals without winning?",
+    "options": ["Hungary", "Netherlands", "Czechoslovakia", "Sweden"],
+    "answer": 1
+  },
+  {
+    "question": "What year did goal-line technology debut in the Premier League?",
+    "options": ["2011", "2013", "2015", "2017"],
+    "answer": 1
+  },
+  {
+    "question": "Who is the only player to score in a Champions League final for three different clubs?",
+    "options": ["Clarence Seedorf", "Cristiano Ronaldo", "Zlatan Ibrahimović", "Arjen Robben"],
+    "answer": 0
+  },
+  {
+    "question": "Which stadium has hosted the most European Cup/Champions League finals?",
+    "options": ["Wembley", "San Siro", "Santiago Bernabéu", "Camp Nou"],
+    "answer": 0
+  },
+  {
+    "question": "What is the record transfer fee paid for a player (as of 2023)?",
+    "options": ["€222 million", "€180 million", "€145 million", "€105 million"],
+    "answer": 0
+  },
+  {
+    "question": "Who scored the 'Phantom Goal' in the 1966 World Cup final?",
+    "options": ["Bobby Charlton", "Geoff Hurst", "Martin Peters", "Roger Hunt"],
+    "answer": 1
+  },
+  {
+    "question": "Which club has won the most Copa Libertadores titles?",
+    "options": ["Boca Juniors", "River Plate", "Independiente", "Peñarol"],
+    "answer": 2
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which event started World War I?",
+    "options": ["Assassination of Archduke Franz Ferdinand", "Invasion of Poland", "Treaty of Versailles", "Sinking of Lusitania"],
+    "answer": 0
+  },
+  {
+    "question": "World War II began in which year?",
+    "options": ["1939", "1914", "1941", "1935"],
+    "answer": 0
+  },
+  {
+    "question": "Which countries were part of the Allies in World War I?",
+    "options": ["Germany, Austria-Hungary, Ottoman Empire", "Britain, France, Russia", "Italy, Germany, Japan", "USA, Germany, Russia"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the German dictator during World War II?",
+    "options": ["Adolf Hitler", "Joseph Stalin", "Benito Mussolini", "Winston Churchill"],
+    "answer": 0
+  },
+  {
+    "question": "Which battle is considered the turning point of World War II in Europe?",
+    "options": ["Battle of Stalingrad", "Battle of Britain", "D-Day", "Battle of the Bulge"],
+    "answer": 0
+  },
+  {
+    "question": "Which ship was sunk, influencing the USA to enter World War I?",
+    "options": ["Titanic", "Lusitania", "Bismarck", "HMS Victory"],
+    "answer": 1
+  },
+  {
+    "question": "Which countries were the Axis powers in World War II?",
+    "options": ["Germany, Italy, Japan", "USA, Britain, France", "Russia, China, USA", "Germany, Russia, Italy"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the British Prime Minister during most of World War II?",
+    "options": ["Winston Churchill", "Neville Chamberlain", "Clement Attlee", "Anthony Eden"],
+    "answer": 0
+  },
+  {
+    "question": "The Treaty of Versailles ended which war?",
+    "options": ["World War I", "World War II", "Franco-Prussian War", "Crimean War"],
+    "answer": 0
+  },
+  {
+    "question": "Which event marked the end of World War II in Europe?",
+    "options": ["VE Day", "VJ Day", "D-Day", "Pearl Harbor Attack"],
+    "answer": 0
+  }
+]

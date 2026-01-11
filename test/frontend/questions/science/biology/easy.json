@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the basic unit of life?",
+    "options": ["Organ", "Cell", "Organism", "Tissue"],
+    "answer": 1
+  },
+  {
+    "question": "Which organ pumps blood throughout the body?",
+    "options": ["Heart", "Liver", "Lungs", "Kidneys"],
+    "answer": 0
+  },
+  {
+    "question": "Which blood cells help fight infections?",
+    "options": ["Platelets", "White blood cells", "Red blood cells", "Plasma"],
+    "answer": 1
+  },
+  {
+    "question": "Which organ is responsible for digestion?",
+    "options": ["Heart", "Stomach", "Lungs", "Kidney"],
+    "answer": 1
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Heart", "Brain", "Liver"],
+    "answer": 0
+  },
+  {
+    "question": "Which part of the cell contains genetic material?",
+    "options": ["Mitochondria", "Nucleus", "Ribosome", "Cytoplasm"],
+    "answer": 1
+  },
+  {
+    "question": "Which vitamin is mainly obtained from sunlight?",
+    "options": ["Vitamin C", "Vitamin B12", "Vitamin D", "Vitamin A"],
+    "answer": 2
+  },
+  {
+    "question": "Which system controls body functions through hormones?",
+    "options": ["Endocrine system", "Nervous system", "Digestive system", "Respiratory system"],
+    "answer": 0
+  },
+  {
+    "question": "Which organ filters blood and produces urine?",
+    "options": ["Liver", "Heart", "Lungs", "Kidneys"],
+    "answer": 3
+  },
+  {
+    "question": "Which macronutrient is the main source of energy?",
+    "options": ["Proteins", "Vitamins", "Fats", "Carbohydrates"],
+    "answer": 3
+  }
+]

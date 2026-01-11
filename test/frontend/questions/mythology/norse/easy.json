@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is the chief god of the Norse pantheon?",
+    "options": ["Odin", "Thor", "Loki", "Freyr"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the god of thunder?",
+    "options": ["Thor", "Odin", "Loki", "Balder"],
+    "answer": 0
+  },
+  {
+    "question": "Which god is known as the trickster?",
+    "options": ["Loki", "Odin", "Thor", "Heimdall"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the goddess of love and fertility?",
+    "options": ["Freya", "Frigg", "Skadi", "Hel"],
+    "answer": 0
+  },
+  {
+    "question": "Who guards the Bifrost, the rainbow bridge?",
+    "options": ["Heimdall", "Thor", "Odin", "Loki"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the god of the sea in Norse mythology?",
+    "options": ["Njord", "Thor", "Odin", "Loki"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the ruler of the realm of the dead, Helheim?",
+    "options": ["Hel", "Hela", "Frigg", "Skadi"],
+    "answer": 0
+  },
+  {
+    "question": "Which Norse god is associated with wisdom and sacrifice?",
+    "options": ["Odin", "Thor", "Loki", "Freyr"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the goddess of marriage and motherhood?",
+    "options": ["Frigg", "Freya", "Skadi", "Hel"],
+    "answer": 0
+  },
+  {
+    "question": "Which Norse god wields the hammer Mjolnir?",
+    "options": ["Thor", "Odin", "Loki", "Tyr"],
+    "answer": 0
+  }
+]

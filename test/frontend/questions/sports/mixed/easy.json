@@ -1,0 +1,62 @@
+[
+  {
+    "question": "How many rings are on the Olympic flag?",
+    "options": ["4", "5", "6", "7"],
+    "answer": 1
+  },
+  {
+    "question": "In tennis, what is a score of zero called?",
+    "options": ["Nil", "Zero", "Love", "Nothing"],
+    "answer": 2
+  },
+  {
+    "question": "Which sport is known as 'the beautiful game'?",
+    "options": ["Basketball", "Football (Soccer)", "Rugby", "Cricket"],
+    "answer": 1
+  },
+  {
+    "question": "How many holes are played in a standard round of golf?",
+    "options": ["9", "12", "18", "24"],
+    "answer": 2
+  },
+  {
+    "question": "In which sport would you perform a slam dunk?",
+    "options": ["Volleyball", "Basketball", "Tennis", "Badminton"],
+    "answer": 1
+  },
+  {
+    "question": "What color medal is awarded for second place?",
+    "options": ["Gold", "Silver", "Bronze", "Platinum"],
+    "answer": 1
+  },
+  {
+    "question": "Which sport uses a shuttlecock?",
+    "options": ["Tennis", "Squash", "Badminton", "Table Tennis"],
+    "answer": 2
+  },
+  {
+    "question": "How many players are on a cricket team?",
+    "options": ["9", "10", "11", "12"],
+    "answer": 2
+  },
+  {
+    "question": "In boxing, how many ropes surround the ring?",
+    "options": ["2", "3", "4", "5"],
+    "answer": 2
+  },
+  {
+    "question": "Which country hosts the Tour de France?",
+    "options": ["Italy", "Spain", "France", "Belgium"],
+    "answer": 2
+  },
+  {
+    "question": "What is the maximum score in a single frame of ten-pin bowling?",
+    "options": ["10", "20", "30", "40"],
+    "answer": 2
+  },
+  {
+    "question": "In which sport do you use a puck?",
+    "options": ["Field Hockey", "Ice Hockey", "Lacrosse", "Polo"],
+    "answer": 1
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Who flew too close to the sun with wings of wax?",
+    "options": ["Icarus", "Daedalus", "Perseus", "Theseus"],
+    "answer": 0
+  },
+  {
+    "question": "Who killed the Minotaur?",
+    "options": ["Theseus", "Perseus", "Heracles", "Jason"],
+    "answer": 0
+  },
+  {
+    "question": "Who completed the 12 labors?",
+    "options": ["Heracles", "Perseus", "Theseus", "Achilles"],
+    "answer": 0
+  },
+  {
+    "question": "Who slayed Medusa?",
+    "options": ["Perseus", "Theseus", "Heracles", "Odysseus"],
+    "answer": 0
+  },
+  {
+    "question": "Who led the Argonauts in search of the Golden Fleece?",
+    "options": ["Jason", "Heracles", "Theseus", "Perseus"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the goddess of the hearth and home?",
+    "options": ["Hestia", "Hera", "Athena", "Demeter"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the god of wine?",
+    "options": ["Dionysus", "Apollo", "Hermes", "Ares"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the king of Mycenae and father of Agamemnon?",
+    "options": ["Atreus", "Menelaus", "Priam", "Odysseus"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the hero of the Trojan War famous for his heel?",
+    "options": ["Achilles", "Hector", "Odysseus", "Paris"],
+    "answer": 0
+  },
+  {
+    "question": "Who judged the beauty contest leading to the Trojan War?",
+    "options": ["Paris", "Menelaus", "Agamemnon", "Hector"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the goddess of the rainbow and messenger of the gods?",
+    "options": ["Iris", "Hera", "Athena", "Artemis"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the god of dreams?",
+    "options": ["Morpheus", "Hypnos", "Thanatos", "Hermes"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the goddess of the moon?",
+    "options": ["Artemis", "Selene", "Hecate", "Athena"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the king of the gods of Olympus' enemies, the Titans?",
+    "options": ["Cronus", "Oceanus", "Hyperion", "Atlas"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the winged horse in Greek mythology?",
+    "options": ["Pegasus", "Cerberus", "Chimera", "Hydra"],
+    "answer": 0
+  }
+]

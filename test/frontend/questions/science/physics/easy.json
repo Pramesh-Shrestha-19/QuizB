@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the unit of force?",
+    "options": ["Newton", "Joule", "Pascal", "Watt"],
+    "answer": 0
+  },
+  {
+    "question": "Water boils at what temperature in Celsius?",
+    "options": ["100°C", "90°C", "80°C", "120°C"],
+    "answer": 0
+  },
+  {
+    "question": "What is the chemical symbol for sodium?",
+    "options": ["Na", "S", "So", "N"],
+    "answer": 0
+  },
+  {
+    "question": "Which gas is essential for respiration?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": 0
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "options": ["3 × 10^8 m/s", "3 × 10^6 m/s", "3 × 10^5 m/s", "3 × 10^7 m/s"],
+    "answer": 0
+  },
+  {
+    "question": "What is the chemical formula of table salt?",
+    "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+    "answer": 0
+  },
+  {
+    "question": "Who formulated the laws of motion?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
+    "answer": 0
+  },
+  {
+    "question": "What is the pH of pure water?",
+    "options": ["7", "5", "9", "6"],
+    "answer": 0
+  },
+  {
+    "question": "Which particle has a negative charge?",
+    "options": ["Electron", "Proton", "Neutron", "Photon"],
+    "answer": 0
+  },
+  {
+    "question": "Which gas is used in balloons to make them float?",
+    "options": ["Helium", "Hydrogen", "Oxygen", "Nitrogen"],
+    "answer": 0
+  }
+]

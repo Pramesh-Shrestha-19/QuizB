@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which poet wrote 'Dover Beach'?",
+    "options": ["Matthew Arnold", "Alfred Tennyson", "Robert Browning", "William Blake"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Love Song of J. Alfred Prufrock'?",
+    "options": ["T.S. Eliot", "Ezra Pound", "W.H. Auden", "Robert Frost"],
+    "answer": 0
+  },
+  {
+    "question": "'Ulysses' was written by which poet?",
+    "options": ["Alfred Lord Tennyson", "William Wordsworth", "John Keats", "Robert Browning"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'My Last Duchess'?",
+    "options": ["Robert Browning", "Lord Byron", "Percy Bysshe Shelley", "John Keats"],
+    "answer": 0
+  },
+  {
+    "question": "'Song of Myself' was written by?",
+    "options": ["Walt Whitman", "Emily Dickinson", "T.S. Eliot", "William Blake"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'Annabel Lee'?",
+    "options": ["Edgar Allan Poe", "Robert Frost", "Emily Dickinson", "John Keats"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Tyger'?",
+    "options": ["William Blake", "William Wordsworth", "Samuel Taylor Coleridge", "Percy Bysshe Shelley"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'Kubla Khan'?",
+    "options": ["Samuel Taylor Coleridge", "William Blake", "John Keats", "Lord Byron"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Ode on a Grecian Urn'?",
+    "options": ["John Keats", "Percy Bysshe Shelley", "William Wordsworth", "Lord Byron"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'Do Not Go Gentle into That Good Night'?",
+    "options": ["Dylan Thomas", "W.H. Auden", "Seamus Heaney", "T.S. Eliot"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Second Coming'?",
+    "options": ["W.B. Yeats", "T.S. Eliot", "Robert Frost", "John Milton"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'The Rime of the Ancient Mariner'?",
+    "options": ["Samuel Taylor Coleridge", "William Wordsworth", "John Keats", "Percy Bysshe Shelley"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Paradise Lost'?",
+    "options": ["John Milton", "William Blake", "Alexander Pope", "William Wordsworth"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'If—'?",
+    "options": ["Rudyard Kipling", "Lord Byron", "T.S. Eliot", "Robert Frost"],
+    "answer": 0
+  },
+  {
+    "question": "'Invictus' is a poem by?",
+    "options": ["William Ernest Henley", "Robert Frost", "T.S. Eliot", "Dylan Thomas"],
+    "answer": 0
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "In Hindu mythology, who is the preserver god?",
+    "options": ["Vishnu", "Shiva", "Brahma", "Indra"],
+    "answer": 0
+  },
+  {
+    "question": "In Egyptian mythology, who judges the dead in the afterlife?",
+    "options": ["Osiris", "Anubis", "Ra", "Horus"],
+    "answer": 0
+  },
+  {
+    "question": "In Greek mythology, who is the goddess of the harvest?",
+    "options": ["Demeter", "Hestia", "Hera", "Persephone"],
+    "answer": 0
+  },
+  {
+    "question": "In Aztec mythology, who created humans from maize?",
+    "options": ["Quetzalcoatl", "Huitzilopochtli", "Tezcatlipoca", "Tlaloc"],
+    "answer": 0
+  },
+  {
+    "question": "In Japanese mythology, who is the storm god?",
+    "options": ["Susanoo", "Amaterasu", "Tsukuyomi", "Izanagi"],
+    "answer": 0
+  },
+  {
+    "question": "In Norse mythology, who is the god of poetry?",
+    "options": ["Bragi", "Odin", "Loki", "Tyr"],
+    "answer": 0
+  },
+  {
+    "question": "In Celtic mythology, who is the goddess of war and death?",
+    "options": ["Morrigan", "Brigid", "Danu", "Cailleach"],
+    "answer": 0
+  },
+  {
+    "question": "In Chinese mythology, who is the Jade Emperor?",
+    "options": ["Ruler of Heaven", "God of War", "God of Death", "God of Water"],
+    "answer": 0
+  },
+  {
+    "question": "In Mesopotamian mythology, who is the goddess of love?",
+    "options": ["Ishtar", "Tiamat", "Inanna", "Ereshkigal"],
+    "answer": 0
+  },
+  {
+    "question": "In Hindu mythology, who is the destroyer god?",
+    "options": ["Shiva", "Brahma", "Vishnu", "Indra"],
+    "answer": 0
+  },
+  {
+    "question": "In African mythology, who is the sky god among the Yoruba?",
+    "options": ["Olorun", "Obatala", "Shango", "Eshu"],
+    "answer": 0
+  },
+  {
+    "question": "In Greek mythology, who is the goddess of the hunt?",
+    "options": ["Artemis", "Athena", "Hera", "Demeter"],
+    "answer": 0
+  },
+  {
+    "question": "In Japanese mythology, who created the islands of Japan?",
+    "options": ["Izanagi and Izanami", "Amaterasu and Tsukuyomi", "Susanoo and Tsukuyomi", "Odin and Thor"],
+    "answer": 0
+  },
+  {
+    "question": "In Aztec mythology, who is the rain god?",
+    "options": ["Tlaloc", "Huitzilopochtli", "Quetzalcoatl", "Tezcatlipoca"],
+    "answer": 0
+  },
+  {
+    "question": "In Chinese mythology, who is the goddess of compassion?",
+    "options": ["Guanyin", "Xi Wangmu", "Chang’e", "Houtu"],
+    "answer": 0
+  }
+]

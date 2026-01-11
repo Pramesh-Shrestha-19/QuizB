@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Who holds the NBA record for most points scored in a single game?",
+    "options": ["Michael Jordan", "Kobe Bryant", "Wilt Chamberlain", "LeBron James"],
+    "answer": 2
+  },
+  {
+    "question": "Which team has won the most NBA championships?",
+    "options": ["Los Angeles Lakers", "Boston Celtics", "Chicago Bulls", "Golden State Warriors"],
+    "answer": 1
+  },
+  {
+    "question": "What year was the NBA founded?",
+    "options": ["1936", "1946", "1956", "1966"],
+    "answer": 1
+  },
+  {
+    "question": "Who is the NBA's all-time leading scorer?",
+    "options": ["Kareem Abdul-Jabbar", "LeBron James", "Michael Jordan", "Karl Malone"],
+    "answer": 1
+  },
+  {
+    "question": "How many personal fouls result in a player fouling out in the NBA?",
+    "options": ["4", "5", "6", "7"],
+    "answer": 2
+  },
+  {
+    "question": "Which player is known as 'The Black Mamba'?",
+    "options": ["Allen Iverson", "Kobe Bryant", "Kevin Garnett", "Dwyane Wade"],
+    "answer": 1
+  },
+  {
+    "question": "What is a double-double in basketball?",
+    "options": ["Scoring 20+ points", "Two stats with 10+", "Scoring twice in a row", "Two assists"],
+    "answer": 1
+  },
+  {
+    "question": "Which team drafted Michael Jordan?",
+    "options": ["Chicago Bulls", "Washington Wizards", "Los Angeles Lakers", "Boston Celtics"],
+    "answer": 0
+  },
+  {
+    "question": "How many minutes is each quarter in an NBA game?",
+    "options": ["10", "12", "15", "20"],
+    "answer": 1
+  },
+  {
+    "question": "Who won the NBA MVP award in 2023?",
+    "options": ["Giannis Antetokounmpo", "Nikola Jokić", "Joel Embiid", "Luka Dončić"],
+    "answer": 2
+  },
+  {
+    "question": "What is the diameter of a basketball hoop?",
+    "options": ["16 inches", "18 inches", "20 inches", "22 inches"],
+    "answer": 1
+  },
+  {
+    "question": "Which player has won the most NBA MVP awards?",
+    "options": ["Michael Jordan", "LeBron James", "Kareem Abdul-Jabbar", "Magic Johnson"],
+    "answer": 2
+  },
+  {
+    "question": "What team was formerly known as the Seattle SuperSonics?",
+    "options": ["Oklahoma City Thunder", "Portland Trail Blazers", "Sacramento Kings", "Memphis Grizzlies"],
+    "answer": 0
+  },
+  {
+    "question": "Who scored 81 points in a single game in 2006?",
+    "options": ["LeBron James", "Kobe Bryant", "Allen Iverson", "Tracy McGrady"],
+    "answer": 1
+  },
+  {
+    "question": "Which team has the nickname 'The Splash Brothers'?",
+    "options": ["Miami Heat", "Brooklyn Nets", "Golden State Warriors", "Los Angeles Clippers"],
+    "answer": 2
+  }
+]

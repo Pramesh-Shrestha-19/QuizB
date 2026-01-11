@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Who is known for the theory of relativity?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+    "answer": 0
+  },
+  {
+    "question": "What is the unit of electric current?",
+    "options": ["Ampere", "Volt", "Ohm", "Watt"],
+    "answer": 0
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Oxygen"],
+    "answer": 0
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Iron", "Gold", "Aluminum"],
+    "answer": 0
+  },
+  {
+    "question": "What is the acceleration due to gravity on Earth?",
+    "options": ["9.8 m/s²", "10 m/s²", "9 m/s²", "8.8 m/s²"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of bond involves sharing of electrons?",
+    "options": ["Covalent", "Ionic", "Metallic", "Hydrogen"],
+    "answer": 0
+  },
+  {
+    "question": "Which law states that energy cannot be created or destroyed?",
+    "options": ["Law of Conservation of Energy", "Newton’s First Law", "Ohm’s Law", "Boyle’s Law"],
+    "answer": 0
+  },
+  {
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+    "answer": 0
+  },
+  {
+    "question": "Who discovered the electron?",
+    "options": ["J.J. Thomson", "Ernest Rutherford", "Niels Bohr", "Albert Einstein"],
+    "answer": 0
+  },
+  {
+    "question": "Which acid is found in stomach?",
+    "options": ["Hydrochloric Acid", "Sulfuric Acid", "Nitric Acid", "Acetic Acid"],
+    "answer": 0
+  },
+  {
+    "question": "What is the SI unit of pressure?",
+    "options": ["Pascal", "Bar", "Atmosphere", "Newton"],
+    "answer": 0
+  },
+  {
+    "question": "Which law relates voltage, current, and resistance?",
+    "options": ["Ohm's Law", "Newton's Law", "Faraday's Law", "Boyle's Law"],
+    "answer": 0
+  },
+  {
+    "question": "Which particle has no electric charge?",
+    "options": ["Neutron", "Electron", "Proton", "Photon"],
+    "answer": 0
+  },
+  {
+    "question": "Which element has the symbol Fe?",
+    "options": ["Iron", "Fluorine", "Fermium", "Francium"],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary gas responsible for the greenhouse effect?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Methane"],
+    "answer": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which battle marked the end of World War I on the Western Front?",
+    "options": ["Battle of Amiens", "Battle of the Somme", "Battle of Verdun", "Battle of Marne"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the German commander at the Battle of the Bulge?",
+    "options": ["Gerd von Rundstedt", "Erwin Rommel", "Heinz Guderian", "Wilhelm Keitel"],
+    "answer": 0
+  },
+  {
+    "question": "Which major offensive did the Allies launch on the Western Front in 1918?",
+    "options": ["Hundred Days Offensive", "Spring Offensive", "Gallipoli Campaign", "Battle of Verdun"],
+    "answer": 0
+  },
+  {
+    "question": "Which country switched from neutrality to join the Allies in World War I in 1917?",
+    "options": ["USA", "Italy", "Japan", "Belgium"],
+    "answer": 0
+  },
+  {
+    "question": "The Maginot Line was built by which country?",
+    "options": ["France", "Germany", "Italy", "Belgium"],
+    "answer": 0
+  },
+  {
+    "question": "Which operation was the codename for the D-Day invasion?",
+    "options": ["Operation Overlord", "Operation Barbarossa", "Operation Market Garden", "Operation Torch"],
+    "answer": 0
+  },
+  {
+    "question": "Which treaty ended hostilities between Russia and Germany in World War I?",
+    "options": ["Treaty of Brest-Litovsk", "Treaty of Versailles", "Treaty of Tilsit", "Treaty of Paris"],
+    "answer": 0
+  },
+  {
+    "question": "Which countries signed the Molotov-Ribbentrop Pact in 1939?",
+    "options": ["Germany and Soviet Union", "Germany and Italy", "Germany and Japan", "Italy and Soviet Union"],
+    "answer": 0
+  },
+  {
+    "question": "Which general led the US forces in the Pacific Theater during WWII?",
+    "options": ["Douglas MacArthur", "Dwight D. Eisenhower", "George Patton", "Chester Nimitz"],
+    "answer": 0
+  },
+  {
+    "question": "Which battle was the largest tank battle in history?",
+    "options": ["Battle of Kursk", "Battle of El Alamein", "Battle of Stalingrad", "Battle of the Bulge"],
+    "answer": 0
+  },
+  {
+    "question": "Which country faced the Holocaust during WWII?",
+    "options": ["Jews in Germany and occupied Europe", "Poland", "France", "Italy"],
+    "answer": 0
+  },
+  {
+    "question": "Which conference led to the creation of the United Nations?",
+    "options": ["Yalta Conference", "Potsdam Conference", "Tehran Conference", "Casablanca Conference"],
+    "answer": 0
+  },
+  {
+    "question": "Which German general was nicknamed the 'Desert Fox'?",
+    "options": ["Erwin Rommel", "Gerd von Rundstedt", "Heinz Guderian", "Wilhelm Keitel"],
+    "answer": 0
+  },
+  {
+    "question": "The invasion of which country started World War II in Europe?",
+    "options": ["Poland", "France", "Belgium", "Czechoslovakia"],
+    "answer": 0
+  },
+  {
+    "question": "Which city was the site of a famous airlift after WWII?",
+    "options": ["Berlin", "Warsaw", "Vienna", "Paris"],
+    "answer": 0
+  },
+  {
+    "question": "Which battle ended German expansion in North Africa?",
+    "options": ["Battle of El Alamein", "Battle of Tobruk", "Battle of Gazala", "Battle of Kasserine Pass"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the US President at the end of World War II?",
+    "options": ["Harry S. Truman", "Franklin D. Roosevelt", "Dwight D. Eisenhower", "Theodore Roosevelt"],
+    "answer": 0
+  },
+  {
+    "question": "Which Japanese city was bombed first with an atomic weapon?",
+    "options": ["Hiroshima", "Nagasaki", "Tokyo", "Osaka"],
+    "answer": 0
+  },
+  {
+    "question": "Which battle is known as the turning point in the Eastern Front during WWII?",
+    "options": ["Battle of Stalingrad", "Battle of Kursk", "Siege of Leningrad", "Battle of Moscow"],
+    "answer": 0
+  },
+  {
+    "question": "Which operation was the Allied invasion of North Africa called?",
+    "options": ["Operation Torch", "Operation Overlord", "Operation Market Garden", "Operation Husky"],
+    "answer": 0
+  }
+]

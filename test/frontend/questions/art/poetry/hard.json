@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which poet wrote 'The Waste Land'?",
+    "options": ["T.S. Eliot", "Ezra Pound", "W.B. Yeats", "Robert Frost"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Four Quartets'?",
+    "options": ["T.S. Eliot", "W.H. Auden", "Seamus Heaney", "Robert Frost"],
+    "answer": 0
+  },
+  {
+    "question": "'Ode to the West Wind' is by which poet?",
+    "options": ["Percy Bysshe Shelley", "John Keats", "Lord Byron", "William Wordsworth"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'Childe Harold's Pilgrimage'?",
+    "options": ["Lord Byron", "Percy Bysshe Shelley", "John Keats", "William Blake"],
+    "answer": 0
+  },
+  {
+    "question": "'She Walks in Beauty' is by?",
+    "options": ["Lord Byron", "John Keats", "Percy Bysshe Shelley", "William Wordsworth"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Prometheus Unbound'?",
+    "options": ["Percy Bysshe Shelley", "Lord Byron", "John Keats", "William Blake"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'Elegy Written in a Country Churchyard'?",
+    "options": ["Thomas Gray", "William Wordsworth", "Samuel Taylor Coleridge", "John Keats"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'To His Coy Mistress'?",
+    "options": ["Andrew Marvell", "John Donne", "William Blake", "Robert Herrick"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'The Charge of the Light Brigade'?",
+    "options": ["Alfred Lord Tennyson", "Robert Browning", "John Keats", "Lord Byron"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Prelude'?",
+    "options": ["William Wordsworth", "Samuel Taylor Coleridge", "John Keats", "Percy Bysshe Shelley"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'Leda and the Swan'?",
+    "options": ["W.B. Yeats", "T.S. Eliot", "John Milton", "Robert Frost"],
+    "answer": 0
+  },
+  {
+    "question": "'Sailing to Byzantium' was written by?",
+    "options": ["W.B. Yeats", "T.S. Eliot", "Robert Frost", "Seamus Heaney"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Rape of the Lock'?",
+    "options": ["Alexander Pope", "John Milton", "William Blake", "Samuel Johnson"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'Do Not Go Gentle into That Good Night'?",
+    "options": ["Dylan Thomas", "Robert Frost", "T.S. Eliot", "Seamus Heaney"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Annabel Lee'?",
+    "options": ["Edgar Allan Poe", "Robert Frost", "Emily Dickinson", "John Keats"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'The Hollow Men'?",
+    "options": ["T.S. Eliot", "W.B. Yeats", "Robert Frost", "Dylan Thomas"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Fern Hill'?",
+    "options": ["Dylan Thomas", "W.H. Auden", "Seamus Heaney", "T.S. Eliot"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'The Second Coming'?",
+    "options": ["W.B. Yeats", "T.S. Eliot", "Robert Frost", "John Milton"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Tyger'?",
+    "options": ["William Blake", "William Wordsworth", "Samuel Taylor Coleridge", "Percy Bysshe Shelley"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'La Belle Dame sans Merci'?",
+    "options": ["John Keats", "Lord Byron", "Percy Bysshe Shelley", "William Wordsworth"],
+    "answer": 0
+  }
+]

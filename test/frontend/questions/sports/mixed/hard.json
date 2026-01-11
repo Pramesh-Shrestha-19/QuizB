@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Who was the first athlete to run a sub-4-minute mile?",
+    "options": ["Roger Bannister", "John Landy", "Herb Elliott", "Jim Ryun"],
+    "answer": 0
+  },
+  {
+    "question": "In which year were the first modern Olympic Games held?",
+    "options": ["1892", "1896", "1900", "1904"],
+    "answer": 1
+  },
+  {
+    "question": "What is the maximum possible score in a single game of ten-pin bowling?",
+    "options": ["270", "290", "300", "330"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the only tennis player to have won each Grand Slam at least twice?",
+    "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Rod Laver"],
+    "answer": 2
+  },
+  {
+    "question": "In cricket, what is a 'hat-trick'?",
+    "options": ["3 runs in an over", "3 wickets in 3 balls", "3 sixes in a row", "3 catches"],
+    "answer": 1
+  },
+  {
+    "question": "What is the record for most gold medals won at a single Olympics?",
+    "options": ["7", "8", "9", "10"],
+    "answer": 1
+  },
+  {
+    "question": "Who holds the record for most Tour de France victories?",
+    "options": ["Miguel Indurain", "Eddy Merckx", "Lance Armstrong", "Jacques Anquetil"],
+    "answer": 1
+  },
+  {
+    "question": "In Formula 1, who has won the most World Championships?",
+    "options": ["Ayrton Senna", "Michael Schumacher & Lewis Hamilton (tied)", "Juan Manuel Fangio", "Alain Prost"],
+    "answer": 1
+  },
+  {
+    "question": "What is the maximum checkout in darts?",
+    "options": ["160", "170", "180", "190"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first boxer to win world titles in eight different weight divisions?",
+    "options": ["Sugar Ray Leonard", "Oscar De La Hoya", "Manny Pacquiao", "Floyd Mayweather"],
+    "answer": 2
+  },
+  {
+    "question": "In rugby, what is the maximum number of points from a single play?",
+    "options": ["5", "7", "8", "9"],
+    "answer": 1
+  },
+  {
+    "question": "What year was the first FIFA World Cup held?",
+    "options": ["1926", "1930", "1934", "1938"],
+    "answer": 1
+  },
+  {
+    "question": "Who holds the record for most major golf championships?",
+    "options": ["Tiger Woods", "Jack Nicklaus", "Bobby Jones", "Walter Hagen"],
+    "answer": 1
+  },
+  {
+    "question": "In baseball, who holds the record for most home runs in a single season?",
+    "options": ["Mark McGwire", "Sammy Sosa", "Barry Bonds", "Babe Ruth"],
+    "answer": 2
+  },
+  {
+    "question": "What is the world record for the marathon?",
+    "options": ["2:00:35", "2:01:09", "2:01:39", "2:02:57"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman to run in the Boston Marathon officially?",
+    "options": ["Kathrine Switzer", "Bobbi Gibb", "Joan Benoit", "Grete Waitz"],
+    "answer": 0
+  },
+  {
+    "question": "In snooker, what is the value of the black ball?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 2
+  },
+  {
+    "question": "What is the fastest recorded tennis serve?",
+    "options": ["153 mph", "163 mph", "173 mph", "183 mph"],
+    "answer": 1
+  },
+  {
+    "question": "Who won the first UFC championship?",
+    "options": ["Royce Gracie", "Ken Shamrock", "Dan Severn", "Randy Couture"],
+    "answer": 0
+  },
+  {
+    "question": "In horse racing, which race is NOT part of the Triple Crown?",
+    "options": ["Kentucky Derby", "Preakness Stakes", "Breeders' Cup", "Belmont Stakes"],
+    "answer": 2
+  },
+  {
+    "question": "What year did the three-point line debut in the NBA?",
+    "options": ["1977", "1979", "1981", "1983"],
+    "answer": 1
+  },
+  {
+    "question": "Who is the only athlete to play in both a Super Bowl and World Series?",
+    "options": ["Bo Jackson", "Deion Sanders", "Brian Jordan", "Danny Ainge"],
+    "answer": 1
+  },
+  {
+    "question": "In volleyball, what is the maximum number of touches a team can have?",
+    "options": ["2", "3", "4", "5"],
+    "answer": 1
+  },
+  {
+    "question": "What is the record for most consecutive Grand Slam singles titles?",
+    "options": ["3", "4", "5", "6"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the youngest heavyweight boxing champion?",
+    "options": ["Muhammad Ali", "Mike Tyson", "Floyd Patterson", "Joe Louis"],
+    "answer": 1
+  }
+]

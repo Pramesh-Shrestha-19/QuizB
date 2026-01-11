@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who wrote 'Harry Potter' series?",
+    "options": ["J.K. Rowling", "Suzanne Collins", "J.R.R. Tolkien", "C.S. Lewis"],
+    "answer": 0
+  },
+  {
+    "question": "Which novel begins with 'Call me Ishmael'?",
+    "options": ["Moby-Dick", "The Old Man and the Sea", "Treasure Island", "Robinson Crusoe"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the author of 'Pride and Prejudice'?",
+    "options": ["Jane Austen", "Charlotte Brontë", "Emily Brontë", "Mary Shelley"],
+    "answer": 0
+  },
+  {
+    "question": "'The Hobbit' was written by which author?",
+    "options": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "Philip Pullman"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Hunger Games' series?",
+    "options": ["Suzanne Collins", "J.K. Rowling", "Veronica Roth", "Rick Riordan"],
+    "answer": 0
+  },
+  {
+    "question": "'1984' is a novel by which author?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Philip K. Dick"],
+    "answer": 0
+  },
+  {
+    "question": "'To Kill a Mockingbird' was written by?",
+    "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "T.S. Eliot"],
+    "answer": 0
+  },
+  {
+    "question": "Which author created 'Sherlock Holmes'?",
+    "options": ["Arthur Conan Doyle", "Agatha Christie", "Edgar Allan Poe", "H.G. Wells"],
+    "answer": 0
+  },
+  {
+    "question": "'Alice's Adventures in Wonderland' was written by?",
+    "options": ["Lewis Carroll", "J.M. Barrie", "Beatrix Potter", "Roald Dahl"],
+    "answer": 0
+  }
+]

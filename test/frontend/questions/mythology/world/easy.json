@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In Egyptian mythology, who is the god of the sun?",
+    "options": ["Ra", "Osiris", "Anubis", "Horus"],
+    "answer": 0
+  },
+  {
+    "question": "In Hindu mythology, who is the creator god?",
+    "options": ["Brahma", "Vishnu", "Shiva", "Indra"],
+    "answer": 0
+  },
+  {
+    "question": "In Japanese mythology, who is the sun goddess?",
+    "options": ["Amaterasu", "Tsukuyomi", "Susanoo", "Izanami"],
+    "answer": 0
+  },
+  {
+    "question": "In Mesopotamian mythology, who is the god of water?",
+    "options": ["Enki", "Marduk", "Anu", "Tiamat"],
+    "answer": 0
+  },
+  {
+    "question": "In Aztec mythology, who is the god of war and sun?",
+    "options": ["Huitzilopochtli", "Quetzalcoatl", "Tezcatlipoca", "Tlaloc"],
+    "answer": 0
+  },
+  {
+    "question": "In Greek mythology, who is the god of the underworld?",
+    "options": ["Hades", "Osiris", "Hel", "Anubis"],
+    "answer": 0
+  },
+  {
+    "question": "In Norse mythology, who rules over the dead in Helheim?",
+    "options": ["Hel", "Hades", "Osiris", "Yama"],
+    "answer": 0
+  },
+  {
+    "question": "In Celtic mythology, who is the goddess of the land and fertility?",
+    "options": ["Danu", "Brigid", "Morrigan", "Cailleach"],
+    "answer": 0
+  },
+  {
+    "question": "In Chinese mythology, who is the goddess of the moon?",
+    "options": ["Chang’e", "Nuwa", "Xi Wangmu", "Houtu"],
+    "answer": 0
+  },
+  {
+    "question": "In African mythology, who is the trickster god in many stories?",
+    "options": ["Anansi", "Ogun", "Shango", "Obatala"],
+    "answer": 0
+  }
+]

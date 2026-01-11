@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which country has a red flag with a white cross?",
+    "options": ["Switzerland", "Denmark", "Norway", "Sweden"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with horizontal black, red, and yellow stripes?",
+    "options": ["Germany", "Belgium", "Netherlands", "Austria"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a maple leaf on its flag?",
+    "options": ["Canada", "USA", "Australia", "New Zealand"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a red circle on a white flag?",
+    "options": ["Japan", "Bangladesh", "Turkey", "South Korea"],
+    "answer": 0
+  },
+  {
+    "question": "Which country’s flag has three vertical stripes: green, white, and red?",
+    "options": ["Italy", "Mexico", "Ireland", "Hungary"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a blue flag with a white star in the center?",
+    "options": ["Somalia", "Panama", "Vietnam", "Liberia"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a Union Jack on its flag?",
+    "options": ["United Kingdom", "Australia", "New Zealand", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which country has a red flag with a yellow five-pointed star?",
+    "options": ["China", "Vietnam", "North Korea", "Both China and Vietnam"],
+    "answer": 3
+  },
+  {
+    "question": "Which country has a flag with a white cross on a red background and four lions?",
+    "options": ["England", "Scotland", "Denmark", "Norway"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a blue, yellow, and red vertical tricolor flag?",
+    "options": ["Romania", "Chad", "Belgium", "Moldova"],
+    "answer": 0
+  }
+]

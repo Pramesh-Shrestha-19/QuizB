@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+    "answer": 0
+  },
+  {
+    "question": "The Starry Night is a famous painting by?",
+    "options": ["Vincent van Gogh", "Claude Monet", "Pablo Picasso", "Salvador Dalí"],
+    "answer": 0
+  },
+  {
+    "question": "Who painted The Last Supper?",
+    "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Caravaggio"],
+    "answer": 0
+  },
+  {
+    "question": "Which artist is famous for painting the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+    "answer": 0
+  },
+  {
+    "question": "Who painted The Persistence of Memory?",
+    "options": ["Salvador Dalí", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+    "answer": 0
+  },
+  {
+    "question": "The painting Girl with a Pearl Earring was made by?",
+    "options": ["Johannes Vermeer", "Rembrandt", "Rubens", "Goya"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the artist of The Birth of Venus?",
+    "options": ["Sandro Botticelli", "Leonardo da Vinci", "Raphael", "Michelangelo"],
+    "answer": 0
+  },
+  {
+    "question": "Which painter is associated with the Water Lilies series?",
+    "options": ["Claude Monet", "Vincent van Gogh", "Edvard Munch", "Paul Cézanne"],
+    "answer": 0
+  },
+  {
+    "question": "Guernica is a famous painting by which artist?",
+    "options": ["Pablo Picasso", "Salvador Dalí", "Henri Matisse", "Frida Kahlo"],
+    "answer": 0
+  },
+  {
+    "question": "Who painted American Gothic?",
+    "options": ["Grant Wood", "Edward Hopper", "Georgia O’Keeffe", "Norman Rockwell"],
+    "answer": 0
+  }
+]

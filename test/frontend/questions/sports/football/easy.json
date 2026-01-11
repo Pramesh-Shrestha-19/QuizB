@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "options": ["Germany", "France", "Brazil", "Argentina"],
+    "answer": 1
+  },
+  {
+    "question": "How many players are on a football team on the field during a match?",
+    "options": ["9", "10", "11", "12"],
+    "answer": 2
+  },
+  {
+    "question": "What color card does a referee show for a serious foul?",
+    "options": ["Yellow", "Red", "Green", "Blue"],
+    "answer": 1
+  },
+  {
+    "question": "Which club is known as 'The Red Devils'?",
+    "options": ["Liverpool", "Arsenal", "Manchester United", "Chelsea"],
+    "answer": 2
+  },
+  {
+    "question": "What is a hat-trick in football?",
+    "options": ["Scoring 2 goals", "Scoring 3 goals", "Scoring 4 goals", "An assist"],
+    "answer": 1
+  },
+  {
+    "question": "How long is a standard football match (excluding extra time)?",
+    "options": ["60 minutes", "75 minutes", "90 minutes", "120 minutes"],
+    "answer": 2
+  },
+  {
+    "question": "Which player is known as 'CR7'?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Neymar Jr", "Kylian Mbappé"],
+    "answer": 1
+  },
+  {
+    "question": "What is the maximum number of substitutions allowed in a standard match?",
+    "options": ["2", "3", "5", "7"],
+    "answer": 2
+  },
+  {
+    "question": "Which country has won the most World Cups?",
+    "options": ["Argentina", "Germany", "Brazil", "Italy"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the trophy awarded to the FIFA World Cup winner?",
+    "options": ["Golden Boot", "FIFA Trophy", "World Cup Trophy", "Golden Ball"],
+    "answer": 2
+  }
+]

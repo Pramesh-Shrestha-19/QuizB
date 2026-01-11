@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which artist painted The School of Athens in the Vatican?",
+    "options": ["Raphael", "Michelangelo", "Leonardo da Vinci", "Titian"],
+    "answer": 0
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Caravaggio"],
+    "answer": 0
+  },
+  {
+    "question": "Which painter is known for the series Water Lilies?",
+    "options": ["Claude Monet", "Vincent van Gogh", "Edgar Degas", "Paul Cézanne"],
+    "answer": 0
+  },
+  {
+    "question": "Which painter created The Third of May 1808?",
+    "options": ["Francisco Goya", "Diego Velázquez", "El Greco", "Picasso"],
+    "answer": 0
+  },
+  {
+    "question": "Which Spanish artist is famous for Guernica?",
+    "options": ["Pablo Picasso", "Salvador Dalí", "Francisco Goya", "Diego Velázquez"],
+    "answer": 0
+  },
+  {
+    "question": "Which Dutch artist painted Girl with a Pearl Earring?",
+    "options": ["Johannes Vermeer", "Rembrandt", "Hals", "Van Gogh"],
+    "answer": 0
+  },
+  {
+    "question": "Which German artist is known for Expressionism and The Scream?",
+    "options": ["Edvard Munch", "Caspar David Friedrich", "Albrecht Dürer", "Max Ernst"],
+    "answer": 0
+  },
+  {
+    "question": "Which artist pioneered Cubism along with Georges Braque?",
+    "options": ["Pablo Picasso", "Henri Matisse", "Salvador Dalí", "Juan Gris"],
+    "answer": 0
+  },
+  {
+    "question": "Which painter is known for The Garden of Earthly Delights?",
+    "options": ["Hieronymus Bosch", "Pieter Bruegel", "Albrecht Dürer", "Hans Holbein"],
+    "answer": 0
+  },
+  {
+    "question": "Which artist created the murals at the Palace of Cortés in Mexico?",
+    "options": ["Diego Rivera", "Frida Kahlo", "David Alfaro Siqueiros", "José Clemente Orozco"],
+    "answer": 0
+  },
+  {
+    "question": "Which artist is known for Pointillism technique?",
+    "options": ["Georges Seurat", "Paul Signac", "Claude Monet", "Paul Cézanne"],
+    "answer": 0
+  },
+  {
+    "question": "Which Italian Renaissance painter painted La Primavera?",
+    "options": ["Sandro Botticelli", "Leonardo da Vinci", "Michelangelo", "Raphael"],
+    "answer": 0
+  },
+  {
+    "question": "Which artist is famous for the painting Nighthawks?",
+    "options": ["Edward Hopper", "Norman Rockwell", "Grant Wood", "Georgia O’Keeffe"],
+    "answer": 0
+  },
+  {
+    "question": "Which French artist is considered a founder of Fauvism?",
+    "options": ["Henri Matisse", "Claude Monet", "Paul Cézanne", "Pierre-Auguste Renoir"],
+    "answer": 0
+  },
+  {
+    "question": "Which Dutch artist is known for The Night Watch?",
+    "options": ["Rembrandt", "Johannes Vermeer", "Van Gogh", "Hals"],
+    "answer": 0
+  },
+  {
+    "question": "Which painter created The Birth of Venus?",
+    "options": ["Sandro Botticelli", "Leonardo da Vinci", "Raphael", "Titian"],
+    "answer": 0
+  },
+  {
+    "question": "Which artist is famous for melting clocks in his paintings?",
+    "options": ["Salvador Dalí", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+    "answer": 0
+  },
+  {
+    "question": "Which Italian artist painted The Creation of Adam?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+    "answer": 0
+  },
+  {
+    "question": "Which artist created Les Demoiselles d’Avignon?",
+    "options": ["Pablo Picasso", "Georges Braque", "Henri Matisse", "Salvador Dalí"],
+    "answer": 0
+  },
+  {
+    "question": "Which Spanish painter is known for the surrealist painting The Elephants?",
+    "options": ["Salvador Dalí", "Pablo Picasso", "Francisco Goya", "Diego Velázquez"],
+    "answer": 0
+  }
+]

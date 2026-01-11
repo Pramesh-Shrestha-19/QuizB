@@ -1,4 +1,4 @@
-// 1. Function to Load the Auth HTML and initialize everything
+// Load the Auth HTML and initialize everything
 document.addEventListener("DOMContentLoaded", async () => {                                         // Ensures current page which ever it maybe is loaded fully.
     try {
         // Fetch the HTML content

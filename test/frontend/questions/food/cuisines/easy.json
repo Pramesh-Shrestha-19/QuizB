@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which country is famous for sushi?",
+    "options": ["Japan", "China", "Thailand", "Korea"],
+    "answer": 0
+  },
+  {
+    "question": "Tacos are a traditional dish from which country?",
+    "options": ["Mexico", "Spain", "Italy", "Brazil"],
+    "answer": 0
+  },
+  {
+    "question": "Pizza originated in which country?",
+    "options": ["Italy", "France", "Greece", "USA"],
+    "answer": 0
+  },
+  {
+    "question": "Croissants are a popular pastry from which country?",
+    "options": ["France", "Belgium", "Germany", "Austria"],
+    "answer": 0
+  },
+  {
+    "question": "Paella is a famous dish from which country?",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "answer": 0
+  },
+  {
+    "question": "Kimchi is a traditional food from which country?",
+    "options": ["South Korea", "China", "Japan", "Vietnam"],
+    "answer": 0
+  },
+  {
+    "question": "Bratwurst is a type of sausage from which country?",
+    "options": ["Germany", "Switzerland", "Austria", "Poland"],
+    "answer": 0
+  },
+  {
+    "question": "Poutine, fries topped with cheese curds and gravy, is from which country?",
+    "options": ["Canada", "USA", "UK", "Australia"],
+    "answer": 0
+  },
+  {
+    "question": "Gelato is a popular dessert from which country?",
+    "options": ["Italy", "France", "Switzerland", "Spain"],
+    "answer": 0
+  },
+  {
+    "question": "Baklava is a sweet pastry from which region?",
+    "options": ["Middle East", "South America", "East Asia", "Northern Europe"],
+    "answer": 0
+  }
+]

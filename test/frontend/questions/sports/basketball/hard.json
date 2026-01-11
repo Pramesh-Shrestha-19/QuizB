@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who was the first player to be drafted straight out of high school in the modern era?",
+    "options": ["Kevin Garnett", "Kobe Bryant", "Moses Malone", "Darryl Dawkins"],
+    "answer": 2
+  },
+  {
+    "question": "What is Wilt Chamberlain's single-game scoring record?",
+    "options": ["81", "100", "87", "94"],
+    "answer": 1
+  },
+  {
+    "question": "Which player has the most career triple-doubles in NBA history?",
+    "options": ["Magic Johnson", "Oscar Robertson", "Russell Westbrook", "LeBron James"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first European player to win NBA MVP?",
+    "options": ["Dirk Nowitzki", "Pau Gasol", "Tony Parker", "Nikola Jokić"],
+    "answer": 0
+  },
+  {
+    "question": "What year did the three-point line debut in the NBA?",
+    "options": ["1977", "1979", "1981", "1983"],
+    "answer": 1
+  },
+  {
+    "question": "Who holds the record for most rebounds in a single game?",
+    "options": ["Bill Russell", "Wilt Chamberlain", "Dennis Rodman", "Kareem Abdul-Jabbar"],
+    "answer": 1
+  },
+  {
+    "question": "Which team won the first-ever NBA championship in 1947?",
+    "options": ["Philadelphia Warriors", "Minneapolis Lakers", "Boston Celtics", "New York Knicks"],
+    "answer": 0
+  },
+  {
+    "question": "How many consecutive championships did the Bulls win in the 1990s?",
+    "options": ["3, then 3 more", "4 straight", "5 straight", "6 straight"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the youngest player to score 10,000 career points?",
+    "options": ["Kobe Bryant", "LeBron James", "Kevin Durant", "Carmelo Anthony"],
+    "answer": 1
+  },
+  {
+    "question": "What is the record for most points scored in an NBA Finals game?",
+    "options": ["55", "61", "63", "69"],
+    "answer": 1
+  },
+  {
+    "question": "Which player won Finals MVP despite being on the losing team?",
+    "options": ["Jerry West", "Elgin Baylor", "Wilt Chamberlain", "Oscar Robertson"],
+    "answer": 0
+  },
+  {
+    "question": "Who holds the record for most steals in NBA history?",
+    "options": ["Gary Payton", "John Stockton", "Michael Jordan", "Chris Paul"],
+    "answer": 1
+  },
+  {
+    "question": "What was the original name of the Atlanta Hawks?",
+    "options": ["Buffalo Bisons", "Tri-Cities Blackhawks", "St. Louis Hawks", "Milwaukee Hawks"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first player to win MVP, Finals MVP, and All-Star MVP in the same year?",
+    "options": ["Michael Jordan", "Willis Reed", "LeBron James", "Shaquille O'Neal"],
+    "answer": 1
+  },
+  {
+    "question": "What is the record for most consecutive games played?",
+    "options": ["906", "1,192", "1,560", "1,611"],
+    "answer": 1
+  },
+  {
+    "question": "Who scored 13 points in 33 seconds in 2004?",
+    "options": ["Kobe Bryant", "Allen Iverson", "Tracy McGrady", "Vince Carter"],
+    "answer": 2
+  },
+  {
+    "question": "Which player has the most career blocks in NBA history?",
+    "options": ["Dikembe Mutombo", "Hakeem Olajuwon", "Kareem Abdul-Jabbar", "Mark Eaton"],
+    "answer": 1
+  },
+  {
+    "question": "What team holds the record for most wins in a single season (73)?",
+    "options": ["1995-96 Bulls", "2015-16 Warriors", "1971-72 Lakers", "2012-13 Heat"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first player to average a triple-double for a season?",
+    "options": ["Magic Johnson", "Oscar Robertson", "Wilt Chamberlain", "Larry Bird"],
+    "answer": 1
+  },
+  {
+    "question": "What year was the shot clock introduced in the NBA?",
+    "options": ["1950", "1954", "1958", "1962"],
+    "answer": 1
+  }
+]

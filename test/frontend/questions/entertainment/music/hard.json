@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which Italian composer is famous for the operas 'La Traviata' and 'Aida'?",
+    "options": ["Verdi", "Puccini", "Rossini", "Vivaldi"],
+    "answer": 0
+  },
+  {
+    "question": "Which 1970s band is known for the album 'Rumours'?",
+    "options": ["Fleetwood Mac", "ABBA", "Queen", "The Eagles"],
+    "answer": 0
+  },
+  {
+    "question": "What is the term for a series of notes forming a musical idea?",
+    "options": ["Melody", "Harmony", "Chord", "Scale"],
+    "answer": 0
+  },
+  {
+    "question": "Which music producer is famous for working with Michael Jackson?",
+    "options": ["Quincy Jones", "Dr. Dre", "Max Martin", "Rick Rubin"],
+    "answer": 0
+  },
+  {
+    "question": "Which jazz musician was known as 'Satchmo'?",
+    "options": ["Louis Armstrong", "Duke Ellington", "Miles Davis", "John Coltrane"],
+    "answer": 0
+  },
+  {
+    "question": "Which electronic music duo released 'Get Lucky'?",
+    "options": ["Daft Punk", "The Chainsmokers", "Disclosure", "Justice"],
+    "answer": 0
+  },
+  {
+    "question": "Which composer is famous for the 'Four Seasons'?",
+    "options": ["Vivaldi", "Handel", "Bach", "Mozart"],
+    "answer": 0
+  },
+  {
+    "question": "Which singer is known as the 'Material Girl'?",
+    "options": ["Madonna", "Lady Gaga", "Britney Spears", "Kylie Minogue"],
+    "answer": 0
+  },
+  {
+    "question": "Which band released 'Bohemian Rhapsody'?",
+    "options": ["Queen", "The Beatles", "Pink Floyd", "Led Zeppelin"],
+    "answer": 0
+  },
+  {
+    "question": "Which instrument is considered the backbone of a rhythm section?",
+    "options": ["Drums", "Bass", "Guitar", "Piano"],
+    "answer": 1
+  },
+  {
+    "question": "Which composer is known for the 'Moonlight Sonata'?",
+    "options": ["Beethoven", "Mozart", "Chopin", "Bach"],
+    "answer": 0
+  },
+  {
+    "question": "Which music style originated in Jamaica?",
+    "options": ["Reggae", "Ska", "Calypso", "Samba"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the lead vocalist of Coldplay?",
+    "options": ["Chris Martin", "Bono", "Thom Yorke", "Brandon Flowers"],
+    "answer": 0
+  },
+  {
+    "question": "Which instrument family does the oboe belong to?",
+    "options": ["Woodwind", "Brass", "String", "Percussion"],
+    "answer": 0
+  },
+  {
+    "question": "Which band is famous for 'Stairway to Heaven'?",
+    "options": ["Led Zeppelin", "Deep Purple", "Black Sabbath", "AC/DC"],
+    "answer": 0
+  },
+  {
+    "question": "Which female artist sang 'Rolling in the Deep'?",
+    "options": ["Adele", "Beyoncé", "Taylor Swift", "Lady Gaga"],
+    "answer": 0
+  },
+  {
+    "question": "Which composer wrote 'Canon in D'?",
+    "options": ["Pachelbel", "Bach", "Handel", "Vivaldi"],
+    "answer": 0
+  },
+  {
+    "question": "Which genre blends reggae and hip hop?",
+    "options": ["Dancehall", "Reggaeton", "Dubstep", "Trap"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the 'Father of the Symphony'?",
+    "options": ["Haydn", "Mozart", "Beethoven", "Bach"],
+    "answer": 0
+  },
+  {
+    "question": "Which instrument uses reeds to produce sound?",
+    "options": ["Clarinet", "Trumpet", "Violin", "Trombone"],
+    "answer": 0
+  }
+]

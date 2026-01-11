@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Who won the Ballon d'Or in 2023?",
+    "options": ["Lionel Messi", "Erling Haaland", "Kylian Mbappé", "Cristiano Ronaldo"],
+    "answer": 0
+  },
+  {
+    "question": "Which club has won the most UEFA Champions League titles?",
+    "options": ["Barcelona", "AC Milan", "Real Madrid", "Bayern Munich"],
+    "answer": 2
+  },
+  {
+    "question": "In which year was the English Premier League founded?",
+    "options": ["1988", "1992", "1995", "2000"],
+    "answer": 1
+  },
+  {
+    "question": "Who is the all-time top scorer in the Premier League?",
+    "options": ["Wayne Rooney", "Thierry Henry", "Alan Shearer", "Sergio Agüero"],
+    "answer": 2
+  },
+  {
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "options": ["South Africa", "Brazil", "Russia", "Germany"],
+    "answer": 1
+  },
+  {
+    "question": "What is the nickname of Argentina's national team?",
+    "options": ["La Roja", "Les Bleus", "La Albiceleste", "Azzurri"],
+    "answer": 2
+  },
+  {
+    "question": "Which player transferred to Real Madrid for a then-world record fee of €94 million in 2009?",
+    "options": ["Gareth Bale", "Cristiano Ronaldo", "Kaká", "Zinedine Zidane"],
+    "answer": 1
+  },
+  {
+    "question": "How many times has Germany won the FIFA World Cup?",
+    "options": ["2", "3", "4", "5"],
+    "answer": 2
+  },
+  {
+    "question": "Which stadium is known as 'The Theatre of Dreams'?",
+    "options": ["Anfield", "Old Trafford", "Stamford Bridge", "Emirates Stadium"],
+    "answer": 1
+  },
+  {
+    "question": "Who scored the infamous 'Hand of God' goal?",
+    "options": ["Pelé", "Diego Maradona", "Ronaldo Nazário", "Johan Cruyff"],
+    "answer": 1
+  },
+  {
+    "question": "Which club is known as 'The Gunners'?",
+    "options": ["Manchester City", "Arsenal", "Tottenham", "Chelsea"],
+    "answer": 1
+  },
+  {
+    "question": "What year did Leicester City win the Premier League title?",
+    "options": ["2014", "2015", "2016", "2017"],
+    "answer": 2
+  },
+  {
+    "question": "Which country won the first-ever FIFA World Cup in 1930?",
+    "options": ["Brazil", "Argentina", "Uruguay", "Italy"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the only player to win the Ballon d'Or 8 times?",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Michel Platini", "Johan Cruyff"],
+    "answer": 1
+  },
+  {
+    "question": "Which English club has won the most top-flight league titles?",
+    "options": ["Manchester United", "Liverpool", "Arsenal", "Chelsea"],
+    "answer": 0
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Who was the first Chancellor of Germany after unification in 1871?",
+    "options": ["Otto von Bismarck", "Kaiser Wilhelm I", "Adolf Hitler", "Frederick III"],
+    "answer": 0
+  },
+  {
+    "question": "The Russian Revolution of 1917 led to the establishment of which government?",
+    "options": ["Tsarist Monarchy", "Soviet Union", "Provisional Government", "Democratic Republic"],
+    "answer": 1
+  },
+  {
+    "question": "Which American president issued the Emancipation Proclamation?",
+    "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "Theodore Roosevelt"],
+    "answer": 0
+  },
+  {
+    "question": "Which war was fought between the North and South in the USA?",
+    "options": ["American Revolution", "Civil War", "World War I", "War of 1812"],
+    "answer": 1
+  },
+  {
+    "question": "Which movement in India was led by Mahatma Gandhi?",
+    "options": ["Quit India Movement", "Non-Cooperation Movement", "Civil Disobedience Movement", "All of these"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the leader of the Nazi Party in Germany?",
+    "options": ["Adolf Hitler", "Benito Mussolini", "Joseph Stalin", "Francisco Franco"],
+    "answer": 0
+  },
+  {
+    "question": "The Great Depression began in which year?",
+    "options": ["1929", "1918", "1939", "1920"],
+    "answer": 0
+  },
+  {
+    "question": "Which country first gave women the right to vote?",
+    "options": ["USA", "UK", "New Zealand", "Australia"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the British Prime Minister during the Suez Crisis in 1956?",
+    "options": ["Clement Attlee", "Winston Churchill", "Anthony Eden", "Harold Macmillan"],
+    "answer": 2
+  },
+  {
+    "question": "Which country was divided into East and West after World War II?",
+    "options": ["Germany", "Korea", "Vietnam", "Japan"],
+    "answer": 0
+  },
+  {
+    "question": "The Berlin Wall fell in which year?",
+    "options": ["1989", "1991", "1985", "1990"],
+    "answer": 0
+  },
+  {
+    "question": "Which Chinese leader initiated the 'Great Leap Forward'?",
+    "options": ["Sun Yat-sen", "Mao Zedong", "Deng Xiaoping", "Chiang Kai-shek"],
+    "answer": 1
+  },
+  {
+    "question": "Which event started the Cold War?",
+    "options": ["Berlin Blockade", "World War II", "Korean War", "Vietnam War"],
+    "answer": 0
+  },
+  {
+    "question": "The Treaty of Tordesillas divided new lands between which countries?",
+    "options": ["Spain and Portugal", "Spain and France", "Portugal and England", "France and England"],
+    "answer": 0
+  },
+  {
+    "question": "Which Italian leader was a fascist dictator during World War II?",
+    "options": ["Benito Mussolini", "Adolf Hitler", "Joseph Stalin", "Francisco Franco"],
+    "answer": 0
+  }
+]

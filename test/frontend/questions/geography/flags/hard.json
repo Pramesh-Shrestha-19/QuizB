@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which country has a flag with a double-headed eagle?",
+    "options": ["Albania", "Serbia", "Austria", "Montenegro"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with a blue triangle and horizontal red and white stripes?",
+    "options": ["Cuba", "Puerto Rico", "Liberia", "USA"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with a black, red, and yellow vertical tricolor?",
+    "options": ["Belgium", "Germany", "Chad", "Romania"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with a red, white, and black horizontal tricolor with an eagle in the center?",
+    "options": ["Iraq", "Egypt", "Syria", "Yemen"],
+    "answer": 1
+  },
+  {
+    "question": "Which country has a flag with a green triangle on the left and horizontal white and red stripes?",
+    "options": ["Belize", "Palestine", "Sudan", "Mozambique"],
+    "answer": 1
+  },
+  {
+    "question": "Which country has a flag with a white circle on a blue field and a red crescent inside?",
+    "options": ["Tunisia", "Turkey", "Malaysia", "Algeria"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with a golden lion on a crimson background holding a sword?",
+    "options": ["Sri Lanka", "Bhutan", "Nepal", "Thailand"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with five stars arranged in a circle?",
+    "options": ["European Union", "China", "USA", "Australia"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with a black triangle on the left, white in the middle, and green on the right?",
+    "options": ["Kenya", "Sudan", "Palestine", "United Arab Emirates"],
+    "answer": 2
+  },
+  {
+    "question": "Which country’s flag has a blue cross with white outline on a red background?",
+    "options": ["Norway", "Iceland", "Finland", "Denmark"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with a black, red, and yellow horizontal stripe and an eagle emblem?",
+    "options": ["Germany", "Belgium", "Austria", "Albania"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with a green cedar tree in the center of a white stripe flanked by red?",
+    "options": ["Lebanon", "Morocco", "Jordan", "Syria"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with two horizontal blue stripes on a white background and a blue Star of David in the center?",
+    "options": ["Israel", "Greece", "Finland", "Argentina"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with a red field and a golden hammer and sickle in the top left corner?",
+    "options": ["Soviet Union", "China", "Vietnam", "North Korea"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with a white sun with 12 rays on a blue square in the top left corner and red background?",
+    "options": ["Taiwan", "China", "South Korea", "Japan"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with a red cross on a white background bordered with red lines?",
+    "options": ["England", "Switzerland", "Denmark", "Norway"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with red and white stripes and a green cedar tree in the center?",
+    "options": ["Lebanon", "Morocco", "Jordan", "Syria"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with a white crescent and star on a red background?",
+    "options": ["Turkey", "Pakistan", "Tunisia", "Algeria"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with a red maple leaf in the center of two vertical red stripes?",
+    "options": ["Canada", "USA", "Switzerland", "Denmark"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has a flag with a black eagle on a yellow background with red border?",
+    "options": ["Albania", "Germany", "Austria", "Belgium"],
+    "answer": 1
+  }
+]

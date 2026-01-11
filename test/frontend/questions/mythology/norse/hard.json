@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the name of the end-of-the-world event in Norse mythology?",
+    "options": ["Ragnarok", "Fimbulwinter", "Yggdrasil", "Vanaheim"],
+    "answer": 0
+  },
+  {
+    "question": "Who kills Fenrir during Ragnarok?",
+    "options": ["Tyr", "Odin", "Thor", "Loki"],
+    "answer": 0
+  },
+  {
+    "question": "Who kills Jormungandr during Ragnarok?",
+    "options": ["Thor", "Odin", "Tyr", "Loki"],
+    "answer": 0
+  },
+  {
+    "question": "Which goddess dies at Ragnarok?",
+    "options": ["Freyja", "Frigg", "Hel", "Skadi"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the son of Odin who dies fighting Fenrir?",
+    "options": ["Tyr", "Thor", "Balder", "Vidar"],
+    "answer": 0
+  },
+  {
+    "question": "Which god avenges Balder's death?",
+    "options": ["Vidar", "Thor", "Odin", "Tyr"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the hall of the slain warriors?",
+    "options": ["Valhalla", "Folkvangr", "Gladsheim", "Helheim"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the goddess ruling over Folkvangr?",
+    "options": ["Freya", "Frigg", "Hel", "Skadi"],
+    "answer": 0
+  },
+  {
+    "question": "Which god uses a spear called Gungnir?",
+    "options": ["Odin", "Thor", "Tyr", "Loki"],
+    "answer": 0
+  },
+  {
+    "question": "Who owns the magical ship Skidbladnir?",
+    "options": ["Freyr", "Odin", "Thor", "Loki"],
+    "answer": 0
+  },
+  {
+    "question": "Who are the Valkyries?",
+    "options": ["Warrior maidens serving Odin", "Gods of the sea", "Giants of Jotunheim", "Dwarves of Nidavellir"],
+    "answer": 0
+  },
+  {
+    "question": "Which god controls the winds in Norse mythology?",
+    "options": ["Njord", "Thor", "Odin", "Tyr"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the trickster responsible for Balder's death?",
+    "options": ["Loki", "Odin", "Thor", "Tyr"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the golden-haired god of light, son of Odin?",
+    "options": ["Balder", "Tyr", "Thor", "Vidar"],
+    "answer": 0
+  },
+  {
+    "question": "Which giantess marries Njord?",
+    "options": ["Skadi", "Hel", "Frigg", "Freyja"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the all-seeing guardian of the Bifrost?",
+    "options": ["Heimdall", "Odin", "Thor", "Loki"],
+    "answer": 0
+  },
+  {
+    "question": "Which wolf chases the sun during Ragnarok?",
+    "options": ["Skoll", "Fenrir", "Hati", "Jormungandr"],
+    "answer": 0
+  },
+  {
+    "question": "Which wolf chases the moon during Ragnarok?",
+    "options": ["Hati", "Fenrir", "Skoll", "Jormungandr"],
+    "answer": 0
+  },
+  {
+    "question": "Which dragon gnaws at the roots of Yggdrasil?",
+    "options": ["Nidhogg", "Fafnir", "Jormungandr", "Fenrir"],
+    "answer": 0
+  },
+  {
+    "question": "Which hall survives Ragnarok?",
+    "options": ["Idavoll", "Valhalla", "Helheim", "Folkvangr"],
+    "answer": 0
+  }
+]

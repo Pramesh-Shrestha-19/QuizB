@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which company created the Mario franchise?",
+    "options": ["Nintendo", "Sony", "Microsoft", "Sega"],
+    "answer": 0
+  },
+  {
+    "question": "What does 'FPS' stand for in gaming?",
+    "options": ["First Person Shooter", "Fast Paced Strategy", "Final Play Sequence", "Full Player Simulation"],
+    "answer": 0
+  },
+  {
+    "question": "Which game features the city of Los Santos?",
+    "options": ["GTA V", "Red Dead Redemption", "Watch Dogs", "Saints Row"],
+    "answer": 0
+  },
+  {
+    "question": "In which game do players build with blocks in a sandbox world?",
+    "options": ["Minecraft", "Fortnite", "Roblox", "Terraria"],
+    "answer": 0
+  },
+  {
+    "question": "Which gaming console is made by Sony?",
+    "options": ["PlayStation", "Xbox", "Switch", "Dreamcast"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the main character in The Legend of Zelda?",
+    "options": ["Link", "Zelda", "Ganon", "Sheik"],
+    "answer": 0
+  },
+  {
+    "question": "Which game is known for its battle royale mode and building mechanics?",
+    "options": ["Fortnite", "PUBG", "Apex Legends", "Call of Duty: Warzone"],
+    "answer": 0
+  },
+  {
+    "question": "Which franchise features the Master Chief?",
+    "options": ["Halo", "Gears of War", "Destiny", "Doom"],
+    "answer": 0
+  },
+  {
+    "question": "Which company created the game 'Overwatch'?",
+    "options": ["Blizzard", "Valve", "EA", "Ubisoft"],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary objective in Tetris?",
+    "options": ["Fit blocks to form lines", "Collect coins", "Defeat enemies", "Build a city"],
+    "answer": 0
+  }
+]

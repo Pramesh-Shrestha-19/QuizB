@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which scientist proposed the uncertainty principle?",
+    "options": ["Heisenberg", "Newton", "Bohr", "Einstein"],
+    "answer": 0
+  },
+  {
+    "question": "What is the molar mass of water?",
+    "options": ["22 g/mol", "16 g/mol", "18 g/mol", "20 g/mol"],
+    "answer": 2
+  },
+  {
+    "question": "What is the speed of sound in air at room temperature?",
+    "options": ["343 m/s", "350 m/s", "300 m/s", "330 m/s"],
+    "answer": 0
+  },
+  {
+    "question": "Which element is a noble gas?",
+    "options": ["Oxygen", "Neon", "Nitrogen", "Hydrogen"],
+    "answer": 1
+  },
+  {
+    "question": "Which law describes the relationship between pressure and volume of a gas?",
+    "options": ["Charles’s Law", "Avogadro’s Law", "Boyle’s Law", "Hooke’s Law"],
+    "answer": 2
+  },
+  {
+    "question": "Which scientist discovered radioactivity?",
+    "options": ["Marie Curie", "Faraday", "Roentgen", "Henri Becquerel"],
+    "answer": 3
+  },
+  {
+    "question": "Which law states F = ma?",
+    "options": ["Newton's Second Law", "Hooke's Law", "Newton's First Law", "Ohm's Law"],
+    "answer": 0
+  },
+  {
+    "question": "Which element is liquid at room temperature?",
+    "options": ["Cesium", "Bromine", "Gallium", "Mercury"],
+    "answer": 3
+  },
+  {
+    "question": "Which metal is used in thermometers?",
+    "options": ["Mercury", "Lead", "Iron", "Copper"],
+    "answer": 0
+  },
+  {
+    "question": "Which gas is used in fluorescent lamps?",
+    "options": ["Mercury vapor", "Helium", "Neon", "Argon"],
+    "answer": 0
+  },
+  {
+    "question": "Which principle explains why ships float?",
+    "options": ["Pascal's Principle", "Archimedes' Principle", "Bernoulli's Principle", "Hooke's Law"],
+    "answer": 1
+  },
+  {
+    "question": "Which scientist proposed the periodic table?",
+    "options": ["Dmitri Mendeleev", "Marie Curie", "Lavoisier", "John Dalton"],
+    "answer": 0
+  },
+  {
+    "question": "Which force keeps planets in orbit around the sun?",
+    "options": ["Weak Nuclear Force", "Electromagnetic Force", "Gravitational Force", "Strong Nuclear Force"],
+    "answer": 2
+  },
+  {
+    "question": "What is the chemical formula of ozone?",
+    "options": ["O3", "CO2", "H2O", "O2"],
+    "answer": 0
+  },
+  {
+    "question": "Which scientist formulated the laws of planetary motion?",
+    "options": ["Copernicus", "Newton", "Kepler", "Galileo"],
+    "answer": 2
+  },
+  {
+    "question": "What is the unit of electric resistance?",
+    "options": ["Ampere", "Ohm", "Volt", "Watt"],
+    "answer": 1
+  },
+  {
+    "question": "Which element is used in semiconductors?",
+    "options": ["Aluminum", "Copper", "Silicon", "Iron"],
+    "answer": 2
+  },
+  {
+    "question": "Which gas is lighter than air?",
+    "options": ["Nitrogen", "Oxygen", "Hydrogen", "Carbon Dioxide"],
+    "answer": 2
+  },
+  {
+    "question": "What is the SI unit of energy?",
+    "options": ["Joule", "Calorie", "Newton", "Watt"],
+    "answer": 0
+  },
+  {
+    "question": "Which metal has the highest electrical conductivity?",
+    "options": ["Aluminum", "Gold", "Silver", "Copper"],
+    "answer": 2
+  }
+]

@@ -2,7 +2,7 @@
 header('Content-Type: application/json');
 require_once __DIR__ . '/config.php';
 
-session_start(); // Start session at the very beginning
+session_start(); // Start session 
 
 // --- CHECK IF REMEMBER ME COOKIE EXISTS ---
 if(isset($_COOKIE['quizb_user']) && !isset($_SESSION['user_id'])) {

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which battle was the largest naval battle of World War II?",
+    "options": ["Battle of Midway", "Battle of the Atlantic", "Battle of Leyte Gulf", "Battle of Jutland"],
+    "answer": 2
+  },
+  {
+    "question": "Which battle stopped the German advance into the Soviet Union?",
+    "options": ["Battle of Moscow", "Battle of Stalingrad", "Battle of Kursk", "Siege of Leningrad"],
+    "answer": 1
+  },
+  {
+    "question": "Which general led the Allied forces on D-Day?",
+    "options": ["Dwight D. Eisenhower", "Douglas MacArthur", "George Patton", "Bernard Montgomery"],
+    "answer": 0
+  },
+  {
+    "question": "The League of Nations was formed after which war?",
+    "options": ["World War I", "World War II", "Franco-Prussian War", "Napoleonic Wars"],
+    "answer": 0
+  },
+  {
+    "question": "Which country switched sides from the Axis to the Allies in World War II?",
+    "options": ["Italy", "Japan", "Germany", "Soviet Union"],
+    "answer": 0
+  },
+  {
+    "question": "The Zimmerman Telegram was sent to which country?",
+    "options": ["Mexico", "USA", "Germany", "Britain"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the Italian dictator allied with Hitler in World War II?",
+    "options": ["Benito Mussolini", "Vittorio Orlando", "Giuseppe Garibaldi", "Victor Emmanuel III"],
+    "answer": 0
+  },
+  {
+    "question": "Which city was the site of the first atomic bomb drop?",
+    "options": ["Hiroshima", "Nagasaki", "Tokyo", "Kyoto"],
+    "answer": 0
+  },
+  {
+    "question": "Which treaty ended World War I?",
+    "options": ["Treaty of Versailles", "Treaty of Paris", "Treaty of Ghent", "Treaty of Utrecht"],
+    "answer": 0
+  },
+  {
+    "question": "The Blitz refers to which event?",
+    "options": ["German bombing of London", "D-Day invasion", "Battle of Britain", "Operation Barbarossa"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the Soviet leader during World War II?",
+    "options": ["Joseph Stalin", "Lenin", "Mikhail Gorbachev", "Nikita Khrushchev"],
+    "answer": 0
+  },
+  {
+    "question": "Which battle was the turning point in the Pacific Theater?",
+    "options": ["Battle of Midway", "Pearl Harbor", "Iwo Jima", "Guadalcanal"],
+    "answer": 0
+  },
+  {
+    "question": "Which British naval base was attacked by Japan in 1941?",
+    "options": ["Hong Kong", "Singapore", "Pearl Harbor", "Malacca"],
+    "answer": 1
+  },
+  {
+    "question": "Operation Barbarossa was the code name for Germany’s invasion of which country?",
+    "options": ["Soviet Union", "Poland", "France", "Norway"],
+    "answer": 0
+  },
+  {
+    "question": "Which conference divided Germany into occupation zones after WWII?",
+    "options": ["Yalta Conference", "Potsdam Conference", "Tehran Conference", "Munich Conference"],
+    "answer": 0
+  }
+]

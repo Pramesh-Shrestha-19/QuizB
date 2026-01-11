@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which popular survival game features a world called 'Hyrule'?",
+    "options": ["The Legend of Zelda: Breath of the Wild", "Minecraft", "Fortnite", "Terraria"],
+    "answer": 0
+  },
+  {
+    "question": "Which online game is known for 'creeps' and 'lanes' in a MOBA format?",
+    "options": ["Dota 2", "League of Legends", "Smite", "Heroes of the Storm"],
+    "answer": 1
+  },
+  {
+    "question": "In which game do players catch and train creatures called 'Pokémon'?",
+    "options": ["Digimon", "Pokémon", "Yu-Gi-Oh", "Monster Hunter"],
+    "answer": 1
+  },
+  {
+    "question": "Which sandbox game allows players to create custom maps and mods?",
+    "options": ["Minecraft", "Roblox", "Terraria", "Fortnite"],
+    "answer": 1
+  },
+  {
+    "question": "Which battle royale game is set in the futuristic city of Neo Tokyo?",
+    "options": ["Apex Legends", "Fortnite", "PUBG", "Overwatch"],
+    "answer": 0
+  },
+  {
+    "question": "Which RPG series features characters like Geralt of Rivia?",
+    "options": ["The Witcher", "Dragon Age", "Skyrim", "Dark Souls"],
+    "answer": 0
+  },
+  {
+    "question": "Which first-person shooter is set in a fictional city of King's Row?",
+    "options": ["Overwatch", "Call of Duty", "Battlefield", "Rainbow Six Siege"],
+    "answer": 0
+  },
+  {
+    "question": "In which game do players build and defend towers from waves of enemies?",
+    "options": ["Tower Defense", "Clash of Clans", "Plants vs Zombies", "Bloons TD"],
+    "answer": 3
+  },
+  {
+    "question": "Which game franchise includes titles like 'Assassin's Creed II' and 'Odyssey'?",
+    "options": ["Assassin's Creed", "Prince of Persia", "Far Cry", "Tomb Raider"],
+    "answer": 0
+  },
+  {
+    "question": "Which sci-fi shooter features a character named Commander Shepard?",
+    "options": ["Mass Effect", "Halo", "Destiny", "Titanfall"],
+    "answer": 0
+  },
+  {
+    "question": "Which company develops the game 'The Sims'?",
+    "options": ["EA", "Ubisoft", "Activision", "Blizzard"],
+    "answer": 0
+  },
+  {
+    "question": "Which fighting game franchise features characters like Ryu and Chun-Li?",
+    "options": ["Street Fighter", "Tekken", "Mortal Kombat", "Soul Calibur"],
+    "answer": 0
+  },
+  {
+    "question": "Which sandbox game lets you play as a pirate in the Caribbean?",
+    "options": ["Sea of Thieves", "Assassin's Creed IV", "Skyrim", "GTA V"],
+    "answer": 0
+  },
+  {
+    "question": "Which game series features the fictional land of Tamriel?",
+    "options": ["The Elder Scrolls", "Dragon Age", "Dark Souls", "Witcher"],
+    "answer": 0
+  },
+  {
+    "question": "Which multiplayer game features building forts and shooting in the Battle Royale mode?",
+    "options": ["Fortnite", "PUBG", "Apex Legends", "Call of Duty: Warzone"],
+    "answer": 0
+  }
+]

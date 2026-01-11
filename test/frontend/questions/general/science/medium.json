@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which planet is known for its rings?",
+    "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+    "answer": 1
+  },
+  {
+    "question": "What is the chemical formula of carbon dioxide?",
+    "options": ["CO2", "O2C", "C2O", "CO"],
+    "answer": 0
+  },
+  {
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "options": ["Chloroplast", "Nucleus", "Ribosome", "Mitochondria"],
+    "answer": 3
+  },
+  {
+    "question": "What type of energy is stored in food?",
+    "options": ["Kinetic energy", "Electrical energy", "Thermal energy", "Chemical energy"],
+    "answer": 3
+  },
+  {
+    "question": "Which gas do plants take in for photosynthesis?",
+    "options": ["Nitrogen", "Oxygen", "Hydrogen", "Carbon Dioxide"],
+    "answer": 3
+  },
+  {
+    "question": "Which part of the human body helps in balance and coordination?",
+    "options": ["Medulla", "Cerebrum", "Hypothalamus", "Cerebellum"],
+    "answer": 3
+  },
+  {
+    "question": "What is the freezing point of water in Celsius?",
+    "options": ["0°C", "-10°C", "32°C", "100°C"],
+    "answer": 0
+  },
+  {
+    "question": "Which organ filters toxins from the blood?",
+    "options": ["Heart", "Kidney", "Liver", "Lungs"],
+    "answer": 2
+  },
+  {
+    "question": "Which simple machine is a ramp an example of?",
+    "options": ["Inclined plane", "Wheel and axle", "Pulley", "Lever"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet is the hottest in the solar system?",
+    "options": ["Mars", "Mercury", "Jupiter", "Venus"],
+    "answer": 3
+  },
+  {
+    "question": "Which blood cells carry oxygen in the body?",
+    "options": ["White blood cells", "Red blood cells", "Plasma", "Platelets"],
+    "answer": 1
+  },
+  {
+    "question": "What is the main gas in the Earth's atmosphere?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+    "answer": 0
+  },
+  {
+    "question": "Which vitamin is essential for strong bones?",
+    "options": ["Vitamin B12", "Vitamin D", "Vitamin C", "Vitamin A"],
+    "answer": 1
+  },
+  {
+    "question": "Which force opposes motion between two surfaces?",
+    "options": ["Friction", "Centrifugal force", "Magnetism", "Gravity"],
+    "answer": 0
+  },
+  {
+    "question": "Which organ in the human body stores bile?",
+    "options": ["Pancreas", "Gallbladder", "Liver", "Stomach"],
+    "answer": 1
+  }
+]

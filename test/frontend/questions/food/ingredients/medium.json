@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which grain is used to make couscous?",
+    "options": ["Wheat", "Barley", "Rice", "Corn"],
+    "answer": 0
+  },
+  {
+    "question": "Which spice is obtained from dried flower buds of Syzygium aromaticum?",
+    "options": ["Cloves", "Cardamom", "Nutmeg", "Cinnamon"],
+    "answer": 0
+  },
+  {
+    "question": "Which seed is used to produce oil and also has a small black outer coating?",
+    "options": ["Sesame", "Sunflower", "Pumpkin", "Flax"],
+    "answer": 0
+  },
+  {
+    "question": "Which nut is the main ingredient in praline?",
+    "options": ["Hazelnut", "Almond", "Walnut", "Cashew"],
+    "answer": 0
+  },
+  {
+    "question": "Which fruit is used to make traditional balsamic vinegar?",
+    "options": ["Grapes", "Apples", "Pears", "Cherries"],
+    "answer": 0
+  },
+  {
+    "question": "Star anise is commonly used in which cuisine?",
+    "options": ["Chinese", "Indian", "Italian", "French"],
+    "answer": 0
+  },
+  {
+    "question": "Which herb is used to make pesto?",
+    "options": ["Basil", "Cilantro", "Parsley", "Mint"],
+    "answer": 0
+  },
+  {
+    "question": "Which fruit’s seeds are used to make pomegranate molasses?",
+    "options": ["Pomegranate", "Apple", "Cherry", "Grapes"],
+    "answer": 0
+  },
+  {
+    "question": "Turmeric is obtained from which part of the plant?",
+    "options": ["Rhizome", "Leaf", "Seed", "Flower"],
+    "answer": 0
+  },
+  {
+    "question": "Which plant’s leaves are used to make bay leaves?",
+    "options": ["Laurus nobilis", "Rosemary", "Thyme", "Sage"],
+    "answer": 0
+  },
+  {
+    "question": "Which fruit is used to make traditional guava paste?",
+    "options": ["Guava", "Mango", "Papaya", "Apple"],
+    "answer": 0
+  },
+  {
+    "question": "Coriander seeds are from which plant part?",
+    "options": ["Seeds", "Leaves", "Roots", "Stems"],
+    "answer": 0
+  },
+  {
+    "question": "Cumin seeds are primarily used in which type of cuisine?",
+    "options": ["Indian", "Italian", "French", "Japanese"],
+    "answer": 0
+  },
+  {
+    "question": "Which oil is obtained from the seeds of the mustard plant?",
+    "options": ["Mustard Oil", "Sunflower Oil", "Olive Oil", "Sesame Oil"],
+    "answer": 0
+  },
+  {
+    "question": "Which fruit is used to make tamarind paste?",
+    "options": ["Tamarind", "Mango", "Guava", "Lychee"],
+    "answer": 0
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the full form of RAM?",
+    "options": ["Read Access Memory", "Random Access Memory", "Read and Modify", "Rapid Access Memory"],
+    "answer": 1
+  },
+  {
+    "question": "Who is the founder of Facebook?",
+    "options": ["Bill Gates", "Elon Musk", "Steve Jobs", "Mark Zuckerberg"],
+    "answer": 3
+  },
+  {
+    "question": "Which programming language is known as the backbone of web development?",
+    "options": ["C++", "JavaScript", "Python", "Java"],
+    "answer": 1
+  },
+  {
+    "question": "What is the main function of a GPU?",
+    "options": ["Control Processing", "Graphics Processing", "Data Storage", "Power Management"],
+    "answer": 1
+  },
+  {
+    "question": "What does IoT stand for?",
+    "options": ["Internet on Time", "Internet of Things", "Information of Tech", "Internal of Technology"],
+    "answer": 1
+  },
+  {
+    "question": "Which company launched the first commercial web browser?",
+    "options": ["Microsoft", "Apple", "Netscape", "Google"],
+    "answer": 2
+  },
+  {
+    "question": "Which device converts digital signals into analog signals?",
+    "options": ["Router", "Modem", "Hub", "Switch"],
+    "answer": 1
+  },
+  {
+    "question": "What is cloud computing?",
+    "options": ["Transferring files via USB", "Running programs offline", "Storing and accessing data over the internet", "Storing data on a hard drive"],
+    "answer": 2
+  },
+  {
+    "question": "Which company developed the first personal computer?",
+    "options": ["Apple", "Microsoft", "HP", "IBM"],
+    "answer": 3
+  },
+  {
+    "question": "What is the main function of an operating system?",
+    "options": ["Provide antivirus protection", "Connect to the internet", "Manage hardware and software resources", "Store files"],
+    "answer": 2
+  },
+  {
+    "question": "Which programming language is primarily used for Android apps?",
+    "options": ["Python", "Swift", "Java", "C#"],
+    "answer": 2
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["HyperText Transfer Protocol", "HyperText Transmission Process", "Hyperlink Transfer Protocol", "HighText Transfer Protocol"],
+    "answer": 0
+  },
+  {
+    "question": "Which storage device is faster: SSD or HDD?",
+    "options": ["Depends on file type", "SSD", "Both same", "HDD"],
+    "answer": 1
+  },
+  {
+    "question": "Which technology allows wireless internet connectivity?",
+    "options": ["Bluetooth", "Wi-Fi", "Infrared", "Ethernet"],
+    "answer": 1
+  },
+  {
+    "question": "Which company developed the first microprocessor?",
+    "options": ["Intel", "IBM", "Texas Instruments", "AMD"],
+    "answer": 0
+  }
+]

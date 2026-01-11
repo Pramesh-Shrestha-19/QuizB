@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which ancient civilization invented the wheel?",
+    "options": ["Sumerians", "Egyptians", "Indus Valley", "Chinese"],
+    "answer": 0
+  },
+  {
+    "question": "The Parthenon is a famous temple in which city?",
+    "options": ["Athens", "Rome", "Cairo", "Babylon"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the Carthaginian general who crossed the Alps with elephants?",
+    "options": ["Hannibal", "Scipio", "Cato", "Pyrrhus"],
+    "answer": 0
+  },
+  {
+    "question": "Which civilization created the first known democracy?",
+    "options": ["Rome", "Greece", "Persia", "Egypt"],
+    "answer": 1
+  },
+  {
+    "question": "The Rosetta Stone helped decipher which ancient writing system?",
+    "options": ["Cuneiform", "Hieroglyphics", "Latin", "Greek"],
+    "answer": 1
+  },
+  {
+    "question": "Which pharaoh was a boy and ruled Egypt for only 9 years?",
+    "options": ["Tutankhamun", "Ramses II", "Akhenaten", "Khufu"],
+    "answer": 0
+  },
+  {
+    "question": "Which ancient civilization built the Hanging Gardens?",
+    "options": ["Babylon", "Assyria", "Egypt", "Persia"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the founder of the Maurya Empire in India?",
+    "options": ["Ashoka", "Chandragupta Maurya", "Akbar", "Harsha"],
+    "answer": 1
+  },
+  {
+    "question": "Which Greek city-state was known for its military focus?",
+    "options": ["Athens", "Sparta", "Corinth", "Delphi"],
+    "answer": 1
+  },
+  {
+    "question": "Which Roman general defeated Pompey in a civil war?",
+    "options": ["Julius Caesar", "Augustus", "Marc Antony", "Cicero"],
+    "answer": 0
+  },
+  {
+    "question": "The Great Sphinx is located near which Egyptian landmark?",
+    "options": ["Luxor Temple", "Pyramids of Giza", "Valley of the Kings", "Karnak"],
+    "answer": 1
+  },
+  {
+    "question": "Which empire was known for its road system including the Appian Way?",
+    "options": ["Greek Empire", "Persian Empire", "Roman Empire", "Egyptian Empire"],
+    "answer": 2
+  },
+  {
+    "question": "Which king of Macedonia conquered Persia?",
+    "options": ["Alexander the Great", "Philip II", "Darius I", "Hannibal"],
+    "answer": 0
+  },
+  {
+    "question": "Which ancient civilization practiced mummification?",
+    "options": ["Egyptians", "Romans", "Greeks", "Persians"],
+    "answer": 0
+  },
+  {
+    "question": "Which city was the capital of the Byzantine Empire?",
+    "options": ["Rome", "Constantinople", "Athens", "Alexandria"],
+    "answer": 1
+  }
+]

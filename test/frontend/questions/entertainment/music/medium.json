@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which composer became deaf later in life?",
+    "options": ["Mozart", "Beethoven", "Bach", "Chopin"],
+    "answer": 1
+  },
+  {
+    "question": "Which band released 'Dark Side of the Moon'?",
+    "options": ["Pink Floyd", "Queen", "Genesis", "U2"],
+    "answer": 0
+  },
+  {
+    "question": "What is the highest female singing voice?",
+    "options": ["Alto", "Soprano", "Tenor", "Mezzo-Soprano"],
+    "answer": 1
+  },
+  {
+    "question": "Which singer's real name is Stefani Joanne Angelina Germanotta?",
+    "options": ["Madonna", "Lady Gaga", "Katy Perry", "Rihanna"],
+    "answer": 1
+  },
+  {
+    "question": "Who is known as the 'King of Rock and Roll'?",
+    "options": ["Elvis Presley", "Chuck Berry", "Buddy Holly", "Little Richard"],
+    "answer": 0
+  },
+  {
+    "question": "Which music festival is held annually in Indio, California?",
+    "options": ["Coachella", "Lollapalooza", "Glastonbury", "Tomorrowland"],
+    "answer": 0
+  },
+  {
+    "question": "Which instrument is used in both jazz and classical music extensively?",
+    "options": ["Saxophone", "Electric Guitar", "Synthesizer", "Harmonica"],
+    "answer": 0
+  },
+  {
+    "question": "Which rapper is famous for the album 'The Marshall Mathers LP'?",
+    "options": ["Drake", "Eminem", "Kendrick Lamar", "Jay-Z"],
+    "answer": 1
+  },
+  {
+    "question": "Which singer released the hit song 'Bad Guy'?",
+    "options": ["Billie Eilish", "Ariana Grande", "Dua Lipa", "Selena Gomez"],
+    "answer": 0
+  },
+  {
+    "question": "What is the term for a group of singers performing together?",
+    "options": ["Orchestra", "Band", "Choir", "Ensemble"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the lead singer of U2?",
+    "options": ["Bono", "Sting", "Chris Martin", "Björk"],
+    "answer": 0
+  },
+  {
+    "question": "Which pop star sang 'Like a Prayer'?",
+    "options": ["Madonna", "Whitney Houston", "Janet Jackson", "Mariah Carey"],
+    "answer": 0
+  },
+  {
+    "question": "Which instrument has six strings and is played with fingers or a pick?",
+    "options": ["Guitar", "Violin", "Harp", "Cello"],
+    "answer": 0
+  },
+  {
+    "question": "Which composer wrote the 'Fifth Symphony'?",
+    "options": ["Beethoven", "Mozart", "Tchaikovsky", "Bach"],
+    "answer": 0
+  },
+  {
+    "question": "Which music style originated in New Orleans in the early 20th century?",
+    "options": ["Jazz", "Blues", "Rock", "Hip Hop"],
+    "answer": 0
+  }
+]

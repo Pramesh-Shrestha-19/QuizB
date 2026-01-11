@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who was the founder of the Zoroastrian religion?",
+    "options": ["Zoroaster", "Confucius", "Buddha", "Laozi"],
+    "answer": 0
+  },
+  {
+    "question": "Which Roman emperor divided the empire into Eastern and Western halves?",
+    "options": ["Diocletian", "Augustus", "Constantine", "Nero"],
+    "answer": 0
+  },
+  {
+    "question": "Which ancient civilization created the first known codified laws in Mesopotamia?",
+    "options": ["Babylonians", "Sumerians", "Hittites", "Assyrians"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the famous Carthaginian commander in the Second Punic War?",
+    "options": ["Hannibal", "Scipio Africanus", "Cato", "Pyrrhus"],
+    "answer": 0
+  },
+  {
+    "question": "Which dynasty built the Great Wall of China?",
+    "options": ["Qin", "Han", "Tang", "Ming"],
+    "answer": 0
+  },
+  {
+    "question": "The Epic of Gilgamesh belongs to which civilization?",
+    "options": ["Babylonians", "Sumerians", "Egyptians", "Assyrians"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the last Pharaoh of Ancient Egypt?",
+    "options": ["Cleopatra", "Tutankhamun", "Nefertiti", "Ramses III"],
+    "answer": 0
+  },
+  {
+    "question": "Which Greek philosopher taught Alexander the Great?",
+    "options": ["Plato", "Aristotle", "Socrates", "Pythagoras"],
+    "answer": 1
+  },
+  {
+    "question": "Which empire was ruled by Cyrus the Great?",
+    "options": ["Persian Empire", "Greek Empire", "Roman Empire", "Egyptian Empire"],
+    "answer": 0
+  },
+  {
+    "question": "Which ancient civilization developed the first known alphabet?",
+    "options": ["Phoenicians", "Sumerians", "Egyptians", "Greeks"],
+    "answer": 0
+  },
+  {
+    "question": "The city of Carthage was located in present-day which country?",
+    "options": ["Tunisia", "Italy", "Greece", "Egypt"],
+    "answer": 0
+  },
+  {
+    "question": "Which Mesopotamian king created the famous Hanging Gardens?",
+    "options": ["Nebuchadnezzar II", "Hammurabi", "Sargon", "Gilgamesh"],
+    "answer": 0
+  },
+  {
+    "question": "Which ancient empire was conquered by Alexander the Great?",
+    "options": ["Persian Empire", "Roman Empire", "Egyptian Empire", "Macedonian Empire"],
+    "answer": 0
+  },
+  {
+    "question": "Which Roman structure was used for gladiatorial contests?",
+    "options": ["Colosseum", "Pantheon", "Forum", "Circus Maximus"],
+    "answer": 0
+  },
+  {
+    "question": "Which civilization is credited with the invention of papyrus?",
+    "options": ["Egyptians", "Babylonians", "Sumerians", "Greeks"],
+    "answer": 0
+  },
+  {
+    "question": "Which Greek city-state fought in the Peloponnesian War?",
+    "options": ["Athens and Sparta", "Athens and Corinth", "Sparta and Thebes", "Corinth and Thebes"],
+    "answer": 0
+  },
+  {
+    "question": "Which ancient ruler of Macedonia created the largest empire in the world at the time?",
+    "options": ["Alexander the Great", "Philip II", "Darius III", "Pyrrhus"],
+    "answer": 0
+  },
+  {
+    "question": "Which civilization used ziggurats as temples?",
+    "options": ["Sumerians", "Babylonians", "Egyptians", "Assyrians"],
+    "answer": 0
+  },
+  {
+    "question": "Which ancient historian wrote 'The Histories' about the Greco-Persian Wars?",
+    "options": ["Herodotus", "Thucydides", "Plutarch", "Livy"],
+    "answer": 0
+  },
+  {
+    "question": "Which ancient Greek playwright wrote 'Oedipus Rex'?",
+    "options": ["Sophocles", "Euripides", "Aristophanes", "Aeschylus"],
+    "answer": 0
+  }
+]

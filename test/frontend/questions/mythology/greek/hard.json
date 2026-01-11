@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who opened Pandora's box?",
+    "options": ["Pandora", "Hera", "Athena", "Aphrodite"],
+    "answer": 0
+  },
+  {
+    "question": "Which hero descended into the Underworld to rescue his wife?",
+    "options": ["Orpheus", "Heracles", "Perseus", "Theseus"],
+    "answer": 0
+  },
+  {
+    "question": "Who was punished to hold up the sky?",
+    "options": ["Atlas", "Prometheus", "Sisyphus", "Cronus"],
+    "answer": 0
+  },
+  {
+    "question": "Which hero killed the Hydra?",
+    "options": ["Heracles", "Perseus", "Theseus", "Bellerophon"],
+    "answer": 0
+  },
+  {
+    "question": "Who tamed Pegasus?",
+    "options": ["Bellerophon", "Perseus", "Theseus", "Heracles"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the blind prophet in the Odyssey?",
+    "options": ["Tiresias", "Cassandra", "Calchas", "Polyphemus"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the mother of Achilles?",
+    "options": ["Thetis", "Hera", "Athena", "Demeter"],
+    "answer": 0
+  },
+  {
+    "question": "Who kidnapped Persephone?",
+    "options": ["Hades", "Zeus", "Ares", "Poseidon"],
+    "answer": 0
+  },
+  {
+    "question": "Which hero sailed on the Argo?",
+    "options": ["Jason", "Theseus", "Odysseus", "Perseus"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the Greek goddess of victory?",
+    "options": ["Nike", "Hebe", "Athena", "Artemis"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the god of sleep?",
+    "options": ["Hypnos", "Morpheus", "Thanatos", "Hermes"],
+    "answer": 0
+  },
+  {
+    "question": "Who punished Sisyphus?",
+    "options": ["Hades", "Zeus", "Poseidon", "Ares"],
+    "answer": 0
+  },
+  {
+    "question": "Which creature had snakes for hair?",
+    "options": ["Medusa", "Chimera", "Minotaur", "Cerberus"],
+    "answer": 0
+  },
+  {
+    "question": "Who was cursed to roll a boulder forever?",
+    "options": ["Sisyphus", "Atlas", "Prometheus", "Ixion"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the Greek god of dreams’ messenger?",
+    "options": ["Morpheus", "Hermes", "Hypnos", "Pan"],
+    "answer": 0
+  },
+  {
+    "question": "Which hero is known for the golden apples of the Hesperides?",
+    "options": ["Heracles", "Jason", "Perseus", "Theseus"],
+    "answer": 0
+  },
+  {
+    "question": "Who turned men into pigs in The Odyssey?",
+    "options": ["Circe", "Calypso", "Athena", "Hera"],
+    "answer": 0
+  },
+  {
+    "question": "Which Titan gave fire to humans?",
+    "options": ["Prometheus", "Atlas", "Cronus", "Hyperion"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the Greek goddess of magic?",
+    "options": ["Hecate", "Circe", "Athena", "Demeter"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the mother of the Minotaur?",
+    "options": ["Pasiphae", "Ariadne", "Hera", "Medusa"],
+    "answer": 0
+  }
+]

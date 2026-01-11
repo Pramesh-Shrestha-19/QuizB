@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who wrote 'The Raven'?",
+    "options": ["Edgar Allan Poe", "Robert Frost", "Emily Dickinson", "William Wordsworth"],
+    "answer": 0
+  },
+  {
+    "question": "'Stopping by Woods on a Snowy Evening' was written by?",
+    "options": ["Robert Frost", "Walt Whitman", "T.S. Eliot", "John Keats"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'Because I could not stop for Death'?",
+    "options": ["Emily Dickinson", "Sylvia Plath", "Maya Angelou", "Elizabeth Barrett Browning"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Ode to a Nightingale'?",
+    "options": ["John Keats", "William Wordsworth", "Percy Bysshe Shelley", "Lord Byron"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'The Road Not Taken'?",
+    "options": ["Robert Frost", "Emily Dickinson", "Walt Whitman", "T.S. Eliot"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Do Not Go Gentle into That Good Night'?",
+    "options": ["Dylan Thomas", "W.H. Auden", "Seamus Heaney", "T.S. Eliot"],
+    "answer": 0
+  },
+  {
+    "question": "Which poet wrote 'I Wandered Lonely as a Cloud'?",
+    "options": ["William Wordsworth", "Samuel Taylor Coleridge", "John Keats", "Percy Bysshe Shelley"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'How Do I Love Thee?'",
+    "options": ["Elizabeth Barrett Browning", "Emily Dickinson", "Maya Angelou", "Robert Frost"],
+    "answer": 0
+  },
+  {
+    "question": "'Leaves of Grass' is written by which poet?",
+    "options": ["Walt Whitman", "Robert Frost", "Emily Dickinson", "T.S. Eliot"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Ozymandias'?",
+    "options": ["Percy Bysshe Shelley", "Lord Byron", "John Keats", "William Wordsworth"],
+    "answer": 0
+  }
+]

@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Choose your-Quiz</title>
+    <title>Choose your Quiz</title>
 
-    <!-- camp.css-->
+    <!-- categories.css-->
     <link rel="stylesheet" href="categories.css">
 
     <!-- Auth CSS -->
@@ -16,9 +16,27 @@
     <!-- Backdrop Blur -->
     <div id="blur-overlay"></div>
     
+    <!-- Quiz Selection Modal -->
+    <div id="quiz-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Choose Your Challenge</h2>
+                <span class="modal-close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div id="theme-container" class="theme-scroll-container">
+                    <!-- Themes will be dynamically inserted here -->
+                </div>
+                <button id="surprise-btn" class="surprise-button">
+                    🎲 Surprise Me! (Random Theme & Difficulty)
+                </button>
+            </div>
+        </div>
+    </div>
+    
     <!-- Header -->
     <header class="header">
-        <div class="logo">QuizB</div>
+        <a href="test.html" class="logo">QuizB</a>
         <div class="right-controls">
             <a class="login-btn" id="loginLink">Login</a>
             <div class="menu-icon" onclick="toggleSidebar()">☰</div>
@@ -41,40 +59,58 @@
         </section>
 
         <section id="sections">
-            <div class="section">
-                <p class="section-title">General Knowledge</p>
+            <div class="section" data-category="general">
+                <p class="section-title">📚 General Knowledge</p>
                 <p class="section-subtitle">Test your overall knowledge!</p>
-                <a href="quiz.html?cat=general"><button type="button" class="Play_button">Play now</button></a>
+                <button type="button" class="Play_button">Play now</button>
             </div>
 
-            <div class="section">
-                <p class="section-title">Science & Tech</p>
+            <div class="section" data-category="science">
+                <p class="section-title">🔬 Science & Tech</p>
                 <p class="section-subtitle">How much do you know about inventions and discoveries?</p>
-                <a href="quiz.html?cat=science"><button type="button" class="Play_button">Play now</button></a>
+                <button type="button" class="Play_button">Play now</button>
             </div>
 
-            <div class="section">
-                <p class="section-title">Sports Trivia</p>
+            <div class="section" data-category="sports">
+                <p class="section-title">⚽ Sports Trivia</p>
                 <p class="section-subtitle">From Messi to Mount Everest—test your sports IQ!</p>
-                <a href="quiz.html?cat=sports"><button type="button" class="Play_button">Play now</button></a>
+                <button type="button" class="Play_button">Play now</button>
             </div>
 
-            <div class="section">
-                <p class="section-title">Geography</p>
-                <p class="section-subtitle">Discover places, countries, and landmarks around the globe.!</p>
-                <a href="quiz.html?cat=geography"><button type="button" class="Play_button">Play now</button></a>
+            <div class="section" data-category="geography">
+                <p class="section-title">🌍 Geography</p>
+                <p class="section-subtitle">Discover places, countries, and landmarks around the globe!</p>
+                <button type="button" class="Play_button">Play now</button>
             </div>
 
-            <div class="section">
-                <p class="section-title">Entertainment</p>
+            <div class="section" data-category="entertainment">
+                <p class="section-title">🎬 Entertainment</p>
                 <p class="section-subtitle">From movies to music, dive into the world of pop culture.</p>
-                <a href="quiz.html?cat=entertainment"><button type="button" class="Play_button">Play now</button></a>
+                <button type="button" class="Play_button">Play now</button>
             </div>
 
-            <div class="section">
-                <p class="section-title">History & Politics</p>
+            <div class="section" data-category="history">
+                <p class="section-title">📜 History & Politics</p>
                 <p class="section-subtitle">Revisit key events, leaders, and moments that shaped our world.</p>
-                <a href="quiz.html?cat=history"><button type="button" class="Play_button">Play now</button></a>
+                <button type="button" class="Play_button">Play now</button>
+            </div>
+
+            <div class="section" data-category="food">
+                <p class="section-title">Food & Drink 🍕</p>
+                <p class="section-subtitle">Explore cuisines, ingredients, and culinary delights!</p>
+                <button type="button" class="Play_button">Play now</button>
+            </div>
+
+            <div class="section" data-category="art">
+                <p class="section-title">Art & Literature 📚</p>
+                <p class="section-subtitle">Dive into books, paintings, and creative masterpieces.</p>
+                <button type="button" class="Play_button">Play now</button>
+            </div>
+
+            <div class="section" data-category="mythology">
+                <p class="section-title">Mythology & Legends ⚡</p>
+                <p class="section-subtitle">Explore ancient myths, gods, and legendary tales.</p>
+                <button type="button" class="Play_button">Play now</button>
             </div>
         </section>
     </main>
@@ -90,6 +126,9 @@
 
     <!-- Auth JS -->
     <script src="auth.js"></script>
+
+    <!-- Modal JS -->
+    <script src="modal.js"></script>
 
     <!-- Sidebar JS -->
     <script>
@@ -109,8 +148,8 @@
         window.addEventListener('click', (e) => {
             // Check if click is outside sidebar and menu icon
             if (!sidebar.contains(e.target) && !e.target.classList.contains('menu-icon')) {
-                sidebar.classList.remove('open');   // Close sidebar
-                blur.classList.remove('active');    // Remove blur
+                sidebar.classList.remove('open');
+                blur.classList.remove('active');
             }
         });
     </script>

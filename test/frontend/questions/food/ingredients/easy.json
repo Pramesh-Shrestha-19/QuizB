@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Saffron is obtained from which part of the plant?",
+    "options": ["Stigma", "Leaves", "Roots", "Stem"],
+    "answer": 0
+  },
+  {
+    "question": "Vanilla comes from which plant part?",
+    "options": ["Pods", "Seeds", "Flowers", "Leaves"],
+    "answer": 0
+  },
+  {
+    "question": "Which nut is used to make marzipan?",
+    "options": ["Almond", "Cashew", "Walnut", "Pistachio"],
+    "answer": 0
+  },
+  {
+    "question": "Cocoa is obtained from which plant?",
+    "options": ["Cacao Tree", "Coffee Plant", "Vanilla Plant", "Coconut Palm"],
+    "answer": 0
+  },
+  {
+    "question": "Which fruit is used to make guacamole?",
+    "options": ["Avocado", "Tomato", "Mango", "Papaya"],
+    "answer": 0
+  },
+  {
+    "question": "Cinnamon is obtained from which part of the plant?",
+    "options": ["Bark", "Leaves", "Roots", "Flowers"],
+    "answer": 0
+  },
+  {
+    "question": "Black pepper comes from which plant part?",
+    "options": ["Berries", "Seeds", "Roots", "Leaves"],
+    "answer": 0
+  },
+  {
+    "question": "Nutmeg is obtained from which part of the tree?",
+    "options": ["Seed", "Bark", "Leaf", "Flower"],
+    "answer": 0
+  },
+  {
+    "question": "Cloves are obtained from which part of the tree?",
+    "options": ["Flower buds", "Leaves", "Bark", "Seeds"],
+    "answer": 0
+  },
+  {
+    "question": "Which plant is used to make wasabi?",
+    "options": ["Japanese Horseradish", "Ginger", "Garlic", "Mustard"],
+    "answer": 0
+  }
+]

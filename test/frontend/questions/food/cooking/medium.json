@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which cooking technique uses low heat and a sealed container to tenderize meat?",
+    "options": ["Braising", "Roasting", "Frying", "Steaming"],
+    "answer": 0
+  },
+  {
+    "question": "Which method cooks food by surrounding it with hot fat in a pan?",
+    "options": ["Searing", "Boiling", "Steaming", "Baking"],
+    "answer": 0
+  },
+  {
+    "question": "Which method cooks food slowly in liquid with a lid on the pan?",
+    "options": ["Stewing", "Grilling", "Roasting", "Boiling"],
+    "answer": 0
+  },
+  {
+    "question": "Blanching is usually done to which type of food?",
+    "options": ["Vegetables", "Meat", "Fish", "Dairy"],
+    "answer": 0
+  },
+  {
+    "question": "Confit is a method of preserving which type of food?",
+    "options": ["Meat", "Vegetables", "Fruits", "Seafood"],
+    "answer": 0
+  },
+  {
+    "question": "Poaching is often used to cook which of these foods?",
+    "options": ["Eggs", "Potatoes", "Chicken", "Bread"],
+    "answer": 0
+  },
+  {
+    "question": "Which method uses a vacuum-sealed bag and water bath at precise temperature?",
+    "options": ["Sous-vide", "Steaming", "Grilling", "Roasting"],
+    "answer": 0
+  },
+  {
+    "question": "Gratin is a dish that is finished using which cooking technique?",
+    "options": ["Broiling", "Boiling", "Frying", "Poaching"],
+    "answer": 0
+  },
+  {
+    "question": "Which method involves cooking food quickly in a wok over high heat?",
+    "options": ["Stir-frying", "Deep-frying", "Boiling", "Steaming"],
+    "answer": 0
+  },
+  {
+    "question": "Which technique involves beating ingredients to incorporate air?",
+    "options": ["Whisking", "Simmering", "Braising", "Blanching"],
+    "answer": 0
+  },
+  {
+    "question": "Deglazing is done to which part of the pan?",
+    "options": ["To remove browned bits after cooking", "To clean the pan", "To add flour", "To cool the pan"],
+    "answer": 0
+  },
+  {
+    "question": "Chiffonade is a technique used for which ingredient?",
+    "options": ["Leafy herbs", "Meat", "Root vegetables", "Fruits"],
+    "answer": 0
+  },
+  {
+    "question": "Which method cooks food directly over flames or hot coals?",
+    "options": ["Charbroiling", "Boiling", "Steaming", "Sautéing"],
+    "answer": 0
+  },
+  {
+    "question": "Which technique involves partially cooking vegetables and then shocking in ice water?",
+    "options": ["Blanching", "Steaming", "Boiling", "Searing"],
+    "answer": 0
+  },
+  {
+    "question": "Velouté is a type of which culinary preparation?",
+    "options": ["Sauce", "Soup", "Dessert", "Bread"],
+    "answer": 0
+  }
+]

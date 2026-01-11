@@ -1,0 +1,102 @@
+[
+  {
+    "question": "In Egyptian mythology, who is the god of chaos and desert storms?",
+    "options": ["Seth", "Ra", "Osiris", "Anubis"],
+    "answer": 0
+  },
+  {
+    "question": "In Hindu mythology, who is the god of death?",
+    "options": ["Yama", "Shiva", "Indra", "Vishnu"],
+    "answer": 0
+  },
+  {
+    "question": "In Greek mythology, who is the god of dreams?",
+    "options": ["Morpheus", "Hypnos", "Thanatos", "Hermes"],
+    "answer": 0
+  },
+  {
+    "question": "In Mesopotamian mythology, who killed Tiamat?",
+    "options": ["Marduk", "Enki", "Anu", "Ninurta"],
+    "answer": 0
+  },
+  {
+    "question": "In Norse mythology, who is the goddess of love and beauty?",
+    "options": ["Freyja", "Frigg", "Skadi", "Hel"],
+    "answer": 0
+  },
+  {
+    "question": "In Japanese mythology, who is the god of the sea and storms?",
+    "options": ["Ryujin", "Susanoo", "Izanagi", "Owatatsumi"],
+    "answer": 0
+  },
+  {
+    "question": "In Aztec mythology, who sacrificed himself to become the sun?",
+    "options": ["Huitzilopochtli", "Quetzalcoatl", "Tezcatlipoca", "Tlaloc"],
+    "answer": 0
+  },
+  {
+    "question": "In Celtic mythology, who is the god of the sea?",
+    "options": ["Lir", "Dagda", "Nuada", "Cernunnos"],
+    "answer": 0
+  },
+  {
+    "question": "In African mythology, who is the trickster and cultural hero?",
+    "options": ["Anansi", "Ogun", "Eshu", "Shango"],
+    "answer": 0
+  },
+  {
+    "question": "In Chinese mythology, who is the goddess of fertility and childbirth?",
+    "options": ["Nuwa", "Xi Wangmu", "Chang’e", "Guanyin"],
+    "answer": 0
+  },
+  {
+    "question": "In Greek mythology, who chained Prometheus to a rock?",
+    "options": ["Hephaestus", "Zeus", "Hermes", "Ares"],
+    "answer": 0
+  },
+  {
+    "question": "In Hindu mythology, who is the god of war?",
+    "options": ["Kartikeya", "Indra", "Shiva", "Vishnu"],
+    "answer": 0
+  },
+  {
+    "question": "In Egyptian mythology, who protects the dead with a jackal head?",
+    "options": ["Anubis", "Osiris", "Ra", "Horus"],
+    "answer": 0
+  },
+  {
+    "question": "In Norse mythology, who is the god of mischief?",
+    "options": ["Loki", "Odin", "Thor", "Tyr"],
+    "answer": 0
+  },
+  {
+    "question": "In Japanese mythology, who is the god of the wind?",
+    "options": ["Fujin", "Susanoo", "Raijin", "Owatatsumi"],
+    "answer": 0
+  },
+  {
+    "question": "In Aztec mythology, who is the feathered serpent god?",
+    "options": ["Quetzalcoatl", "Huitzilopochtli", "Tezcatlipoca", "Tlaloc"],
+    "answer": 0
+  },
+  {
+    "question": "In Chinese mythology, who slays the dragon of chaos?",
+    "options": ["Nezha", "Yu the Great", "Hou Yi", "Sun Wukong"],
+    "answer": 0
+  },
+  {
+    "question": "In African mythology, who is the god of iron and war?",
+    "options": ["Ogun", "Shango", "Anansi", "Eshu"],
+    "answer": 0
+  },
+  {
+    "question": "In Celtic mythology, who is the king of the Tuatha Dé Danann?",
+    "options": ["Dagda", "Nuada", "Lugh", "Cernunnos"],
+    "answer": 0
+  },
+  {
+    "question": "In Greek mythology, who is the mother of the hero Perseus?",
+    "options": ["Danaë", "Alcmene", "Leda", "Hippolyta"],
+    "answer": 0
+  }
+]

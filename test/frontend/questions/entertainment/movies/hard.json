@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which film won the first Academy Award for Best Picture?",
+    "options": ["Wings", "Gone with the Wind", "Casablanca", "Sunrise"],
+    "answer": 0
+  },
+  {
+    "question": "Who directed the movie 'Inception'?",
+    "options": ["Christopher Nolan", "Steven Spielberg", "James Cameron", "Ridley Scott"],
+    "answer": 0
+  },
+  {
+    "question": "Which movie features the character Travis Bickle?",
+    "options": ["Taxi Driver", "Scarface", "Heat", "The Godfather"],
+    "answer": 0
+  },
+  {
+    "question": "Which country produces the most films annually?",
+    "options": ["USA", "India", "China", "UK"],
+    "answer": 1
+  },
+  {
+    "question": "The quote 'Rosebud' is from which movie?",
+    "options": ["Citizen Kane", "Casablanca", "The Godfather", "Psycho"],
+    "answer": 0
+  },
+  {
+    "question": "Which actor played Joker in 'The Dark Knight'?",
+    "options": ["Joaquin Phoenix", "Heath Ledger", "Jared Leto", "Jack Nicholson"],
+    "answer": 1
+  },
+  {
+    "question": "What was the first feature-length animated film?",
+    "options": ["Snow White and the Seven Dwarfs", "Fantasia", "Pinocchio", "Bambi"],
+    "answer": 0
+  },
+  {
+    "question": "Which film festival awards the Palme d'Or?",
+    "options": ["Venice", "Berlin", "Cannes", "Toronto"],
+    "answer": 2
+  },
+  {
+    "question": "Who composed the music for most Studio Ghibli films?",
+    "options": ["Joe Hisaishi", "Hans Zimmer", "Ryuichi Sakamoto", "Yoko Kanno"],
+    "answer": 0
+  },
+  {
+    "question": "Which movie popularized the bullet-time effect?",
+    "options": ["The Matrix", "Terminator 2", "Blade Runner", "Inception"],
+    "answer": 0
+  },
+  {
+    "question": "Which actor has won the most Oscars?",
+    "options": ["Jack Nicholson", "Daniel Day-Lewis", "Katharine Hepburn", "Meryl Streep"],
+    "answer": 2
+  },
+  {
+    "question": "Which film is considered the first blockbuster?",
+    "options": ["Jaws", "Star Wars", "Rocky", "Alien"],
+    "answer": 0
+  },
+  {
+    "question": "Which movie is entirely shot in one take (appearing so)?",
+    "options": ["Birdman", "1917", "Rope", "All of these"],
+    "answer": 3
+  },
+  {
+    "question": "Which director is known for the 'Dollars Trilogy'?",
+    "options": ["Sergio Leone", "Akira Kurosawa", "Clint Eastwood", "Sam Peckinpah"],
+    "answer": 0
+  },
+  {
+    "question": "Which movie introduced sound to mainstream cinema?",
+    "options": ["The Jazz Singer", "Metropolis", "Modern Times", "Nosferatu"],
+    "answer": 0
+  },
+  {
+    "question": "Which film won Best Picture in 2020?",
+    "options": ["1917", "Parasite", "Joker", "Once Upon a Time in Hollywood"],
+    "answer": 1
+  },
+  {
+    "question": "Which actor portrayed Gandalf?",
+    "options": ["Ian McKellen", "Patrick Stewart", "Christopher Lee", "Anthony Hopkins"],
+    "answer": 0
+  },
+  {
+    "question": "Which movie is based on a Stephen King novel?",
+    "options": ["The Shawshank Redemption", "Fight Club", "Forrest Gump", "Gladiator"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is the film 'Parasite' from?",
+    "options": ["Japan", "China", "South Korea", "Thailand"],
+    "answer": 2
+  },
+  {
+    "question": "Which movie franchise features the Infinity Stones?",
+    "options": ["DC", "Star Wars", "Marvel", "Harry Potter"],
+    "answer": 2
+  }
+]

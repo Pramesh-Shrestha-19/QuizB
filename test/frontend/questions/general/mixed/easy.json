@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "answer": 0
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Pacific", "Atlantic", "Indian", "Arctic"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Shakespeare", "Dickens", "Hemingway", "Austen"],
+    "answer": 0
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": ["Brazil", "China", "UK", "Russia"],
+    "answer": 0
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Gd", "Go"],
+    "answer": 0
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Van Gogh"],
+    "answer": 0
+  },
+  {
+    "question": "Which gas do plants absorb for photosynthesis?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": 0
+  },
+  {
+    "question": "Which language has the most native speakers?",
+    "options": ["Mandarin Chinese", "English", "Spanish", "Hindi"],
+    "answer": 0
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "answer": 0
+  },
+  {
+    "question": "Which country is called the Land of the Rising Sun?",
+    "options": ["Japan", "China", "Thailand", "India"],
+    "answer": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who was the founder of modern Turkey after the fall of the Ottoman Empire?",
+    "options": ["Mustafa Kemal Atatürk", "Suleiman the Magnificent", "Enver Pasha", "Mehmed II"],
+    "answer": 0
+  },
+  {
+    "question": "Which British Prime Minister was known for appeasement policy before WWII?",
+    "options": ["Neville Chamberlain", "Winston Churchill", "Clement Attlee", "Anthony Eden"],
+    "answer": 0
+  },
+  {
+    "question": "Which event led to the USA entering World War II?",
+    "options": ["Pearl Harbor attack", "D-Day invasion", "Battle of Midway", "Hiroshima bombing"],
+    "answer": 0
+  },
+  {
+    "question": "The Bolsheviks were led by which revolutionary figure?",
+    "options": ["Vladimir Lenin", "Joseph Stalin", "Leon Trotsky", "Grigori Rasputin"],
+    "answer": 0
+  },
+  {
+    "question": "Which conference divided post-war Europe among Allies in 1945?",
+    "options": ["Yalta Conference", "Potsdam Conference", "Tehran Conference", "Versailles Conference"],
+    "answer": 0
+  },
+  {
+    "question": "The Opium Wars were fought between China and which country?",
+    "options": ["Britain", "France", "USA", "Japan"],
+    "answer": 0
+  },
+  {
+    "question": "Which US president led the country during the Great Depression and WWII?",
+    "options": ["Herbert Hoover", "Franklin D. Roosevelt", "Harry Truman", "Woodrow Wilson"],
+    "answer": 1
+  },
+  {
+    "question": "Which Chinese dynasty fell in 1912, ending over 2000 years of imperial rule?",
+    "options": ["Qing Dynasty", "Ming Dynasty", "Tang Dynasty", "Han Dynasty"],
+    "answer": 0
+  },
+  {
+    "question": "The Russian Civil War followed which major event?",
+    "options": ["Russian Revolution of 1917", "Napoleonic Wars", "Crimean War", "World War I"],
+    "answer": 0
+  },
+  {
+    "question": "Which treaty ended the Russo-Japanese War of 1904-1905?",
+    "options": ["Treaty of Portsmouth", "Treaty of Nanking", "Treaty of Versailles", "Treaty of Paris"],
+    "answer": 0
+  },
+  {
+    "question": "Which Asian country was partitioned in 1947 to form India and Pakistan?",
+    "options": ["India", "China", "Afghanistan", "Bangladesh"],
+    "answer": 0
+  },
+  {
+    "question": "Which US President gave the 'Four Freedoms' speech during WWII?",
+    "options": ["Franklin D. Roosevelt", "Harry Truman", "Dwight Eisenhower", "Theodore Roosevelt"],
+    "answer": 0
+  },
+  {
+    "question": "Which European country experienced a civil war from 1936 to 1939?",
+    "options": ["Spain", "Italy", "Germany", "Portugal"],
+    "answer": 0
+  },
+  {
+    "question": "Which war involved the conflict between North and South Korea?",
+    "options": ["Korean War", "Vietnam War", "World War II", "Cold War"],
+    "answer": 0
+  },
+  {
+    "question": "Which leader initiated perestroika and glasnost in the Soviet Union?",
+    "options": ["Mikhail Gorbachev", "Leonid Brezhnev", "Nikita Khrushchev", "Joseph Stalin"],
+    "answer": 0
+  },
+  {
+    "question": "The League of Nations was established after which conflict?",
+    "options": ["World War I", "World War II", "Franco-Prussian War", "Crimean War"],
+    "answer": 0
+  },
+  {
+    "question": "Which empire collapsed after the First World War, leading to multiple new nations?",
+    "options": ["Ottoman Empire", "Mongol Empire", "Persian Empire", "Roman Empire"],
+    "answer": 0
+  },
+  {
+    "question": "Which British colony was known as the 'Jewel in the Crown'?",
+    "options": ["India", "Australia", "Canada", "Egypt"],
+    "answer": 0
+  },
+  {
+    "question": "Who led the Chinese Nationalists during the Chinese Civil War?",
+    "options": ["Chiang Kai-shek", "Sun Yat-sen", "Mao Zedong", "Deng Xiaoping"],
+    "answer": 0
+  },
+  {
+    "question": "Which policy aimed to prevent the spread of communism after World War II?",
+    "options": ["Containment", "Appeasement", "Isolationism", "Marshall Plan"],
+    "answer": 0
+  }
+]

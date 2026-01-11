@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Who is the wolf destined to kill Odin during Ragnarok?",
+    "options": ["Fenrir", "Jormungandr", "Skoll", "Hati"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the world serpent that encircles Midgard?",
+    "options": ["Jormungandr", "Fenrir", "Nidhogg", "Skoll"],
+    "answer": 0
+  },
+  {
+    "question": "Who is Odin's eight-legged horse?",
+    "options": ["Sleipnir", "Hrimfaxi", "Gullfaxi", "Skinfaxi"],
+    "answer": 0
+  },
+  {
+    "question": "Which goddess is associated with hunting and winter?",
+    "options": ["Skadi", "Freya", "Frigg", "Hel"],
+    "answer": 0
+  },
+  {
+    "question": "Who are the children of Loki?",
+    "options": ["Fenrir, Jormungandr, Hel", "Balder, Thor, Tyr", "Njord, Freyr, Freya", "Odin, Vili, Ve"],
+    "answer": 0
+  },
+  {
+    "question": "Which hall does Odin reside in?",
+    "options": ["Valhalla", "Asgard", "Vanaheim", "Alfheim"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the god of law and justice in Norse mythology?",
+    "options": ["Tyr", "Odin", "Thor", "Loki"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the goddess associated with seiðr (magic) and prophecy?",
+    "options": ["Freya", "Frigg", "Skadi", "Hel"],
+    "answer": 0
+  },
+  {
+    "question": "Which wolf chases the sun across the sky?",
+    "options": ["Skoll", "Fenrir", "Hati", "Jormungandr"],
+    "answer": 0
+  },
+  {
+    "question": "Which wolf chases the moon across the sky?",
+    "options": ["Hati", "Skoll", "Fenrir", "Jormungandr"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the dragon that gnaws at Yggdrasil’s roots?",
+    "options": ["Nidhogg", "Fafnir", "Jormungandr", "Fenrir"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the god of oaths and heroic glory?",
+    "options": ["Tyr", "Odin", "Thor", "Loki"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the blind god that rules over Helheim?",
+    "options": ["Hel", "Hela", "Skadi", "Frigg"],
+    "answer": 0
+  },
+  {
+    "question": "Who are the Aesir gods?",
+    "options": ["Odin, Thor, Frigg, Tyr, Balder", "Njord, Freya, Freyr", "Loki, Fenrir, Hel", "Skadi, Sif, Idunn"],
+    "answer": 0
+  },
+  {
+    "question": "Who are the Vanir gods?",
+    "options": ["Njord, Freyr, Freya", "Odin, Thor, Tyr", "Loki, Hel, Fenrir", "Skadi, Frigg, Idunn"],
+    "answer": 0
+  }
+]

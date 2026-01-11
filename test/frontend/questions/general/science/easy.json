@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["100°C", "120°C", "90°C", "80°C"],
+    "answer": 0
+  },
+  {
+    "question": "What is the chemical symbol for oxygen?",
+    "options": ["Ox", "O2", "O", "Og"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Jupiter", "Mars", "Saturn", "Venus"],
+    "answer": 1
+  },
+  {
+    "question": "What is H2O commonly known as?",
+    "options": ["Oxygen", "Water", "Salt", "Hydrogen Peroxide"],
+    "answer": 1
+  },
+  {
+    "question": "Which gas do humans need to breathe to survive?",
+    "options": ["Oxygen", "Nitrogen", "Hydrogen", "Carbon Dioxide"],
+    "answer": 0
+  },
+  {
+    "question": "What force keeps us on the ground?",
+    "options": ["Friction", "Gravity", "Magnetism", "Electricity"],
+    "answer": 1
+  },
+  {
+    "question": "Which organ in the human body pumps blood?",
+    "options": ["Heart", "Liver", "Lungs", "Kidneys"],
+    "answer": 0
+  },
+  {
+    "question": "What do plants produce during photosynthesis?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Water"],
+    "answer": 0
+  },
+  {
+    "question": "Which part of the eye detects light?",
+    "options": ["Retina", "Cornea", "Pupil", "Iris"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Mercury", "Mars", "Earth"],
+    "answer": 1
+  }
+]
