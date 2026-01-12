@@ -111,17 +111,8 @@ document.querySelectorAll('.section').forEach(section => {
 // Close modal
 modalClose.addEventListener('click', closeModal);
 
-// Easter egg - click on asterisk in title
-modalTitle.addEventListener('click', (e) => {
-    const rect = modalTitle.getBoundingClientRect();
-    const clickX = e.clientX - rect.left;
-    const titleWidth = rect.width;
-    
-    // Check if click is near the asterisk (right side)
-    if (clickX > titleWidth - 30) {
-        unlockDevilish();
-    }
-});
+// Easter egg - click on theme icon/emoji to unlock Devilish mode
+// This will be added dynamically when themes are rendered
 
 // Surprise Me button
 surpriseBtn.addEventListener('click', () => {
@@ -144,8 +135,8 @@ function openModal(category) {
         return;
     }
     
-    // Update modal title
-    modalTitle.textContent = `Choose Your ${config.name} Challenge`;
+    // Update modal title (removed asterisk since logo is now the easter egg)
+    modalTitle.innerHTML = `Choose Your ${config.name} Challenge`;
     
     // Close sidebar if open
     const sidebar = document.getElementById('sidebar');
@@ -179,6 +170,14 @@ function renderThemes(themes) {
         const icon = document.createElement('div');
         icon.className = 'theme-icon';
         icon.textContent = theme.icon;
+        icon.style.cursor = 'pointer';
+        icon.title = 'Click me for a surprise! 😈';
+        
+        // Easter egg - click icon to unlock Devilish mode
+        icon.addEventListener('click', (e) => {
+            e.stopPropagation();
+            unlockDevilish();
+        });
         
         const info = document.createElement('div');
         info.className = 'theme-info';

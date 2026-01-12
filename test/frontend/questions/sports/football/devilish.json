@@ -95,7 +95,6 @@
   {"question": "What year was the golden goal rule abolished?", "options": ["2002", "2004", "2006", "2008"], "answer": 1},
   {"question": "Who won the first ever Premier League Golden Boot?", "options": ["Alan Shearer", "Teddy Sheringham", "Ian Wright", "Les Ferdinand"], "answer": 1},
   {"question": "Which player has the most international caps?", "options": ["Cristiano Ronaldo", "Soh Chin Ann", "Bader Al-Mutawa", "Ahmed Hassan"], "answer": 2},
-  {"question": "What is Atlético Madrid's home stadium?", "options": ["Vicente Calderón", "Wanda Metropolitano", "Santiago Bernabéu", "Cívitas Metropolitano"], "answer": 3},
   {"question": "Who scored the goal that knocked Brazil out of the 2014 World Cup?", "options": ["Thomas Müller", "Toni Kroos", "André Schürrle", "Miroslav Klose"], "answer": 0},
   {"question": "Which country has never won a major international tournament but came close?", "options": ["Netherlands", "Hungary", "Croatia", "All of the above"], "answer": 3},
   {"question": "What year was FIFA founded?", "options": ["1900", "1904", "1908", "1912"], "answer": 1},

@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - QuizB</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: #000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .contact-container {
+            display: flex;
+            max-width: 1100px;
+            width: 100%;
+            background: #111;
+            border-radius: 24px;
+            overflow: hidden;
+            border: 2px solid rgba(255, 215, 0, 0.3);
+            box-shadow: 0 0 40px rgba(255, 215, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .contact-container:hover {
+            border-color: #FFD700;
+            box-shadow: 0 0 60px rgba(255, 215, 0, 0.3);
+        }
+
+        .left-section {
+            flex: 1;
+            background: linear-gradient(135deg, rgba(255, 215, 0, 0.05) 0%, rgba(255, 215, 0, 0.15) 100%);
+            padding: 60px 50px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .tagline {
+            font-size: 14px;
+            color: #FFD700;
+            font-weight: 600;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+        }
+
+        .main-title {
+            font-size: 48px;
+            font-weight: 800;
+            color: #FFD700;
+            line-height: 1.1;
+            margin-bottom: 20px;
+            letter-spacing: -1px;
+        }
+
+        .subtitle {
+            font-size: 16px;
+            color: #edece9;
+            line-height: 1.7;
+            margin-bottom: 40px;
+        }
+
+        .contact-info {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .info-item {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .icon-wrapper {
+            width: 45px;
+            height: 45px;
+            background: #FFD700;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+
+        .info-item:hover .icon-wrapper {
+            transform: scale(1.1);
+            box-shadow: 0 5px 20px rgba(255, 215, 0, 0.4);
+        }
+
+        .icon-wrapper svg {
+            width: 20px;
+            height: 20px;
+            stroke: #000;
+            stroke-width: 2.5;
+            fill: none;
+        }
+
+        .info-text {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .info-label {
+            font-size: 12px;
+            color: #FFD700;
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+
+        .info-value {
+            font-size: 15px;
+            color: #edece9;
+            font-weight: 500;
+        }
+
+        .right-section {
+            flex: 1;
+            padding: 60px 50px;
+            background: #000;
+        }
+
+        .form-group {
+            margin-bottom: 25px;
+        }
+
+        .form-label {
+            display: block;
+            font-size: 14px;
+            color: #FFD700;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .form-input,
+        .form-textarea {
+            width: 100%;
+            padding: 14px 18px;
+            background: #111;
+            border: 2px solid rgba(255, 215, 0, 0.3);
+            border-radius: 12px;
+            color: #edece9;
+            font-family: 'Poppins', sans-serif;
+            font-size: 15px;
+            transition: all 0.3s ease;
+            outline: none;
+        }
+
+        .form-input::placeholder,
+        .form-textarea::placeholder {
+            color: #666;
+        }
+
+        .form-input:focus,
+        .form-textarea:focus {
+            border-color: #FFD700;
+            box-shadow: 0 0 20px rgba(255, 215, 0, 0.2);
+        }
+
+        .form-textarea {
+            resize: vertical;
+            min-height: 120px;
+        }
+
+        .submit-btn {
+            width: 100%;
+            padding: 16px;
+            background: #FFD700;
+            border: 2px solid #FFD700;
+            color: #000;
+            font-size: 16px;
+            font-weight: 700;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .submit-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(255, 215, 0, 0.4);
+        }
+
+        .submit-btn svg {
+            width: 18px;
+            height: 18px;
+            stroke: #000;
+            stroke-width: 2.5;
+            fill: none;
+        }
+
+        @media (max-width: 768px) {
+            .contact-container {
+                flex-direction: column;
+            }
+
+            .left-section,
+            .right-section {
+                padding: 40px 30px;
+            }
+
+            .main-title {
+                font-size: 36px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="contact-container">
+        <div class="left-section">
+            <div class="tagline">WE'RE HERE TO HELP YOU</div>
+            <h1 class="main-title">Discuss Your Chemical Solution Needs</h1>
+            <p class="subtitle">Are you looking for top-quality chemical solutions tailored to your needs? Reach out to us.</p>
+            
+            <div class="contact-info">
+                <div class="info-item">
+                    <div class="icon-wrapper">
+                        <svg viewBox="0 0 24 24">
+                            <path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+                        </svg>
+                    </div>
+                    <div class="info-text">
+                        <span class="info-label">E-mail</span>
+                        <span class="info-value">solutions***@gmail.com</span>
+                    </div>
+                </div>
+                
+                <div class="info-item">
+                    <div class="icon-wrapper">
+                        <svg viewBox="0 0 24 24">
+                            <path d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+                        </svg>
+                    </div>
+                    <div class="info-text">
+                        <span class="info-label">Phone number</span>
+                        <span class="info-value">+123 - 456 - 7890</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="right-section">
+            <form id="contactForm">
+                <div class="form-group">
+                    <label class="form-label" for="name">Name</label>
+                    <input type="text" id="name" class="form-input" placeholder="Your Name" required>
+                </div>
+                
+                <div class="form-group">
+                    <label class="form-label" for="email">Email</label>
+                    <input type="email" id="email" class="form-input" placeholder="your.email@example.com" required>
+                </div>
+                
+                <div class="form-group">
+                    <label class="form-label" for="message">Message</label>
+                    <textarea id="message" class="form-textarea" placeholder="Tell us about your chemical solution needs..." required></textarea>
+                </div>
+                
+                <button type="submit" class="submit-btn">
+                    <span>Get a Solution</span>
+                    <svg viewBox="0 0 24 24">
+                        <path d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z"/>
+                    </svg>
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const message = document.getElementById('message').value;
+            
+            console.log('Form submitted:', { name, email, message });
+            
+            alert('Thank you for reaching out! We will get back to you soon.');
+            
+            this.reset();
+        });
+    </script>
+</body>
+</html>
